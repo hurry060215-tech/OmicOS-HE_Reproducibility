@@ -1,0 +1,7 @@
+domain_label,marker_proxy_group,context_file,crop_file,display_marker_label
+D0,stromal_ecm,D0_stromal_ecm_context_redbox.png,01_D0_stromal_ecm.png,Stromal_ecm
+D1,hypoxia_stress,D1_hypoxia_stress_context_redbox.png,02_D1_hypoxia_stress.png,Hypoxia_stress
+D2,stromal_immune,D2_stromal_immune_context_redbox.png,03_D2_stromal_ecm.png,Hypoxia_immune
+D3,stromal_ecm,D3_stromal_ecm_context_redbox.png,04_D3_stromal_ecm.png,Stromal_ecm
+D4,stromal_ecm,D4_stromal_ecm_context_redbox.png,05_D4_stromal_ecm.png,Stromal_ecm
+D5,epithelial_tumor,D5_epithelial_tumor_context_redbox.png,06_D5_epithelial_tumor.png,Epithelial_tumor

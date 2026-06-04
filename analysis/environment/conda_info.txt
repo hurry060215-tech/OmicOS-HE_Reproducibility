@@ -1,0 +1,37 @@
+
+     active environment : base
+    active env location : /opt/miniforge
+            shell level : 1
+       user config file : /home/hulei/.condarc
+ populated config files : /opt/miniforge/.condarc
+                          /home/hulei/.condarc
+          conda version : 26.5.0
+    conda-build version : not installed
+         python version : 3.10.14.final.0
+                 solver : libmamba (default)
+       virtual packages : __archspec=1=zen4
+                          __conda=26.5.0=0
+                          __cuda=13.2=0
+                          __glibc=2.35=0
+                          __linux=6.8.0=0
+                          __unix=0=0
+       base environment : /opt/miniforge  (writable)
+      conda av data dir : /opt/miniforge/etc/conda
+  conda av metadata url : None
+           channel URLs : https://mirrors.bfsu.edu.cn/anaconda/cloud/conda-forge/linux-64
+                          https://mirrors.bfsu.edu.cn/anaconda/cloud/conda-forge/noarch
+                          https://mirrors.bfsu.edu.cn/anaconda/pkgs/main/linux-64
+                          https://mirrors.bfsu.edu.cn/anaconda/pkgs/main/noarch
+                          https://conda.anaconda.org/conda-forge/linux-64
+                          https://conda.anaconda.org/conda-forge/noarch
+          package cache : /opt/miniforge/pkgs
+                          /home/hulei/.conda/pkgs
+       envs directories : /opt/miniforge/envs
+                          /home/hulei/.conda/envs
+    temporary directory : /tmp
+               platform : linux-64
+             user-agent : conda/26.5.0 requests/2.31.0 CPython/3.10.14 Linux/6.8.0-100-generic ubuntu/22.04.3 glibc/2.35 solver/libmamba conda-libmamba-solver/26.4.2 libmambapy/2.5.0
+                UID:GID : 1013:1013
+             netrc file : /home/hulei/.netrc
+           offline mode : False
+

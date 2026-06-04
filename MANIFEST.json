@@ -1,0 +1,127 @@
+{
+  "description": "Minimal plotting-level reproducible data bundle for OmicOS fig5 panels c-m.",
+  "notebook": "fig5_main.ipynb",
+  "combined_total_figure": false,
+  "panel_order": [
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m"
+  ],
+  "source_notebooks": [
+    "OmicOS_5/main_figure.ipynb",
+    "OmicOS_7/non_he_analysis.ipynb",
+    "OmicOS_7/tcga_luad_all_available_he_stromal_immune_km_styled.ipynb",
+    "OmicOS_8/plot_luad_matched_umap_spatial_regions.ipynb"
+  ],
+  "pretrained_models_required_for_plotting": false,
+  "pretrained_models_not_copied": [
+    "GigaPath/pytorch_model.bin",
+    "GigaPath/slide_encoder.pth",
+    "STPath-main/stfm.pth"
+  ],
+  "files": [
+    {
+      "path": "data/he_cancer_proxy_and_tumor_immune_tiles.csv",
+      "bytes": 1666853,
+      "sha256": "f1a96508917aafe794bf8dcea98983170795139aaea402c17debb4051e1ae02b"
+    },
+    {
+      "path": "data/luad_matched_c5_c6_program_enrichment.csv",
+      "bytes": 1613,
+      "sha256": "7816f06b20e7232abbca72e7ac084f2e3e07b2f8e89dbbfbe7874dcd4006ea80"
+    },
+    {
+      "path": "data/luad_matched_slide_thumbnails/TCGA-55-8620.png",
+      "bytes": 6188368,
+      "sha256": "b9b3f489d8b2f22f6b5928758180cd4b1717b55c409be6dd60c6ffc65f381a41"
+    },
+    {
+      "path": "data/luad_matched_slide_thumbnails/TCGA-55-A490.png",
+      "bytes": 6210403,
+      "sha256": "e8f0e17ec4772e493007beefa6e7a4cc44581f7ac2939297875de7cebc164564"
+    },
+    {
+      "path": "data/luad_matched_slide_thumbnails/TCGA-62-A46S.png",
+      "bytes": 7349358,
+      "sha256": "8bf0b71c97d67be0bfd532ed829166bc0892c760ddc5af1c4818cd828015febe"
+    },
+    {
+      "path": "data/luad_matched_slide_thumbnails/TCGA-78-7537.png",
+      "bytes": 7853250,
+      "sha256": "9a0e58ee3b22914c407283b0ddc922b4a5dd85e4809463dc7d3649ddf8c244c5"
+    },
+    {
+      "path": "data/luad_matched_tile_features_minimal.csv",
+      "bytes": 4505241,
+      "sha256": "e57c4f41ddbfea74aa89ebbecd2dbba26af509a97e53299195a0bf79f44e28ab"
+    },
+    {
+      "path": "data/representative_tile_sources.csv",
+      "bytes": 2698,
+      "sha256": "b8c1773a9027ba49c1398c0c83fb1bf8c5709931bf3ed51dbd0b95dcb8c3ecb6"
+    },
+    {
+      "path": "data/representative_tiles/01_D0_stromal_ecm.png",
+      "bytes": 193362,
+      "sha256": "57023f8fc6779fc5a5c16fd0dec604bfc6de3d084857733bb4ea021d1595ecf2"
+    },
+    {
+      "path": "data/representative_tiles/02_D1_hypoxia_stress.png",
+      "bytes": 207607,
+      "sha256": "1a74213b84d48b76dc8ba7f3cde42ae34f07ac612dd639b2c3663f5b859467fb"
+    },
+    {
+      "path": "data/representative_tiles/03_D2_stromal_ecm.png",
+      "bytes": 219958,
+      "sha256": "49a62509bf32df697ca87cba7e7ddcd231defe03f622666eb5e201ca8976d609"
+    },
+    {
+      "path": "data/representative_tiles/04_D3_stromal_ecm.png",
+      "bytes": 206922,
+      "sha256": "22a48ded1161205b052739083d6f1e0569e7312b9cb49b97546a719a17fa06d8"
+    },
+    {
+      "path": "data/representative_tiles/05_D4_stromal_ecm.png",
+      "bytes": 196181,
+      "sha256": "28957d7c6ed54844e32c1cede69d1cc2579053f2bc4c54d2d496427f82a4f499"
+    },
+    {
+      "path": "data/representative_tiles/06_D5_epithelial_tumor.png",
+      "bytes": 222464,
+      "sha256": "7ddbb470fb6d68eb297b9186653f782490cb1e173454584adb7eea2540776b32"
+    },
+    {
+      "path": "data/tcga_luad_he_stromal_immune_survival_dataset.csv",
+      "bytes": 225404,
+      "sha256": "f23ba91793b609e3147f05044db3e9c33411cbe7ee700fc60272eba95f7e3c58"
+    },
+    {
+      "path": "data/visium_hd_he_page_info.json",
+      "bytes": 80,
+      "sha256": "0b94503a30e2b0e4f2d18c3819d4b35974f84da02528d50f091810d8b503666f"
+    },
+    {
+      "path": "data/visium_hd_he_thumbnail_stride32.npy",
+      "bytes": 4848512,
+      "sha256": "201f46b96c8d7593facceab49ea39d7296d5f4db71c0534a9596f3e3d228d93e"
+    },
+    {
+      "path": "data/visium_hd_st_umap_minimal.csv",
+      "bytes": 1744753,
+      "sha256": "db88886d09192c8fc301ece59009503f6b972424a11350a86e97596e1f257870"
+    },
+    {
+      "path": "data/visium_hd_tile_features_minimal.csv",
+      "bytes": 2596859,
+      "sha256": "a0ada236583c5dbf832f426d7808b16ffcabccf3814447adea049fb96d903500"
+    }
+  ]
+}

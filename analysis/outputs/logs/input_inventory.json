@@ -1,0 +1,1100 @@
+{
+  "visium_hd_he_raw": [
+    {
+      "category": "visium_hd_he_raw",
+      "source_path": "/data/hulei/OmicOS/Data/Visium_HD_Human_Lung_Cancer_Fixed_Frozen_tissue_image.btf",
+      "relative_path": "inputs/he_raw/visium_hd/Visium_HD_Human_Lung_Cancer_Fixed_Frozen_tissue_image.btf",
+      "bytes": 4964863489,
+      "sha256": "dcaa8c2d59bec244c9e354eb079cf0736c0f7c6d2177a78606fe9373b3e067c1",
+      "preserve_mode": "exists"
+    },
+    {
+      "category": "visium_hd_he_raw",
+      "source_path": "/data/hulei/OmicOS/Data/Visium_HD_Human_Lung_Cancer_Fixed_Frozen_image.tif",
+      "relative_path": "inputs/he_raw/visium_hd/Visium_HD_Human_Lung_Cancer_Fixed_Frozen_image.tif",
+      "bytes": 25684500,
+      "sha256": "bcf9f7fc8f0ba437bd87efef5b8e8d1a8bde6e37a3bd9732572f2dba60f8fc4a",
+      "preserve_mode": "exists"
+    }
+  ],
+  "visium_hd_spatial_raw_data": [
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/GCST004744_buildGRCh37.tsv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/GCST004744_buildGRCh37.tsv",
+      "bytes": 733015577,
+      "sha256": "e2695858df0f6c40001d1a99471cabe7bc45a861f60531f93265e408498cf753",
+      "preserve_mode": "exists"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/Visium_HD_Human_Lung_Cancer_Fixed_Frozen_binned_outputs.tar.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/Visium_HD_Human_Lung_Cancer_Fixed_Frozen_binned_outputs.tar.gz",
+      "bytes": 8856987245,
+      "sha256": "addabe77112c330871504dfc96e842314ba28264f8f1dfc373cd4c393fc4d242",
+      "preserve_mode": "exists"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/Visium_HD_Human_Lung_Cancer_Fixed_Frozen_cloupe_008um.cloupe",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/Visium_HD_Human_Lung_Cancer_Fixed_Frozen_cloupe_008um.cloupe",
+      "bytes": 3633145697,
+      "sha256": "0b61b4e755531b49e574bb148165c51850140ef9b40c34ddb18aa8b94f825980",
+      "preserve_mode": "exists"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/Visium_HD_Human_Lung_Cancer_Fixed_Frozen_feature_slice.h5",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/Visium_HD_Human_Lung_Cancer_Fixed_Frozen_feature_slice.h5",
+      "bytes": 622577607,
+      "sha256": "05cd421feddd8664b13cfea0e7677b9e385028f7aef82e305cd50ef52a6dd08b",
+      "preserve_mode": "exists"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/Visium_HD_Human_Lung_Cancer_Fixed_Frozen_metrics_summary.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/Visium_HD_Human_Lung_Cancer_Fixed_Frozen_metrics_summary.csv",
+      "bytes": 1737,
+      "sha256": "098cce83d76f85a91fe9716d9fdd8bb4f4522d60fa5c3496802c7c264e438bff",
+      "preserve_mode": "exists"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/Visium_HD_Human_Lung_Cancer_Fixed_Frozen_molecule_info.h5",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/Visium_HD_Human_Lung_Cancer_Fixed_Frozen_molecule_info.h5",
+      "bytes": 1151381332,
+      "sha256": "9c76ee82a3011384b02fbdfe45f760c29c4bb796730da09de8f0a30c09802591",
+      "preserve_mode": "exists"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/Visium_HD_Human_Lung_Cancer_Fixed_Frozen_spatial.tar.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/Visium_HD_Human_Lung_Cancer_Fixed_Frozen_spatial.tar.gz",
+      "bytes": 63532745,
+      "sha256": "afeb5abc9a79ea7608be2ddb1f953216c10f55ce14fbb9d2a0570b3b6ec83277",
+      "preserve_mode": "exists"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/Visium_HD_Human_Lung_Cancer_Fixed_Frozen_web_summary.html",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/Visium_HD_Human_Lung_Cancer_Fixed_Frozen_web_summary.html",
+      "bytes": 9426160,
+      "sha256": "0c072e36bc39337fab0c908a7d0811ba81d0e065177a3a4e512e50073b4e1de6",
+      "preserve_mode": "exists"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_002um/filtered_feature_bc_matrix/barcodes.tsv.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_002um/filtered_feature_bc_matrix/barcodes.tsv.gz",
+      "bytes": 58151556,
+      "sha256": "7b686e4292b765965d51c9e0c6aa0ebea85bc82e77999f5e561911d1c3345c4e",
+      "preserve_mode": "exists"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_002um/filtered_feature_bc_matrix/features.tsv.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_002um/filtered_feature_bc_matrix/features.tsv.gz",
+      "bytes": 156435,
+      "sha256": "289b3cc0f57ca741c79c3c7c48a5db79c89930e71c53a87bbf1a517504c6bfe7",
+      "preserve_mode": "exists"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_002um/filtered_feature_bc_matrix/matrix.mtx.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_002um/filtered_feature_bc_matrix/matrix.mtx.gz",
+      "bytes": 666717958,
+      "sha256": "a4f3443a11ade722dc3a31a5421fc47072dc31457dec4e107a4cc113c65affa0",
+      "preserve_mode": "exists"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_002um/filtered_feature_bc_matrix.h5",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_002um/filtered_feature_bc_matrix.h5",
+      "bytes": 321550395,
+      "sha256": "37285a0959ac7cac86bccc6805d07f3376c7d66f4e252d4df4c5faefe954b806",
+      "preserve_mode": "exists"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_002um/raw_feature_bc_matrix/barcodes.tsv.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_002um/raw_feature_bc_matrix/barcodes.tsv.gz",
+      "bytes": 29594523,
+      "sha256": "6fc2a77219cc2cc53ff3503f0f7c8ab1e828d6a54cb65cf7a9f832f47a5d2a7f",
+      "preserve_mode": "exists"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_002um/raw_feature_bc_matrix/features.tsv.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_002um/raw_feature_bc_matrix/features.tsv.gz",
+      "bytes": 337906,
+      "sha256": "beb53b38120c9d9fc3cec49e40ec15ba17fb2e46864a8476e7264ee5807fa244",
+      "preserve_mode": "exists"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_002um/raw_feature_bc_matrix/matrix.mtx.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_002um/raw_feature_bc_matrix/matrix.mtx.gz",
+      "bytes": 703428352,
+      "sha256": "39e2d62b91a9056871f8889260337ff769e6f9a68d4bbdd6d37f1f28c0a907c2",
+      "preserve_mode": "exists"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_002um/raw_feature_bc_matrix.h5",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_002um/raw_feature_bc_matrix.h5",
+      "bytes": 334538035,
+      "sha256": "194d60fa29143a5edcdd10068f7610c1cf74d7f208db57253b6f69382fff844d",
+      "preserve_mode": "exists"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_002um/raw_probe_bc_matrix.h5",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_002um/raw_probe_bc_matrix.h5",
+      "bytes": 355686049,
+      "sha256": "dfa533646ac0d234aaf47ca1a1f5bd822abaf5d2db152ba5b4a613007a158315",
+      "preserve_mode": "exists"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_002um/spatial/aligned_fiducials.jpg",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_002um/spatial/aligned_fiducials.jpg",
+      "bytes": 3118086,
+      "sha256": "7ca6d87ba93142d5b0e85d5c3ecf275abe7c6539e7326008346d00973fa43a7c",
+      "preserve_mode": "hardlink_resolved_symlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_002um/spatial/aligned_tissue_image.jpg",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_002um/spatial/aligned_tissue_image.jpg",
+      "bytes": 1815454,
+      "sha256": "84c444aae8f96b9de1bdeb2c1b609211e0983aa057c34bf093eeaa4d297641c3",
+      "preserve_mode": "hardlink_resolved_symlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_002um/spatial/cytassist_image.tiff",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_002um/spatial/cytassist_image.tiff",
+      "bytes": 25684500,
+      "sha256": "bcf9f7fc8f0ba437bd87efef5b8e8d1a8bde6e37a3bd9732572f2dba60f8fc4a",
+      "preserve_mode": "hardlink_resolved_symlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_002um/spatial/detected_tissue_image.jpg",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_002um/spatial/detected_tissue_image.jpg",
+      "bytes": 919892,
+      "sha256": "67cadf3ecc07dc6557083bb6ef2d80ae696e8b6c96c8e07be7f70a24838e0297",
+      "preserve_mode": "hardlink_resolved_symlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_002um/spatial/scalefactors_json.json",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_002um/spatial/scalefactors_json.json",
+      "bytes": 296,
+      "sha256": "2854db7d5778c531f3e5f40b2ffb9acbcb9769792038af5c3fe432823e422097",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_002um/spatial/tissue_hires_image.png",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_002um/spatial/tissue_hires_image.png",
+      "bytes": 32228920,
+      "sha256": "348bc54197c7ed12fba7abe4d65cd3c2477b8d712335a2e944bd1afc9b2dcd08",
+      "preserve_mode": "hardlink_resolved_symlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_002um/spatial/tissue_lowres_image.png",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_002um/spatial/tissue_lowres_image.png",
+      "bytes": 311766,
+      "sha256": "da117678182766e56e86992d5694c61c1b6ce8ffebc1ec18582468f52f36ed20",
+      "preserve_mode": "hardlink_resolved_symlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_002um/spatial/tissue_positions.parquet",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_002um/spatial/tissue_positions.parquet",
+      "bytes": 168804646,
+      "sha256": "cdc8870fcabb0469e4a05779b3a5035700354168cd7c8ae8d6040963b49eaf47",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/clustering/gene_expression_graphclust/clusters.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/clustering/gene_expression_graphclust/clusters.csv",
+      "bytes": 14796256,
+      "sha256": "b0f80d28ce2e16543ad52c53c114327c1dafa5b2e3fd65e1e44ec21e2a3262b5",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/clustering/gene_expression_kmeans_10_clusters/clusters.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/clustering/gene_expression_kmeans_10_clusters/clusters.csv",
+      "bytes": 14807490,
+      "sha256": "40492d5371ebaad2da1c5430e45e20563de7380137bb0007d57413c4e23f56b3",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/clustering/gene_expression_kmeans_2_clusters/clusters.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/clustering/gene_expression_kmeans_2_clusters/clusters.csv",
+      "bytes": 14796256,
+      "sha256": "931607b286ae363fca0f24513ce530ea00fd93dea8bc76ad99194e761095a5d7",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/clustering/gene_expression_kmeans_3_clusters/clusters.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/clustering/gene_expression_kmeans_3_clusters/clusters.csv",
+      "bytes": 14796256,
+      "sha256": "3944425ecfaf96356ff41830442264dfd4ca892eac8c26783dea5075f13f5f7e",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/clustering/gene_expression_kmeans_4_clusters/clusters.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/clustering/gene_expression_kmeans_4_clusters/clusters.csv",
+      "bytes": 14796256,
+      "sha256": "e146e5e435f0d4fd26cbdbcfc0954aedb0cc896e14b7dab685de1d2e868f6640",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/clustering/gene_expression_kmeans_5_clusters/clusters.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/clustering/gene_expression_kmeans_5_clusters/clusters.csv",
+      "bytes": 14796256,
+      "sha256": "07af55cde9300cd163b8ab898f1cc089a14497726095ebfa543dffb154faca9e",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/clustering/gene_expression_kmeans_6_clusters/clusters.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/clustering/gene_expression_kmeans_6_clusters/clusters.csv",
+      "bytes": 14796256,
+      "sha256": "02521c031b6b9f723ec669f1f06f3c7c72983995711e47d18312ae60d1913180",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/clustering/gene_expression_kmeans_7_clusters/clusters.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/clustering/gene_expression_kmeans_7_clusters/clusters.csv",
+      "bytes": 14796256,
+      "sha256": "4c93031dee35e25c01fda088849ae2f46bf2a9d1f7a7487a951d1646d82f8299",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/clustering/gene_expression_kmeans_8_clusters/clusters.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/clustering/gene_expression_kmeans_8_clusters/clusters.csv",
+      "bytes": 14796256,
+      "sha256": "02caa5d15359ed1370be66462041a2bd848e3ae36da9de1fc580e9bce22ef635",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/clustering/gene_expression_kmeans_9_clusters/clusters.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/clustering/gene_expression_kmeans_9_clusters/clusters.csv",
+      "bytes": 14796256,
+      "sha256": "5c19ade7cc60d70d4061d2f359d77e45b6fd613ffd2e516f76b2be14ebdb1715",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/diffexp/gene_expression_graphclust/differential_expression.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/diffexp/gene_expression_graphclust/differential_expression.csv",
+      "bytes": 8747173,
+      "sha256": "e8a9785443426805bb873a6b21b8cf390146cc593e4d1abcb9804369a810c623",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/diffexp/gene_expression_kmeans_10_clusters/differential_expression.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/diffexp/gene_expression_kmeans_10_clusters/differential_expression.csv",
+      "bytes": 10832897,
+      "sha256": "8f6efa7c1ac7d8ecd3bb42169a63fe77bf106cd6515b640bc4a2da5c58dc6985",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/diffexp/gene_expression_kmeans_2_clusters/differential_expression.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/diffexp/gene_expression_kmeans_2_clusters/differential_expression.csv",
+      "bytes": 2829890,
+      "sha256": "9c8af628f284f87ebd4839c4482d8d015526cfa7d411632376a773ea053e1aa0",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/diffexp/gene_expression_kmeans_3_clusters/differential_expression.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/diffexp/gene_expression_kmeans_3_clusters/differential_expression.csv",
+      "bytes": 3943844,
+      "sha256": "dffbc947de5b88b37ab8ac6ce3ead657e723f89aee9e27baf11538f3137dcfcd",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/diffexp/gene_expression_kmeans_4_clusters/differential_expression.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/diffexp/gene_expression_kmeans_4_clusters/differential_expression.csv",
+      "bytes": 5042003,
+      "sha256": "15bacda6c9d7f558b47eb0d614a768124b0a8505bfbcb25ddfe86153d0250b32",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/diffexp/gene_expression_kmeans_5_clusters/differential_expression.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/diffexp/gene_expression_kmeans_5_clusters/differential_expression.csv",
+      "bytes": 6138258,
+      "sha256": "54e73e1e1031e427dac871a2649f954bdb30c0a42e283fe336ec0a5d56d5edb0",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/diffexp/gene_expression_kmeans_6_clusters/differential_expression.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/diffexp/gene_expression_kmeans_6_clusters/differential_expression.csv",
+      "bytes": 6935655,
+      "sha256": "c73b41c8bd6a946e004a40ccf4210309043bc25bc718926902e353f545184646",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/diffexp/gene_expression_kmeans_7_clusters/differential_expression.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/diffexp/gene_expression_kmeans_7_clusters/differential_expression.csv",
+      "bytes": 7995690,
+      "sha256": "15b2eb34c4e03977298bb3e30b267b77c856f9673147c4e7cb685cb6b3d48886",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/diffexp/gene_expression_kmeans_8_clusters/differential_expression.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/diffexp/gene_expression_kmeans_8_clusters/differential_expression.csv",
+      "bytes": 9059580,
+      "sha256": "efb8384410c2193c344da9364c617b9185ae4e7585029a5969682e3463a58d60",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/diffexp/gene_expression_kmeans_9_clusters/differential_expression.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/diffexp/gene_expression_kmeans_9_clusters/differential_expression.csv",
+      "bytes": 10133766,
+      "sha256": "a0b43e5000f21d8433579fcc2482ddfaefa91f9afdba3d48d27d1a591cfebe61",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/pca/gene_expression_10_components/components.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/pca/gene_expression_10_components/components.csv",
+      "bytes": 4258205,
+      "sha256": "13d235243335edf9a8cd3e813351120b8751f252c09b126345ddfc3defdde2cf",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/pca/gene_expression_10_components/dispersion.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/pca/gene_expression_10_components/dispersion.csv",
+      "bytes": 637125,
+      "sha256": "d5ee194ef9de40301cfa64eedcfcc548c610b13f289e9e36ed701ca88140ec38",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/pca/gene_expression_10_components/features_selected.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/pca/gene_expression_10_components/features_selected.csv",
+      "bytes": 384440,
+      "sha256": "90beffb2722126229685d8451f1cbdf5ea6b8459710e547e95adcec9f6cd91b1",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/pca/gene_expression_10_components/projection.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/pca/gene_expression_10_components/projection.csv",
+      "bytes": 132829056,
+      "sha256": "a7d6c73ef630a755d9b6ab6332fe1fddcfa985cdc2b1b30e0a0506e8e6ca2add",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/pca/gene_expression_10_components/variance.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/pca/gene_expression_10_components/variance.csv",
+      "bytes": 279,
+      "sha256": "ad50f9bc1daa07ddb884f57bca99e59ef7cd22609d7b76888b7867ed9834d547",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/analysis/umap/gene_expression_2_components/projection.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/analysis/umap/gene_expression_2_components/projection.csv",
+      "bytes": 37076083,
+      "sha256": "6482703ab2d38c5b3bc27e5ae4c464d001db916abcf8923510c3be9d2ea701fe",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/cloupe.cloupe",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/cloupe.cloupe",
+      "bytes": 3633145697,
+      "sha256": "0b61b4e755531b49e574bb148165c51850140ef9b40c34ddb18aa8b94f825980",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/filtered_feature_bc_matrix/barcodes.tsv.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/filtered_feature_bc_matrix/barcodes.tsv.gz",
+      "bytes": 3117714,
+      "sha256": "cf37c7d48b8717cb940be3cf1fc8a92d8db299d5aca99136dcbd89d15f681847",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/filtered_feature_bc_matrix/features.tsv.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/filtered_feature_bc_matrix/features.tsv.gz",
+      "bytes": 156435,
+      "sha256": "5bbab7e5227bd3e64dcfada011f8a0c439ffb1f1edd88e885cbbd4ae19295916",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/filtered_feature_bc_matrix/matrix.mtx.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/filtered_feature_bc_matrix/matrix.mtx.gz",
+      "bytes": 479187459,
+      "sha256": "ea8942407eb2fa74a8b8642f82e56b897bc064f02a37e008b19777dda2b46fe7",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/filtered_feature_bc_matrix.h5",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/filtered_feature_bc_matrix.h5",
+      "bytes": 182917376,
+      "sha256": "661b3b5e0de946ddd591a07e3e1f2efe5730b9d2c27b09b104cad965c5a843fd",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/raw_feature_bc_matrix/barcodes.tsv.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/raw_feature_bc_matrix/barcodes.tsv.gz",
+      "bytes": 1895577,
+      "sha256": "692a28fb0cade03b1aa5565001a65b598002ac692b45454f622f53bef07c33f2",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/raw_feature_bc_matrix/features.tsv.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/raw_feature_bc_matrix/features.tsv.gz",
+      "bytes": 337906,
+      "sha256": "fc3f5abe0647671f0fd24bef53daa6ba3e24ce5a6c94e19a442151d82d3cbdb7",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/raw_feature_bc_matrix/matrix.mtx.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/raw_feature_bc_matrix/matrix.mtx.gz",
+      "bytes": 510656935,
+      "sha256": "974f1b5669cce377463bf0d78b28f4ca54ade9ea3f2d2e5f4a27f87652aa3f1e",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/raw_feature_bc_matrix.h5",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/raw_feature_bc_matrix.h5",
+      "bytes": 217983121,
+      "sha256": "b25dbf8b0210b426d29887c7b18b5d3facc51f186c3b8b16836f101a3cf4edd4",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/spatial/aligned_fiducials.jpg",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/spatial/aligned_fiducials.jpg",
+      "bytes": 3118086,
+      "sha256": "7ca6d87ba93142d5b0e85d5c3ecf275abe7c6539e7326008346d00973fa43a7c",
+      "preserve_mode": "hardlink_resolved_symlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/spatial/aligned_tissue_image.jpg",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/spatial/aligned_tissue_image.jpg",
+      "bytes": 1815454,
+      "sha256": "84c444aae8f96b9de1bdeb2c1b609211e0983aa057c34bf093eeaa4d297641c3",
+      "preserve_mode": "hardlink_resolved_symlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/spatial/cytassist_image.tiff",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/spatial/cytassist_image.tiff",
+      "bytes": 25684500,
+      "sha256": "bcf9f7fc8f0ba437bd87efef5b8e8d1a8bde6e37a3bd9732572f2dba60f8fc4a",
+      "preserve_mode": "hardlink_resolved_symlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/spatial/detected_tissue_image.jpg",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/spatial/detected_tissue_image.jpg",
+      "bytes": 919892,
+      "sha256": "67cadf3ecc07dc6557083bb6ef2d80ae696e8b6c96c8e07be7f70a24838e0297",
+      "preserve_mode": "hardlink_resolved_symlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/spatial/scalefactors_json.json",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/spatial/scalefactors_json.json",
+      "bytes": 297,
+      "sha256": "957d981dbb8f15a3410a2cb90cdd8016496a73f3d8d82434347f541f6e0ff0d9",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/spatial/tissue_hires_image.png",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/spatial/tissue_hires_image.png",
+      "bytes": 32228920,
+      "sha256": "348bc54197c7ed12fba7abe4d65cd3c2477b8d712335a2e944bd1afc9b2dcd08",
+      "preserve_mode": "hardlink_resolved_symlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/spatial/tissue_lowres_image.png",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/spatial/tissue_lowres_image.png",
+      "bytes": 311766,
+      "sha256": "da117678182766e56e86992d5694c61c1b6ce8ffebc1ec18582468f52f36ed20",
+      "preserve_mode": "hardlink_resolved_symlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_008um/spatial/tissue_positions.parquet",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_008um/spatial/tissue_positions.parquet",
+      "bytes": 11228472,
+      "sha256": "dee32b81c599a87bb16ce0c729bfe3320c08101ac49f9dcde8ea9901049f326b",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/clustering/gene_expression_graphclust/clusters.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/clustering/gene_expression_graphclust/clusters.csv",
+      "bytes": 3714774,
+      "sha256": "f7ec718dcb74783fcbb00d1529bcb20dbf26eea9b92b733e95f6653c447d21c8",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/clustering/gene_expression_kmeans_10_clusters/clusters.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/clustering/gene_expression_kmeans_10_clusters/clusters.csv",
+      "bytes": 3709158,
+      "sha256": "15ac02046e364bfff37fc610663a6528b9b47108c0c96c23220d437f74d93dd0",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/clustering/gene_expression_kmeans_2_clusters/clusters.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/clustering/gene_expression_kmeans_2_clusters/clusters.csv",
+      "bytes": 3706312,
+      "sha256": "f7e3d9d201a06637197f02dc170ebd0754963dbc8ba4490d7bd6ba17e6a0a211",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/clustering/gene_expression_kmeans_3_clusters/clusters.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/clustering/gene_expression_kmeans_3_clusters/clusters.csv",
+      "bytes": 3706312,
+      "sha256": "cd0455e5ee5db3a2e490c4b6d52989069dd5dd6ce62dda404aaaa0a8f816bb22",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/clustering/gene_expression_kmeans_4_clusters/clusters.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/clustering/gene_expression_kmeans_4_clusters/clusters.csv",
+      "bytes": 3706312,
+      "sha256": "f2fe941db40bdf84e92735b69d6ebee043232d9296459feb6bc25d19a3f651cb",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/clustering/gene_expression_kmeans_5_clusters/clusters.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/clustering/gene_expression_kmeans_5_clusters/clusters.csv",
+      "bytes": 3706312,
+      "sha256": "2ac5187d1f8c6b1ec87fe91edac16701c8f6cc9db282d6ee4c0be941efadc44a",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/clustering/gene_expression_kmeans_6_clusters/clusters.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/clustering/gene_expression_kmeans_6_clusters/clusters.csv",
+      "bytes": 3706312,
+      "sha256": "8ea3d3ead0e4cebb0ec019990c4c94c9e36a4f6549b3c64b4228545a578d6f25",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/clustering/gene_expression_kmeans_7_clusters/clusters.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/clustering/gene_expression_kmeans_7_clusters/clusters.csv",
+      "bytes": 3706312,
+      "sha256": "4b960624f9664a537e80d8997daf9cf96d22b029528567ec170a9eedb75ee3ea",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/clustering/gene_expression_kmeans_8_clusters/clusters.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/clustering/gene_expression_kmeans_8_clusters/clusters.csv",
+      "bytes": 3706312,
+      "sha256": "74e76a7633c88d68698cdf937f261bd65e743482299d17d7bdb8221f8b13c3e1",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/clustering/gene_expression_kmeans_9_clusters/clusters.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/clustering/gene_expression_kmeans_9_clusters/clusters.csv",
+      "bytes": 3706312,
+      "sha256": "f35c47bc98b23264345ec3e903a6bfdebe3c820ae9c4e549af7da6b001af2335",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/diffexp/gene_expression_graphclust/differential_expression.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/diffexp/gene_expression_graphclust/differential_expression.csv",
+      "bytes": 14813819,
+      "sha256": "62e1235d5aaeb124737c2ca468630aafcbdfc1b1ee480d636758d20888c0494f",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/diffexp/gene_expression_kmeans_10_clusters/differential_expression.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/diffexp/gene_expression_kmeans_10_clusters/differential_expression.csv",
+      "bytes": 10665167,
+      "sha256": "cde8a7adf57d3a978d9f023226ba7b258eeeff1f14c2d7201eaf3906eef4b8e8",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/diffexp/gene_expression_kmeans_2_clusters/differential_expression.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/diffexp/gene_expression_kmeans_2_clusters/differential_expression.csv",
+      "bytes": 2777918,
+      "sha256": "e5be43a0ce12ada9aeb34c1104dd00144329909660306d66cf84ad5a652cbf79",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/diffexp/gene_expression_kmeans_3_clusters/differential_expression.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/diffexp/gene_expression_kmeans_3_clusters/differential_expression.csv",
+      "bytes": 3904567,
+      "sha256": "4f52654f242d68ee2985948516b6041ed5f9d44500b0991254243c6db202766f",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/diffexp/gene_expression_kmeans_4_clusters/differential_expression.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/diffexp/gene_expression_kmeans_4_clusters/differential_expression.csv",
+      "bytes": 4979279,
+      "sha256": "3ec8c6581f3ac7cf1f7b3a4112f03041c12d3610c57a791a225fb863620b15dc",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/diffexp/gene_expression_kmeans_5_clusters/differential_expression.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/diffexp/gene_expression_kmeans_5_clusters/differential_expression.csv",
+      "bytes": 6051555,
+      "sha256": "e0806127ef7597cba133e40c010f033605c4bfc07ae87ed73e0660bee876fc8d",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/diffexp/gene_expression_kmeans_6_clusters/differential_expression.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/diffexp/gene_expression_kmeans_6_clusters/differential_expression.csv",
+      "bytes": 7099531,
+      "sha256": "256a24331496a7fd4a6de805cd716a989d09ac9a669c0362c6bb887da2d28b91",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/diffexp/gene_expression_kmeans_7_clusters/differential_expression.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/diffexp/gene_expression_kmeans_7_clusters/differential_expression.csv",
+      "bytes": 8155191,
+      "sha256": "bd1cd76c93731f097b5a5bc0f7c27217beedf0b8e2d0a90eaf13dee8e6abd9f6",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/diffexp/gene_expression_kmeans_8_clusters/differential_expression.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/diffexp/gene_expression_kmeans_8_clusters/differential_expression.csv",
+      "bytes": 8924851,
+      "sha256": "8ccb71188d94a73d4121f499ec2156ab5b47d8e8f4c6e92a0385ba66837573e3",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/diffexp/gene_expression_kmeans_9_clusters/differential_expression.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/diffexp/gene_expression_kmeans_9_clusters/differential_expression.csv",
+      "bytes": 9939094,
+      "sha256": "b5023eb3fa588ce94821e07fafb4f9a3208ddbc53399c0e2ed57c477dd44edb7",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/pca/gene_expression_10_components/components.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/pca/gene_expression_10_components/components.csv",
+      "bytes": 4256821,
+      "sha256": "3606224889c6c51c375c5ae891cee83dd58c97c4112da4aa4ae72122514c5eb6",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/pca/gene_expression_10_components/dispersion.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/pca/gene_expression_10_components/dispersion.csv",
+      "bytes": 636978,
+      "sha256": "528b1f47bc366d7e84146d4abc1da69bdc5a886d30dbe36d995edf90b3e1d816",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/pca/gene_expression_10_components/features_selected.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/pca/gene_expression_10_components/features_selected.csv",
+      "bytes": 384440,
+      "sha256": "949238f3f210eee6fd7edc47a05bdb2de226a1337c97783295bcb05970e7066b",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/pca/gene_expression_10_components/projection.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/pca/gene_expression_10_components/projection.csv",
+      "bytes": 33100597,
+      "sha256": "636d97eae62a0b20ddc28ab0a5b09eb29432c9b164ec1ade666c0fd60b3dcd29",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/pca/gene_expression_10_components/variance.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/pca/gene_expression_10_components/variance.csv",
+      "bytes": 273,
+      "sha256": "e9f8615c32e9b1bdb73c70940225ee3ec941ab1339ac01f14e950f3cb8cc1b43",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/analysis/umap/gene_expression_2_components/projection.csv",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/analysis/umap/gene_expression_2_components/projection.csv",
+      "bytes": 9297770,
+      "sha256": "6a53a4ad5f1c491a9ea53cf0ee2cf1aa4dfee8efc34a3e287b6bc5f777ec7ec1",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/filtered_feature_bc_matrix/barcodes.tsv.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/filtered_feature_bc_matrix/barcodes.tsv.gz",
+      "bytes": 709713,
+      "sha256": "adeef06209a5f13a322a5357ec9c4b1b22676ddb7744f23ccc14ad0b1071f493",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/filtered_feature_bc_matrix/features.tsv.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/filtered_feature_bc_matrix/features.tsv.gz",
+      "bytes": 156435,
+      "sha256": "ffe10ed0e2149de2f301602bc50aaf855385ef8404b6b47b36d1ce0738e5a797",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/filtered_feature_bc_matrix/matrix.mtx.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/filtered_feature_bc_matrix/matrix.mtx.gz",
+      "bytes": 383910983,
+      "sha256": "cdc321c6e9a9f7aafe50d8f07768f938b200d2dcb75d0cf4889109293a187c4f",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/filtered_feature_bc_matrix.h5",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/filtered_feature_bc_matrix.h5",
+      "bytes": 143242894,
+      "sha256": "619931de350e09b72813cbc0ff964f4969c9b9a1c6ed70062c23d49f8fafd72a",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/raw_feature_bc_matrix/barcodes.tsv.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/raw_feature_bc_matrix/barcodes.tsv.gz",
+      "bytes": 462477,
+      "sha256": "04a9e32a369458a85aaa3528b81311096f24f91306ce404cbb66b2594354af94",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/raw_feature_bc_matrix/features.tsv.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/raw_feature_bc_matrix/features.tsv.gz",
+      "bytes": 337906,
+      "sha256": "9e0a65990ac20bdac350e639ea969a44256d4eea889c7af6334d5a351eef7f06",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/raw_feature_bc_matrix/matrix.mtx.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/raw_feature_bc_matrix/matrix.mtx.gz",
+      "bytes": 411784349,
+      "sha256": "226f8a702b5b4d71056b1e476609f89eadaf7e54de656fa34d3589cc3a06f654",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/raw_feature_bc_matrix.h5",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/raw_feature_bc_matrix.h5",
+      "bytes": 170765415,
+      "sha256": "ffd2033cecca06bf7835151e03783478ae6d3bc4ab53383b10936734b7ece121",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/spatial/aligned_fiducials.jpg",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/spatial/aligned_fiducials.jpg",
+      "bytes": 3118086,
+      "sha256": "7ca6d87ba93142d5b0e85d5c3ecf275abe7c6539e7326008346d00973fa43a7c",
+      "preserve_mode": "hardlink_resolved_symlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/spatial/aligned_tissue_image.jpg",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/spatial/aligned_tissue_image.jpg",
+      "bytes": 1815454,
+      "sha256": "84c444aae8f96b9de1bdeb2c1b609211e0983aa057c34bf093eeaa4d297641c3",
+      "preserve_mode": "hardlink_resolved_symlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/spatial/cytassist_image.tiff",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/spatial/cytassist_image.tiff",
+      "bytes": 25684500,
+      "sha256": "bcf9f7fc8f0ba437bd87efef5b8e8d1a8bde6e37a3bd9732572f2dba60f8fc4a",
+      "preserve_mode": "hardlink_resolved_symlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/spatial/detected_tissue_image.jpg",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/spatial/detected_tissue_image.jpg",
+      "bytes": 919892,
+      "sha256": "67cadf3ecc07dc6557083bb6ef2d80ae696e8b6c96c8e07be7f70a24838e0297",
+      "preserve_mode": "hardlink_resolved_symlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/spatial/scalefactors_json.json",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/spatial/scalefactors_json.json",
+      "bytes": 298,
+      "sha256": "dc233a3f659e7c505f0de642c5572c4deb6044d9ff7d9462d698138c1fd6f84c",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/spatial/tissue_hires_image.png",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/spatial/tissue_hires_image.png",
+      "bytes": 32228920,
+      "sha256": "348bc54197c7ed12fba7abe4d65cd3c2477b8d712335a2e944bd1afc9b2dcd08",
+      "preserve_mode": "hardlink_resolved_symlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/spatial/tissue_lowres_image.png",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/spatial/tissue_lowres_image.png",
+      "bytes": 311766,
+      "sha256": "da117678182766e56e86992d5694c61c1b6ce8ffebc1ec18582468f52f36ed20",
+      "preserve_mode": "hardlink_resolved_symlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/binned_outputs/square_016um/spatial/tissue_positions.parquet",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/binned_outputs/square_016um/spatial/tissue_positions.parquet",
+      "bytes": 3328200,
+      "sha256": "81acb5caa63f838ff25605d828ba9914b9d6e7cd85b3a103693ce5539e49322c",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/scRNA/GSE131907_Lung_Cancer_Feature_Summary.xlsx",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/scRNA/GSE131907_Lung_Cancer_Feature_Summary.xlsx",
+      "bytes": 19500,
+      "sha256": "27bec6d22d2658e5cccab2bdd463e7b4e4ba342f795bdeb07fdb3f68084ff8e4",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/scRNA/GSE131907_Lung_Cancer_cell_annotation.txt.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/scRNA/GSE131907_Lung_Cancer_cell_annotation.txt.gz",
+      "bytes": 1886187,
+      "sha256": "9d017652a31a489c1f62cacc436936d48a5b07bb554fc0dbe602da7474532205",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/scRNA/GSE131907_Lung_Cancer_normalized_log2TPM_matrix.txt.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/scRNA/GSE131907_Lung_Cancer_normalized_log2TPM_matrix.txt.gz",
+      "bytes": 3065932358,
+      "sha256": "c55d203a57026078cecc6ec26c808419ce545e49a09c75866741c65796673f63",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/scRNA/GSE131907_Lung_Cancer_raw_UMI_matrix.txt.gz",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/scRNA/GSE131907_Lung_Cancer_raw_UMI_matrix.txt.gz",
+      "bytes": 408736818,
+      "sha256": "b44a9c6635d0b59ec66b5eb6b40b40e7292c3a75aaf8afc4f933eb0550a26372",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/scRNA/merge.ipynb",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/scRNA/merge.ipynb",
+      "bytes": 14595,
+      "sha256": "2572afbfa48e5afc55faffdd02155b097307bf6872057c3213b988dacb2cfbef",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/scRNA/merge_to_h5ad.py",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/scRNA/merge_to_h5ad.py",
+      "bytes": 3378,
+      "sha256": "89aea8127448e5d07649d09099c5ef91e32dc89d9fa8334e76596e42dc149128",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/scRNA/scRNA_ref.h5ad",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/scRNA/scRNA_ref.h5ad",
+      "bytes": 768559095,
+      "sha256": "8d28fd6b838bce3f69788b392347a3249390302a31725f674f6ec2ad78e51660",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/scRNA_ref.h5ad",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/scRNA_ref.h5ad",
+      "bytes": 768559095,
+      "sha256": "8d28fd6b838bce3f69788b392347a3249390302a31725f674f6ec2ad78e51660",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/spatial/aligned_fiducials.jpg",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/spatial/aligned_fiducials.jpg",
+      "bytes": 3118086,
+      "sha256": "7ca6d87ba93142d5b0e85d5c3ecf275abe7c6539e7326008346d00973fa43a7c",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/spatial/aligned_tissue_image.jpg",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/spatial/aligned_tissue_image.jpg",
+      "bytes": 1815454,
+      "sha256": "84c444aae8f96b9de1bdeb2c1b609211e0983aa057c34bf093eeaa4d297641c3",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/spatial/cytassist_image.tiff",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/spatial/cytassist_image.tiff",
+      "bytes": 25684500,
+      "sha256": "bcf9f7fc8f0ba437bd87efef5b8e8d1a8bde6e37a3bd9732572f2dba60f8fc4a",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/spatial/detected_tissue_image.jpg",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/spatial/detected_tissue_image.jpg",
+      "bytes": 919892,
+      "sha256": "67cadf3ecc07dc6557083bb6ef2d80ae696e8b6c96c8e07be7f70a24838e0297",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/spatial/tissue_hires_image.png",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/spatial/tissue_hires_image.png",
+      "bytes": 32228920,
+      "sha256": "348bc54197c7ed12fba7abe4d65cd3c2477b8d712335a2e944bd1afc9b2dcd08",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "visium_hd_spatial_raw_data",
+      "source_path": "/data/hulei/OmicOS/Data/raw_data/spatial/tissue_lowres_image.png",
+      "relative_path": "inputs/tables_raw/visium_hd_spatial_raw_data/spatial/tissue_lowres_image.png",
+      "bytes": 311766,
+      "sha256": "da117678182766e56e86992d5694c61c1b6ce8ffebc1ec18582468f52f36ed20",
+      "preserve_mode": "hardlink"
+    }
+  ],
+  "luad_matched_4slides": [
+    {
+      "category": "luad_matched_4slides",
+      "source_path": "/data/hulei/OmicOS/OmicOS_7/inputs/tcga_luad_all/slides/TCGA-55-8620-01Z-00-DX1.6591EEC4-D696-4826-80BD-99BE1D99EBB8.svs",
+      "relative_path": "inputs/he_raw/luad_matched_4slides/TCGA-55-8620/TCGA-55-8620-01Z-00-DX1.6591EEC4-D696-4826-80BD-99BE1D99EBB8.svs",
+      "bytes": 223145406,
+      "sha256": "1875f60d86500b39e60fa489aa76c7794c1f42e42559525f98b72cf08a8acd97",
+      "preserve_mode": "hardlink",
+      "patient_id": "TCGA-55-8620",
+      "risk_group": "High risk"
+    },
+    {
+      "category": "luad_matched_4slides",
+      "source_path": "/data/hulei/OmicOS/OmicOS_7/inputs/tcga_luad_200/slides/TCGA-55-A490-01Z-00-DX1.07D77502-7216-4C23-9BB8-8DE99AECC920.svs",
+      "relative_path": "inputs/he_raw/luad_matched_4slides/TCGA-55-A490/TCGA-55-A490-01Z-00-DX1.07D77502-7216-4C23-9BB8-8DE99AECC920.svs",
+      "bytes": 555563464,
+      "sha256": "f3e541a79b941630aac5f4bc6cea4b4263235057de8546fb7e230889d5b94805",
+      "preserve_mode": "hardlink",
+      "patient_id": "TCGA-55-A490",
+      "risk_group": "High risk"
+    },
+    {
+      "category": "luad_matched_4slides",
+      "source_path": "/data/hulei/OmicOS/OmicOS_7/inputs/tcga_luad_all/slides/TCGA-62-A46S-01Z-00-DX1.7A8A6F38-76EA-4F43-BC03-1C42E6787E33.svs",
+      "relative_path": "inputs/he_raw/luad_matched_4slides/TCGA-62-A46S/TCGA-62-A46S-01Z-00-DX1.7A8A6F38-76EA-4F43-BC03-1C42E6787E33.svs",
+      "bytes": 1015539568,
+      "sha256": "b049fb0e18596215b8cac3c0ca0799d59ed55c2137a1a1f97336c33a8549d3bb",
+      "preserve_mode": "hardlink",
+      "patient_id": "TCGA-62-A46S",
+      "risk_group": "Low risk"
+    },
+    {
+      "category": "luad_matched_4slides",
+      "source_path": "/data/hulei/OmicOS/OmicOS_7/inputs/tcga_luad_200/slides/TCGA-78-7537-01Z-00-DX1.e5597e41-ebba-4d6f-8a1f-15cd81d8f026.svs",
+      "relative_path": "inputs/he_raw/luad_matched_4slides/TCGA-78-7537/TCGA-78-7537-01Z-00-DX1.e5597e41-ebba-4d6f-8a1f-15cd81d8f026.svs",
+      "bytes": 1199310041,
+      "sha256": "680bb60d917d2ede68786bb98bd3c1780d7d54d91b3bdeae3816f73813cc0dd1",
+      "preserve_mode": "hardlink",
+      "patient_id": "TCGA-78-7537",
+      "risk_group": "Low risk"
+    }
+  ],
+  "pretrained_models": [
+    {
+      "category": "pretrained_models",
+      "source_path": "/data/hulei/OmicOS/GigaPath/pytorch_model.bin",
+      "relative_path": "inputs/pretrained_models/GigaPath/pytorch_model.bin",
+      "bytes": 4540023137,
+      "sha256": "877947214318afa9e011754b74bbc3894a1f480a253afc7bc8045b8321dedd63",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "pretrained_models",
+      "source_path": "/data/hulei/OmicOS/GigaPath/slide_encoder.pth",
+      "relative_path": "inputs/pretrained_models/GigaPath/slide_encoder.pth",
+      "bytes": 345406235,
+      "sha256": "04194a4c393e6a713b144356791c0d2e27ca769ee50c6e111fd6abc1f17ed551",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "pretrained_models",
+      "source_path": "/data/hulei/OmicOS/STPath-main/stfm.pth",
+      "relative_path": "inputs/pretrained_models/STPath-main/stfm.pth",
+      "bytes": 196728540,
+      "sha256": "03d49af98103c22eaee064632a366ad6ba2c1e627adcf47e00b13746a3b348fe",
+      "preserve_mode": "hardlink"
+    }
+  ],
+  "model_support_files": [
+    {
+      "category": "model_support_files",
+      "source_path": "/data/hulei/OmicOS/STPath-main/stpath/hest_utils/pretrained_configs/gigapath.json",
+      "relative_path": "inputs/pretrained_models/STPath-main/pretrained_configs/gigapath.json",
+      "bytes": 186,
+      "sha256": "bc76ff5c3362cf99b4fb21b43410b655f652c242750b9f037c9a29c4c9587d95",
+      "preserve_mode": "hardlink"
+    },
+    {
+      "category": "model_support_files",
+      "source_path": "/data/hulei/OmicOS/STPath-main/stpath/hest_utils/pretrained_configs/gigapathslide.json",
+      "relative_path": "inputs/pretrained_models/STPath-main/pretrained_configs/gigapathslide.json",
+      "bytes": 196,
+      "sha256": "9cc21c1c5622e88dfa5b09c591353cffa21d1557737821b5ba4478b31f38a9f8",
+      "preserve_mode": "hardlink"
+    }
+  ]
+}

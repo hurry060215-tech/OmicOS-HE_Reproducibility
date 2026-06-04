@@ -1,0 +1,442 @@
+{
+  "name": "fig5_supplementary_1_reproduce",
+  "panel_a": "omitted by request",
+  "panel_mapping": {
+    "b": "SkillOpt score trace",
+    "c": "SkillOpt edit history and validation matrix",
+    "d": "H&E overview with representative D0-D5 source boxes",
+    "e": "Representative D0-D5 context and zoomed morphology regions",
+    "f": "IGNITE tumor annotation benchmark overlay",
+    "g": "IGNITE tile-level AUROC",
+    "h": "IGNITE tile-level confusion matrix"
+  },
+  "files": [
+    {
+      "path": "data/sfig1/he_roi_sources/analysis_final_plotting_data/representative_tile_sources.csv",
+      "size_bytes": 2698,
+      "sha256": "b8c1773a9027ba49c1398c0c83fb1bf8c5709931bf3ed51dbd0b95dcb8c3ecb6"
+    },
+    {
+      "path": "data/sfig1/he_roi_sources/analysis_final_plotting_data/representative_tiles/01_D0_stromal_ecm.png",
+      "size_bytes": 193362,
+      "sha256": "57023f8fc6779fc5a5c16fd0dec604bfc6de3d084857733bb4ea021d1595ecf2"
+    },
+    {
+      "path": "data/sfig1/he_roi_sources/analysis_final_plotting_data/representative_tiles/02_D1_hypoxia_stress.png",
+      "size_bytes": 207607,
+      "sha256": "1a74213b84d48b76dc8ba7f3cde42ae34f07ac612dd639b2c3663f5b859467fb"
+    },
+    {
+      "path": "data/sfig1/he_roi_sources/analysis_final_plotting_data/representative_tiles/03_D2_stromal_ecm.png",
+      "size_bytes": 219958,
+      "sha256": "49a62509bf32df697ca87cba7e7ddcd231defe03f622666eb5e201ca8976d609"
+    },
+    {
+      "path": "data/sfig1/he_roi_sources/analysis_final_plotting_data/representative_tiles/04_D3_stromal_ecm.png",
+      "size_bytes": 206922,
+      "sha256": "22a48ded1161205b052739083d6f1e0569e7312b9cb49b97546a719a17fa06d8"
+    },
+    {
+      "path": "data/sfig1/he_roi_sources/analysis_final_plotting_data/representative_tiles/05_D4_stromal_ecm.png",
+      "size_bytes": 196181,
+      "sha256": "28957d7c6ed54844e32c1cede69d1cc2579053f2bc4c54d2d496427f82a4f499"
+    },
+    {
+      "path": "data/sfig1/he_roi_sources/analysis_final_plotting_data/representative_tiles/06_D5_epithelial_tumor.png",
+      "size_bytes": 222464,
+      "sha256": "7ddbb470fb6d68eb297b9186653f782490cb1e173454584adb7eea2540776b32"
+    },
+    {
+      "path": "data/sfig1/he_roi_sources/analysis_final_plotting_data/visium_hd_he_page_info.json",
+      "size_bytes": 80,
+      "sha256": "0b94503a30e2b0e4f2d18c3819d4b35974f84da02528d50f091810d8b503666f"
+    },
+    {
+      "path": "data/sfig1/he_roi_sources/analysis_final_plotting_data/visium_hd_he_thumbnail_stride32.npy",
+      "size_bytes": 4848512,
+      "sha256": "201f46b96c8d7593facceab49ea39d7296d5f4db71c0534a9596f3e3d228d93e"
+    },
+    {
+      "path": "data/sfig1/he_roi_sources/analysis_final_plotting_data/visium_hd_tile_features_minimal.csv",
+      "size_bytes": 2596859,
+      "sha256": "a0ada236583c5dbf832f426d7808b16ffcabccf3814447adea049fb96d903500"
+    },
+    {
+      "path": "data/sfig1/he_roi_sources/raw_he/Visium_HD_Human_Lung_Cancer_Fixed_Frozen_tissue_image.btf",
+      "size_bytes": 4964863489,
+      "sha256": "dcaa8c2d59bec244c9e354eb079cf0736c0f7c6d2177a78606fe9373b3e067c1"
+    },
+    {
+      "path": "data/sfig1/he_roi_sources/roi_context/D0_stromal_ecm_context_redbox.png",
+      "size_bytes": 470434,
+      "sha256": "4e6684ddd28da7c9ce4c8f38c52746f47307a32b3b802a38372dd465167c146f"
+    },
+    {
+      "path": "data/sfig1/he_roi_sources/roi_context/D1_hypoxia_stress_context_redbox.png",
+      "size_bytes": 495554,
+      "sha256": "26133be3e699d75df52eb2f991c4a9c61a7627989315125dcf56fbfc002640b0"
+    },
+    {
+      "path": "data/sfig1/he_roi_sources/roi_context/D2_stromal_immune_context_redbox.png",
+      "size_bytes": 500272,
+      "sha256": "e050e9c9c94ded831e09f91ec6040952fd51c391efefb66cc9bfb783c7628177"
+    },
+    {
+      "path": "data/sfig1/he_roi_sources/roi_context/D3_stromal_ecm_context_redbox.png",
+      "size_bytes": 490255,
+      "sha256": "5f1dee67b8c49c51472bef3b7f556e9967481d1d9e92d6c8d3eaa98a7cf7334b"
+    },
+    {
+      "path": "data/sfig1/he_roi_sources/roi_context/D4_stromal_ecm_context_redbox.png",
+      "size_bytes": 462830,
+      "sha256": "dff6c812f9086c39076fef71ff77b71f34118b4dfd7eecd6a4ad9b941f7a3eb5"
+    },
+    {
+      "path": "data/sfig1/he_roi_sources/roi_context/D5_epithelial_tumor_context_redbox.png",
+      "size_bytes": 478240,
+      "sha256": "6775872060445213e7f5ee9ae9fbed8c84af08ae878396b5444b26232d42f2e7"
+    },
+    {
+      "path": "data/sfig1/he_roi_sources/source_panels/supp_fig1_A_he_overview_with_roi_sources.pdf",
+      "size_bytes": 1294644,
+      "sha256": "6bd28f7c749ab11df05a0c57bc045de7e023022f375e6aa710fb852292500a8f"
+    },
+    {
+      "path": "data/sfig1/he_roi_sources/source_panels/supp_fig1_A_he_overview_with_roi_sources.png",
+      "size_bytes": 5789236,
+      "sha256": "26288862efeb10ad49f0b58f12afe353d7949635facbe485f58365542801bd43"
+    },
+    {
+      "path": "data/sfig1/he_roi_sources/source_panels/supp_fig1_C_representative_roi_contexts.pdf",
+      "size_bytes": 1963951,
+      "sha256": "a502f2a1d81894b10873085ee76c36037f82920c815d77fc7a85a562bfb21909"
+    },
+    {
+      "path": "data/sfig1/he_roi_sources/source_panels/supp_fig1_C_representative_roi_contexts.png",
+      "size_bytes": 7264126,
+      "sha256": "ff5c181bf0dfc8c75038ceb126efa27dfd3a9a0fde5a5111c3fc9cb9289ee78c"
+    },
+    {
+      "path": "data/sfig1/he_roi_sources/tables/supp_fig1_representative_roi_sources.csv",
+      "size_bytes": 1050,
+      "sha256": "61680e060e98ca5dc99874ea06b0fff07ecc81de8ecd98b876a8e76d7aecca02"
+    },
+    {
+      "path": "data/sfig1/ignite_single_roi/inputs/data_overview.csv",
+      "size_bytes": 255264,
+      "sha256": "fa693185d602b9fa91b5556fb622c82c1761759829d593923537f2e774cf8def"
+    },
+    {
+      "path": "data/sfig1/ignite_single_roi/inputs/he_label_map.json",
+      "size_bytes": 413,
+      "sha256": "77a7dae3a6fa6b7937fce923dc53680bf08e8fa8cf5ffe41bf83f012e1892256"
+    },
+    {
+      "path": "data/sfig1/ignite_single_roi/inputs/patient22_he_roi1_with_context_annotation.png",
+      "size_bytes": 26638,
+      "sha256": "63957de50e7acdd3c42b9ee3b9c3101dedffc64f2f7c724407b72bb32116f2d7"
+    },
+    {
+      "path": "data/sfig1/ignite_single_roi/inputs/patient22_he_roi1_with_context_image.png",
+      "size_bytes": 6348319,
+      "sha256": "e67b648664d100e913550392eb595abb9541331e61566cd52f7abe22df3ce3e9"
+    },
+    {
+      "path": "data/sfig1/ignite_single_roi/inputs/patient22_he_roi1_with_context_prediction.png",
+      "size_bytes": 74394,
+      "sha256": "af332abafd885a665cde1241178c003b3664df59942e7b0697e5b7aecf8bb8c7"
+    },
+    {
+      "path": "data/sfig1/ignite_single_roi/source_panels/supp_domain_cancer_A_tile_auroc.pdf",
+      "size_bytes": 18138,
+      "sha256": "d3619a55cd276743a3ca24e56fcde6aa10548dfb1026ef2e16e04e753ef88115"
+    },
+    {
+      "path": "data/sfig1/ignite_single_roi/source_panels/supp_domain_cancer_B_ignite_overlay.pdf",
+      "size_bytes": 2157183,
+      "sha256": "88beecf610b90a16a2a3e3e74882573afbd18eefbfaba696402d351ec3456d72"
+    },
+    {
+      "path": "data/sfig1/ignite_single_roi/source_panels/supp_domain_cancer_C_tile_confusion_metrics.pdf",
+      "size_bytes": 17549,
+      "sha256": "c46d8418234825b9e3bfff069baf10720f50df8fc528341073e64b5a864cf1e9"
+    },
+    {
+      "path": "data/sfig1/ignite_single_roi/tables/ignite_single_roi_benchmark_metrics.csv",
+      "size_bytes": 722,
+      "sha256": "717ac9fe710a68c13587f2909af02b9800986d76646151546862e86e1f1b2262"
+    },
+    {
+      "path": "data/sfig1/ignite_single_roi/tables/ignite_single_roi_coverage_summary.csv",
+      "size_bytes": 575,
+      "sha256": "8c1c1b01ab92c43a7caf615e2cc828b90613c5f0f96037a80852be91e56af0ac"
+    },
+    {
+      "path": "data/sfig1/ignite_single_roi/tables/ignite_single_roi_source_manifest.csv",
+      "size_bytes": 1516,
+      "sha256": "169b08758004832aabff283b18bef4987a967ce0894440b5226d69e2bfb062bf"
+    },
+    {
+      "path": "data/sfig1/ignite_single_roi/tables/ignite_single_roi_tile_calls.csv",
+      "size_bytes": 6666,
+      "sha256": "97c189f4601de18f2b4e1dab7d8dfdc8362627428638b7ceea6c5da6b28c7f57"
+    },
+    {
+      "path": "data/sfig1/ignite_single_roi/tables/ignite_single_roi_tile_roc_curve.csv",
+      "size_bytes": 224,
+      "sha256": "659b32a40320ce8d4d3f93d9ad156dcf6f73138a1387980e0609b102322ee3a8"
+    },
+    {
+      "path": "data/sfig1/skill_iteration/source_panels/supp_skill_iter_A_score_trace.pdf",
+      "size_bytes": 24105,
+      "sha256": "0862afa963f282a68bfd32893a0287690a67842df1f16f50e523077bb8ffa8bf"
+    },
+    {
+      "path": "data/sfig1/skill_iteration/source_panels/supp_skill_iter_A_score_trace.png",
+      "size_bytes": 194996,
+      "sha256": "da3b441505928c2cf76a122f77773d0aee687204275dda0b5b519a77f910b3c6"
+    },
+    {
+      "path": "data/sfig1/skill_iteration/source_panels/supp_skill_iter_A_score_trace.svg",
+      "size_bytes": 37496,
+      "sha256": "7093be314f78b65b2b73be2b175dcc76c586c354ae4abb6af4d9ecb9fca7d9d8"
+    },
+    {
+      "path": "data/sfig1/skill_iteration/source_panels/supp_skill_iter_B_edit_history.pdf",
+      "size_bytes": 23728,
+      "sha256": "463e644855a3edd945dded831fb093e901f83f5e575626981fa1061b6f76dfcd"
+    },
+    {
+      "path": "data/sfig1/skill_iteration/source_panels/supp_skill_iter_B_edit_history.png",
+      "size_bytes": 266476,
+      "sha256": "4c7eef08edaa0788200ecf880d392180c3e0e4e65e02dd3e82551c310559cf91"
+    },
+    {
+      "path": "data/sfig1/skill_iteration/source_panels/supp_skill_iter_B_edit_history.svg",
+      "size_bytes": 52054,
+      "sha256": "c009a5127258dcd23472aca3cfde8a48bc43fa7c1453d64283907952226c7d2d"
+    },
+    {
+      "path": "data/sfig1/skill_iteration/source_panels/supp_skill_iter_C_validation_matrix.pdf",
+      "size_bytes": 21851,
+      "sha256": "d038ea37e7ab780fd5fe42af7f71497387dab04026d993f34e4b1ad23062b55d"
+    },
+    {
+      "path": "data/sfig1/skill_iteration/source_panels/supp_skill_iter_C_validation_matrix.png",
+      "size_bytes": 325226,
+      "sha256": "f745d12b7eedcd04e7dc01eb3cbf5b2bdbe383c47ff05ebaacb0f960ae5b18ee"
+    },
+    {
+      "path": "data/sfig1/skill_iteration/source_panels/supp_skill_iter_C_validation_matrix.svg",
+      "size_bytes": 62392,
+      "sha256": "d1312130059ae42f85b608fc3d6fefb727f04b44b2b0473646636439d5d46cc9"
+    },
+    {
+      "path": "data/sfig1/skill_iteration/tables/lazyslide_skill_edit_history.csv",
+      "size_bytes": 5076,
+      "sha256": "6edbd177734de03a9e4628e156178f88e243cf8a8e73fa18e7c8f0145b211ee1"
+    },
+    {
+      "path": "data/sfig1/skill_iteration/tables/lazyslide_skill_evidence_sources.csv",
+      "size_bytes": 5202,
+      "sha256": "a0807a6d3ec55f9f3b8c09d7bab764df8cfa34446bc55f9d98f19c46592aa015"
+    },
+    {
+      "path": "data/sfig1/skill_iteration/tables/lazyslide_skill_final_validation_report.csv",
+      "size_bytes": 3269,
+      "sha256": "7140ad5639d8ffc765d78b526c01b3e819512bde2c9a767981c4015bbb8c3cbe"
+    },
+    {
+      "path": "data/sfig1/skill_iteration/tables/lazyslide_skill_iteration_trace.csv",
+      "size_bytes": 2741,
+      "sha256": "0b662c7bf33c74fb726ed58b37db5c5370b90944e14714ec4109aac7242324a2"
+    },
+    {
+      "path": "data/sfig1/source_notebooks/build_skill_iteration_validation_supplement.ipynb",
+      "size_bytes": 2778939,
+      "sha256": "2f25c5e31fd3edb629ab50395b6c5389cfeb679967c25186176a1c63f864e21a"
+    },
+    {
+      "path": "data/sfig1/source_notebooks/supp_domain_cancer_review_panels.ipynb",
+      "size_bytes": 1505081,
+      "sha256": "514b2bc5f9b7936937820834ea6a3a619760153c3a74869a3bc9dce345fc451e"
+    },
+    {
+      "path": "data/sfig1/source_notebooks/supp_fig1_he_qc_roi_sources.ipynb",
+      "size_bytes": 25890624,
+      "sha256": "77d3dd6c33a90fe644b4cf34bc73fae2a53df261f39feff74a44b6ad9c2c4ced"
+    },
+    {
+      "path": "scripts/sfig1/__pycache__/build_fig5_supplementary_1_reproduce.cpython-311.pyc",
+      "size_bytes": 29947,
+      "sha256": "78c6bf32a2a329d525a4609138fa82204b1036021c31419b82d83b724ee54bb3"
+    },
+    {
+      "path": "scripts/sfig1/__pycache__/build_ignite_single_roi_benchmark.cpython-311.pyc",
+      "size_bytes": 36590,
+      "sha256": "be49156cb2d9c96b9082a7c97589ae123fb6e2422bef7daabbd44f1fe36c2625"
+    },
+    {
+      "path": "scripts/sfig1/__pycache__/build_skill_iteration_validation_supplement.cpython-311.pyc",
+      "size_bytes": 39350,
+      "sha256": "0f26a11d08158c85a128e92c8d03303ba81a4887c17602e4b7ae164e3abffd30"
+    },
+    {
+      "path": "scripts/sfig1/build_fig5_supplementary_1_reproduce.py",
+      "size_bytes": 25179,
+      "sha256": "fa8078f799ce41197e2b0a8093b8a8d548bf05cb20486e5a2a8dc410db871b4b"
+    },
+    {
+      "path": "scripts/sfig1/build_ignite_single_roi_benchmark.py",
+      "size_bytes": 23182,
+      "sha256": "c9bb4c42fe9e52034b0bd27c4ceb0eb90153624d17368847a3f7eac960d1529a"
+    },
+    {
+      "path": "scripts/sfig1/build_skill_iteration_validation_supplement.py",
+      "size_bytes": 34917,
+      "sha256": "0d8aefdbdbb35ac67988b02b7d4f8ed7d148c2c4049f3b88727e8ec454344591"
+    },
+    {
+      "path": "scripts/sfig1/build_supplementary_figures.py",
+      "size_bytes": 58489,
+      "sha256": "9f9d2475dbd3dd9115131a7337588fb844725b55cd58bab69c7e89ff3fddf73f"
+    },
+    {
+      "path": "outputs/sfig1_panels/sfig1_B_skillopt_score_trace.pdf",
+      "size_bytes": 24119,
+      "sha256": "ac4de0ade4b4a22d15f3ec34aa3969fddf1d76a6dde9d85e3a1fb965be4793bf"
+    },
+    {
+      "path": "outputs/sfig1_panels/sfig1_B_skillopt_score_trace.png",
+      "size_bytes": 177990,
+      "sha256": "01bb97329ead3bf9d808d2c6c6a13ee80bbb02d66d1a175290f2d8b55a80efaf"
+    },
+    {
+      "path": "outputs/sfig1_panels/sfig1_C_skillopt_edit_history_validation_matrix.pdf",
+      "size_bytes": 24501,
+      "sha256": "77af2b6269c34718df71646e496b82cde34e7201578c2584540c96439b29bc53"
+    },
+    {
+      "path": "outputs/sfig1_panels/sfig1_C_skillopt_edit_history_validation_matrix.png",
+      "size_bytes": 556271,
+      "sha256": "d71db2f777d291c02c8b01b202cc1a65d0c7632862ecd7c53048c2d267d8d90b"
+    },
+    {
+      "path": "outputs/sfig1_panels/sfig1_D_he_overview_representative_features.pdf",
+      "size_bytes": 4008546,
+      "sha256": "262f26c080881fe39bfbf0caef466a28e09ef228ad2910f36554a55935ab664d"
+    },
+    {
+      "path": "outputs/sfig1_panels/sfig1_D_he_overview_representative_features.png",
+      "size_bytes": 4520244,
+      "sha256": "d830fa82745db426ada7dc1207add2d727331375288a6ed22af1ad55d8fa861d"
+    },
+    {
+      "path": "outputs/sfig1_panels/sfig1_E_representative_roi_contexts.pdf",
+      "size_bytes": 3873978,
+      "sha256": "2ae1df35d769020e4ae419623d20a9cd2ff94f021bf0d72c1dc476974c0aa58c"
+    },
+    {
+      "path": "outputs/sfig1_panels/sfig1_E_representative_roi_contexts.png",
+      "size_bytes": 4615118,
+      "sha256": "be1ab73b916b372d33fd9255b2308cbb81d1980fd81d952ff12d4850c8fdd5b6"
+    },
+    {
+      "path": "outputs/sfig1_panels/sfig1_F_ignite_tumor_overlay.pdf",
+      "size_bytes": 3233077,
+      "sha256": "effb2d695f52560fdf1e66c708c4b85382e1c5a89b7127be251e3d0f729b8a12"
+    },
+    {
+      "path": "outputs/sfig1_panels/sfig1_F_ignite_tumor_overlay.png",
+      "size_bytes": 3091526,
+      "sha256": "d808391cbe9b1633f791ee816a6ac2135414e8c4f2e442b74a8822dd5b54a8b6"
+    },
+    {
+      "path": "outputs/sfig1_panels/sfig1_G_ignite_tile_auroc.pdf",
+      "size_bytes": 18078,
+      "sha256": "86d461006461bb81d05ac75a2f53df59dbc64070bfead7853906fbe97c108246"
+    },
+    {
+      "path": "outputs/sfig1_panels/sfig1_G_ignite_tile_auroc.png",
+      "size_bytes": 124737,
+      "sha256": "7445f42aac6ba00ff332e60ca642e3f8239d5b1bc8339dd41d61566bde667779"
+    },
+    {
+      "path": "outputs/sfig1_panels/sfig1_H_ignite_confusion_metrics.pdf",
+      "size_bytes": 17547,
+      "sha256": "935b850190722eed59aca40f1740355df16985ccd718a3998d90d0cbf47b98cb"
+    },
+    {
+      "path": "outputs/sfig1_panels/sfig1_H_ignite_confusion_metrics.png",
+      "size_bytes": 58009,
+      "sha256": "a21d2bb0b76a8616f942b456481e29f1e7c8c433800201ac6fc00504fe8aef88"
+    },
+    {
+      "path": "outputs/sfig1_tables/ignite_single_roi_benchmark_metrics.csv",
+      "size_bytes": 722,
+      "sha256": "717ac9fe710a68c13587f2909af02b9800986d76646151546862e86e1f1b2262"
+    },
+    {
+      "path": "outputs/sfig1_tables/ignite_single_roi_coverage_summary.csv",
+      "size_bytes": 575,
+      "sha256": "8c1c1b01ab92c43a7caf615e2cc828b90613c5f0f96037a80852be91e56af0ac"
+    },
+    {
+      "path": "outputs/sfig1_tables/ignite_single_roi_source_manifest.csv",
+      "size_bytes": 1516,
+      "sha256": "169b08758004832aabff283b18bef4987a967ce0894440b5226d69e2bfb062bf"
+    },
+    {
+      "path": "outputs/sfig1_tables/ignite_single_roi_tile_calls.csv",
+      "size_bytes": 6666,
+      "sha256": "97c189f4601de18f2b4e1dab7d8dfdc8362627428638b7ceea6c5da6b28c7f57"
+    },
+    {
+      "path": "outputs/sfig1_tables/ignite_single_roi_tile_roc_curve.csv",
+      "size_bytes": 224,
+      "sha256": "659b32a40320ce8d4d3f93d9ad156dcf6f73138a1387980e0609b102322ee3a8"
+    },
+    {
+      "path": "outputs/sfig1_tables/lazyslide_skill_edit_history.csv",
+      "size_bytes": 5076,
+      "sha256": "6edbd177734de03a9e4628e156178f88e243cf8a8e73fa18e7c8f0145b211ee1"
+    },
+    {
+      "path": "outputs/sfig1_tables/lazyslide_skill_evidence_sources.csv",
+      "size_bytes": 5202,
+      "sha256": "a0807a6d3ec55f9f3b8c09d7bab764df8cfa34446bc55f9d98f19c46592aa015"
+    },
+    {
+      "path": "outputs/sfig1_tables/lazyslide_skill_final_validation_report.csv",
+      "size_bytes": 3269,
+      "sha256": "7140ad5639d8ffc765d78b526c01b3e819512bde2c9a767981c4015bbb8c3cbe"
+    },
+    {
+      "path": "outputs/sfig1_tables/lazyslide_skill_iteration_trace.csv",
+      "size_bytes": 2741,
+      "sha256": "0b662c7bf33c74fb726ed58b37db5c5370b90944e14714ec4109aac7242324a2"
+    },
+    {
+      "path": "outputs/sfig1_tables/supp_fig1_representative_roi_sources.csv",
+      "size_bytes": 1050,
+      "sha256": "61680e060e98ca5dc99874ea06b0fff07ecc81de8ecd98b876a8e76d7aecca02"
+    },
+    {
+      "path": "outputs/sfig1_tables/supp_fig1_roi_panel_display_labels.csv",
+      "size_bytes": 615,
+      "sha256": "1ce70521ff8ea3d0e103de4a9fb7494fde4648f0c3dd1227bf40ec8744bb2da3"
+    },
+    {
+      "path": "outputs/sfig1_intermediate/sfig1_panel_contact_sheet.png",
+      "size_bytes": 807225,
+      "sha256": "16a238a8a8bf9fff9fce714321efe7f757493ca6537ee959269104c83c3c3e6b"
+    }
+  ],
+  "root": ".",
+  "notebook": "fig5_supplementary_1.ipynb",
+  "sources": [
+    "OmicOS_10/notebooks/build_skill_iteration_validation_supplement.ipynb",
+    "OmicOS_9/notebooks/supp_fig1_he_qc_roi_sources.ipynb",
+    "OmicOS_10/notebooks/supp_domain_cancer_review_panels.ipynb"
+  ]
+}

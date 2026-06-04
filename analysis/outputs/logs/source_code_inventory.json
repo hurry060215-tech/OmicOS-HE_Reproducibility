@@ -1,0 +1,226 @@
+[
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/scripts/run_omicos3_analysis.py",
+    "relative_path": "code/source_snapshots/OmicOS_3/scripts/run_omicos3_analysis.py",
+    "bytes": 50270,
+    "sha256": "a8ef277a68d1fa210b5fde336f098870d8bd122f7344546c0d47dc623b9c7e16",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/scripts/verify_omicos3_outputs.py",
+    "relative_path": "code/source_snapshots/OmicOS_3/scripts/verify_omicos3_outputs.py",
+    "bytes": 2859,
+    "sha256": "27cd03f3a9b5fb107ae730366ab85bf01ce774d81f8a4be3c81fc1c9c9f159e8",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/scripts/build_omicos5_notebooks.py",
+    "relative_path": "code/source_snapshots/OmicOS_5/scripts/build_omicos5_notebooks.py",
+    "bytes": 33212,
+    "sha256": "2211ce0d62a3badc4693488eb148e662851f514c83c17936668b42d145a3ae8d",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/scripts/create_panel_i_interpretation_notebook.py",
+    "relative_path": "code/source_snapshots/OmicOS_5/scripts/create_panel_i_interpretation_notebook.py",
+    "bytes": 8722,
+    "sha256": "b4479259c6301fc9dcec25b260450c8863cdec436106189e1847a70bb32fba7e",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/scripts/rewrite_omicos5_multicell_notebooks.py",
+    "relative_path": "code/source_snapshots/OmicOS_5/scripts/rewrite_omicos5_multicell_notebooks.py",
+    "bytes": 22116,
+    "sha256": "40ea953d7c96089b52653fd7f373609eb6c9b6fbd892d3e6030f46ee37e45343",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/scripts/verify_omicos5_outputs.py",
+    "relative_path": "code/source_snapshots/OmicOS_5/scripts/verify_omicos5_outputs.py",
+    "bytes": 5494,
+    "sha256": "e8c51963b8f24a6ed34a18785b1820d56fdae3e51660b004cb13709923b4b4b8",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/main_figure.ipynb",
+    "relative_path": "code/source_snapshots/OmicOS_5/main_figure.ipynb",
+    "bytes": 77740552,
+    "sha256": "08fadfd5fb1bd9e67c4bf2beee29a6ac2e589c9b4904fefab7b714cdc0af1a52",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/scripts/build_he_stromal_immune_survival.py",
+    "relative_path": "code/source_snapshots/OmicOS_7/scripts/build_he_stromal_immune_survival.py",
+    "bytes": 13297,
+    "sha256": "bc0aa55a0441eda2c1158f4eb21ee5fc56682c822505d20190b03ff9047b6456",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/scripts/build_non_he_analyses.py",
+    "relative_path": "code/source_snapshots/OmicOS_7/scripts/build_non_he_analyses.py",
+    "bytes": 19974,
+    "sha256": "e9c50c127127c6ffde9d0ec9336f40474716acc235c123a7a4400368b01e812e",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/scripts/download_tcga_luad_100.py",
+    "relative_path": "code/source_snapshots/OmicOS_7/scripts/download_tcga_luad_100.py",
+    "bytes": 18035,
+    "sha256": "e97cc553345ab7daccefa7e4577234626e3fea50d3e35fbaa5175b452db05061",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/scripts/download_tcga_luad_gdc.py",
+    "relative_path": "code/source_snapshots/OmicOS_7/scripts/download_tcga_luad_gdc.py",
+    "bytes": 7122,
+    "sha256": "41c7c121c45819a499e5e19be8b79bbf167552f8cf63bfc735a9664e1fba6045",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/scripts/extract_tcga_luad_he_morphology_features.py",
+    "relative_path": "code/source_snapshots/OmicOS_7/scripts/extract_tcga_luad_he_morphology_features.py",
+    "bytes": 13291,
+    "sha256": "3d7029302c5be044150507362f976c24ff2379daeffe6fd3e21546cc13c935d7",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/scripts/plot_full_data_c_panel.py",
+    "relative_path": "code/source_snapshots/OmicOS_7/scripts/plot_full_data_c_panel.py",
+    "bytes": 13742,
+    "sha256": "04c9451636ea0e5d4f485d1d55be21296e2596358111b52a754ef9f3bf5692ed",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/scripts/run_tcga_luad_survival_analysis.py",
+    "relative_path": "code/source_snapshots/OmicOS_7/scripts/run_tcga_luad_survival_analysis.py",
+    "bytes": 20087,
+    "sha256": "962a19a5bd2bde8f11cb6500c24e2249e638aa419e61a0f03dd5a3b7e7d6fb0b",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/tests/test_he_stromal_immune_survival.py",
+    "relative_path": "code/source_snapshots/OmicOS_7/tests/test_he_stromal_immune_survival.py",
+    "bytes": 2397,
+    "sha256": "cb16c581b20e1572d89c1f30c9641d13d8c84f10d287dadd3c3fd9c71aa5e0c7",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/non_he_analysis.ipynb",
+    "relative_path": "code/source_snapshots/OmicOS_7/non_he_analysis.ipynb",
+    "bytes": 15376238,
+    "sha256": "c914a0a0de926d2c4e503546adbfe9c5d51d9a25a2c474eee4f45c450e915967",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/tcga_luad_all_available_he_stromal_immune_km_styled.ipynb",
+    "relative_path": "code/source_snapshots/OmicOS_7/tcga_luad_all_available_he_stromal_immune_km_styled.ipynb",
+    "bytes": 475717,
+    "sha256": "e2535bfb138099fb315c6af96c94a4222b90f91ec9d5c87c32a1f21a2c00f152",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/scripts/analyze_luad_matched_region_biology.py",
+    "relative_path": "code/source_snapshots/OmicOS_8/scripts/analyze_luad_matched_region_biology.py",
+    "bytes": 19198,
+    "sha256": "bb092b5be5174c842e29815b0f21aa973b46efb8cdf608d72491067a1d5424f6",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/scripts/integrate_luad_he_risk_slides.py",
+    "relative_path": "code/source_snapshots/OmicOS_8/scripts/integrate_luad_he_risk_slides.py",
+    "bytes": 41504,
+    "sha256": "18b9f53701883b4636e2984b592c64a0cc7b15fa089708850c22966054bfebc0",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/scripts/plot_luad_matched_umap_spatial_regions.py",
+    "relative_path": "code/source_snapshots/OmicOS_8/scripts/plot_luad_matched_umap_spatial_regions.py",
+    "bytes": 25776,
+    "sha256": "fc30d6a7da7ca5cb15c9da3e03225f400503af8c8cd98fa78cf1e3f5f5f4b03f",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/tests/test_luad_he_risk_integration.py",
+    "relative_path": "code/source_snapshots/OmicOS_8/tests/test_luad_he_risk_integration.py",
+    "bytes": 9142,
+    "sha256": "40c3e719f6b2650ead704f88babab219a650451aef9ff90cfe42e1d3c5050fcd",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/tests/test_luad_region_biology.py",
+    "relative_path": "code/source_snapshots/OmicOS_8/tests/test_luad_region_biology.py",
+    "bytes": 2269,
+    "sha256": "4c5a109dfff56a2589aff4675bda6aeaf5ab9e0561b1d842039ea5cd18aa352f",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/tests/test_luad_umap_spatial_region_plots.py",
+    "relative_path": "code/source_snapshots/OmicOS_8/tests/test_luad_umap_spatial_region_plots.py",
+    "bytes": 4240,
+    "sha256": "718b20666538353ca3411e81644b9b07837915697c4f5b0f4309975aea6fb301",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/plot_luad_matched_umap_spatial_regions.ipynb",
+    "relative_path": "code/source_snapshots/OmicOS_8/plot_luad_matched_umap_spatial_regions.ipynb",
+    "bytes": 12568,
+    "sha256": "5afdc40866271db92df9bb5d04df51c43422b927d45675815186c5f5cae93f2a",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_reproduce/scripts/build_fig5_reproduce.py",
+    "relative_path": "code/source_snapshots/OmicOS_reproduce/scripts/build_fig5_reproduce.py",
+    "bytes": 51102,
+    "sha256": "82ff97e38d31f2c0b95249b77367b9e28f77d8d8813c6da46b2c091329e440a1",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_reproduce/tests/test_analysis_reproduce_contract.py",
+    "relative_path": "code/source_snapshots/OmicOS_reproduce/tests/test_analysis_reproduce_contract.py",
+    "bytes": 4373,
+    "sha256": "f3a869fd31574aa34cec7904f5628e227d63bee4412cac27b8a8e6249a94a227",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_reproduce/tests/test_fig5_main_contract.py",
+    "relative_path": "code/source_snapshots/OmicOS_reproduce/tests/test_fig5_main_contract.py",
+    "bytes": 6107,
+    "sha256": "4ecd4bcf2c98b208f06331f4e7cc686abcff8835b7162eeee7fbe1a247ad02d2",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "source_code",
+    "source_path": "/data/hulei/OmicOS/OmicOS_reproduce/fig5_main.ipynb",
+    "relative_path": "code/source_snapshots/OmicOS_reproduce/fig5_main.ipynb",
+    "bytes": 33342597,
+    "sha256": "5f7c2e31b2a62ad80173aa1d6e86245c9e74ba2d782a8075878b58dac1e8306f",
+    "preserve_mode": "hardlink"
+  }
+]

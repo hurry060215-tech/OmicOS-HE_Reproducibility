@@ -1,0 +1,17 @@
+metric,value
+visible_image_width_px,1792.0
+visible_image_height_px,1792.0
+analysis_image_width_px,1050.0
+analysis_image_height_px,1017.0
+annotated_roi_x_min,410.0
+annotated_roi_y_min,460.0
+annotated_roi_x_max,1459.0
+annotated_roi_y_max,1476.0
+annotated_roi_width_px,1050.0
+annotated_roi_height_px,1017.0
+annotated_pixel_fraction_of_visible_image,0.33253261021205355
+annotated_pixel_fraction_of_analysis_image,1.0
+all_regular_grid_tiles_in_analysis_image,72.0
+edge_tiles_included,1.0
+tiles_used_for_precision_recall,72.0
+predicted_tumor_pixels_outside_analysis_annotation,0.0

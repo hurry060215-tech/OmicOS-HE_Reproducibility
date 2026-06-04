@@ -1,0 +1,369 @@
+{
+  "name": "fig5_supplementary_2_reproduce",
+  "root": ".",
+  "notebook": "fig5_supplementary_2.ipynb",
+  "description": "Minimal reproducible bundle for SFig2 panels a-h.",
+  "sources": [
+    "OmicOS_9/notebooks/supp_fig3_cancer_threshold_sensitivity.ipynb",
+    "OmicOS_9/notebooks/supp_fig4_luad_region_quantification.ipynb",
+    "OmicOS_7/non_he_analysis.ipynb",
+    "Panel e additionally uses OmicOS_3/outputs/tables/visium_marker_validation_by_gigapath_domain_omicos3.csv because that table generates the D0-D11 marker heatmap shown in the supplied SFig2 image."
+  ],
+  "panel_mapping": {
+    "a": "Selected tumor-enriched tile fraction",
+    "b": "Tumor and immune enrichment",
+    "c": "Threshold-set Jaccard similarity",
+    "d": "Threshold spatial maps",
+    "e": "Morphology-domain tile counts and marker heatmap",
+    "f": "Gene mean and variance correlation",
+    "g": "High/low-risk enriched region tile fractions",
+    "h": "Proxy differences of high/low-risk enriched regions"
+  },
+  "files": [
+    {
+      "path": "data/sfig2/domain_marker_validation/inputs/visium_hd_tile_features_minimal.csv",
+      "size_bytes": 2596859,
+      "sha256": "a0ada236583c5dbf832f426d7808b16ffcabccf3814447adea049fb96d903500"
+    },
+    {
+      "path": "data/sfig2/domain_marker_validation/source_panels/supp_fig2_C_domain_marker_validation.pdf",
+      "size_bytes": 31670,
+      "sha256": "fab55deac9ab7978ab239263b6bb84ba1201efeee691649caead98525dde21d8"
+    },
+    {
+      "path": "data/sfig2/domain_marker_validation/source_panels/supp_fig2_C_domain_marker_validation.png",
+      "size_bytes": 244687,
+      "sha256": "5097a9fd0f5aadd0916667151b7bf258a4c1d3c342d52b5c00670b384524ab42"
+    },
+    {
+      "path": "data/sfig2/domain_marker_validation/tables/visium_marker_validation_by_gigapath_domain_omicos3.csv",
+      "size_bytes": 2676,
+      "sha256": "393957f476007549259c3d722ce7fc9e53b0f50c1965db244dde72623ab5e0b8"
+    },
+    {
+      "path": "data/sfig2/luad_region_quantification/source_panels/supp_fig4_A_region_composition.pdf",
+      "size_bytes": 24898,
+      "sha256": "e1bd0ce2ccfb9c9ca28fdf46e3bb8e03175a81fff908efc5cf0c018a9b770bbe"
+    },
+    {
+      "path": "data/sfig2/luad_region_quantification/source_panels/supp_fig4_A_region_composition.png",
+      "size_bytes": 202847,
+      "sha256": "9b61388f438f9462b7a9d1af84365c1a6809e612695cb01f4cbe9a9df225081d"
+    },
+    {
+      "path": "data/sfig2/luad_region_quantification/source_panels/supp_fig4_B_risk_region_fractions.pdf",
+      "size_bytes": 22982,
+      "sha256": "af952fb5770a2770debfb73e7f5e1a01dc85310902d3ce3e415bef7101fd62a4"
+    },
+    {
+      "path": "data/sfig2/luad_region_quantification/source_panels/supp_fig4_B_risk_region_fractions.png",
+      "size_bytes": 248437,
+      "sha256": "c9e02084dc1caa38d3f3690d39c0ac6aee5717f983aa2d5d7dc367814df0984c"
+    },
+    {
+      "path": "data/sfig2/luad_region_quantification/source_panels/supp_fig4_C_proxy_effect_sizes.pdf",
+      "size_bytes": 22025,
+      "sha256": "ac1086789e534ad87e1d53f168df31ddce203a793a69e5bad4f42445f388d644"
+    },
+    {
+      "path": "data/sfig2/luad_region_quantification/source_panels/supp_fig4_C_proxy_effect_sizes.png",
+      "size_bytes": 210793,
+      "sha256": "af8e5705f973c1fa409eb87194d90b5b76b3b0970394f9f27a645d7c04d26c2f"
+    },
+    {
+      "path": "data/sfig2/luad_region_quantification/tables/luad_matched_tile_features_minimal.csv",
+      "size_bytes": 4505241,
+      "sha256": "e57c4f41ddbfea74aa89ebbecd2dbba26af509a97e53299195a0bf79f44e28ab"
+    },
+    {
+      "path": "data/sfig2/luad_region_quantification/tables/supp_fig4_luad_patient_region_proxy_means.csv",
+      "size_bytes": 1589,
+      "sha256": "69ea17f7b9258fa38c873c8dc516c21f18b406fa2668b1a74af96f095862ed63"
+    },
+    {
+      "path": "data/sfig2/luad_region_quantification/tables/supp_fig4_luad_region_composition.csv",
+      "size_bytes": 900,
+      "sha256": "ac3780fc05d4bc1d5b573125b43a480ba30fd3fc6036cacd4105fe8cee53284a"
+    },
+    {
+      "path": "data/sfig2/luad_region_quantification/tables/supp_fig4_luad_region_proxy_summary.csv",
+      "size_bytes": 2396,
+      "sha256": "171a1b468c54b7e5f768e152193a8900f1dd3425b79bae9102f43bdf8d287036"
+    },
+    {
+      "path": "data/sfig2/luad_region_quantification/tables/supp_fig4_luad_region_proxy_tests.csv",
+      "size_bytes": 1204,
+      "sha256": "83f96c5e5e5070dd32f4cb2ca14f7bfec5e334bf9923d694ddd88c9d391a7524"
+    },
+    {
+      "path": "data/sfig2/non_he_validation/source_panels/c_full_data_gene_mean_correlation.pdf",
+      "size_bytes": 204043,
+      "sha256": "0202d35c5848a77a7c9ddea1dcb48688dcd0edc960e306a9654ca64a1016639a"
+    },
+    {
+      "path": "data/sfig2/non_he_validation/source_panels/c_full_data_gene_mean_correlation.png",
+      "size_bytes": 591685,
+      "sha256": "8882b08b30365417b2f37bd70b00f611db74f3e7ca8684f8caab02d9e9205597"
+    },
+    {
+      "path": "data/sfig2/non_he_validation/source_panels/c_full_data_gene_variance_correlation.pdf",
+      "size_bytes": 218640,
+      "sha256": "edc38666b34b8f446df9f2c0f281c65b56b82ceb132fcfe558e1984b5c6b204e"
+    },
+    {
+      "path": "data/sfig2/non_he_validation/source_panels/c_full_data_gene_variance_correlation.png",
+      "size_bytes": 620628,
+      "sha256": "67b797d6f1682a974eebd7c4026caae7fd96176007c9c18f0beb19b6d35606aa"
+    },
+    {
+      "path": "data/sfig2/non_he_validation/tables/full_data_predicted_vs_visium_gene_calibration_omicos7.csv",
+      "size_bytes": 3290767,
+      "sha256": "a4b7642f778fd01f9f0e29c19f057c54dac80bac1d5096d5deb221c823990252"
+    },
+    {
+      "path": "data/sfig2/non_he_validation/tables/predicted_marker_vs_visium_marker_domain_correlation_omicos7.csv",
+      "size_bytes": 827,
+      "sha256": "7874a74d3e10200f54ee2982560029ce43d25de8f38d1dc4455c8a88e2cbfc40"
+    },
+    {
+      "path": "data/sfig2/non_he_validation/tables/predicted_vs_visium_gene_validation_omicos7.csv",
+      "size_bytes": 1015,
+      "sha256": "8eec3f87e74aa0feefd88077b4c5b87abe9e6e1acf11a3b06611c27afdb3f536"
+    },
+    {
+      "path": "data/sfig2/source_notebooks/non_he_analysis.ipynb",
+      "size_bytes": 15376238,
+      "sha256": "c914a0a0de926d2c4e503546adbfe9c5d51d9a25a2c474eee4f45c450e915967"
+    },
+    {
+      "path": "data/sfig2/source_notebooks/supp_fig3_cancer_threshold_sensitivity.ipynb",
+      "size_bytes": 7557917,
+      "sha256": "f8d916330485015a93b4c77a3a75553e2fa11cbeab25f328fd4b97d630f4f0ab"
+    },
+    {
+      "path": "data/sfig2/source_notebooks/supp_fig4_luad_region_quantification.ipynb",
+      "size_bytes": 906267,
+      "sha256": "742d36de1f8bf84b9841097e9cefd7cec5aaaeecd1c1e6bccaf5c1cd5a817e2f"
+    },
+    {
+      "path": "data/sfig2/threshold_sensitivity/inputs/he_cancer_proxy_and_tumor_immune_tiles.csv",
+      "size_bytes": 1666853,
+      "sha256": "f1a96508917aafe794bf8dcea98983170795139aaea402c17debb4051e1ae02b"
+    },
+    {
+      "path": "data/sfig2/threshold_sensitivity/inputs/visium_hd_he_page_info.json",
+      "size_bytes": 80,
+      "sha256": "0b94503a30e2b0e4f2d18c3819d4b35974f84da02528d50f091810d8b503666f"
+    },
+    {
+      "path": "data/sfig2/threshold_sensitivity/inputs/visium_hd_he_thumbnail_stride32.npy",
+      "size_bytes": 4848512,
+      "sha256": "201f46b96c8d7593facceab49ea39d7296d5f4db71c0534a9596f3e3d228d93e"
+    },
+    {
+      "path": "data/sfig2/threshold_sensitivity/source_panels/supp_fig3_A_selected_tile_fraction.pdf",
+      "size_bytes": 20090,
+      "sha256": "4b6b7cb6d9d81d61416c054bdce70184a561548565dea0ad423b76c0a84e966b"
+    },
+    {
+      "path": "data/sfig2/threshold_sensitivity/source_panels/supp_fig3_A_selected_tile_fraction.png",
+      "size_bytes": 154243,
+      "sha256": "48682e982e9786a46956fbd3c5aae55d93978be3c07c784d322ba06488c7dff1"
+    },
+    {
+      "path": "data/sfig2/threshold_sensitivity/source_panels/supp_fig3_B_tumor_immune_enrichment.pdf",
+      "size_bytes": 22176,
+      "sha256": "efdd725780ed69a775a259e9d1e50c47a07a1ddb604682a1b7d5042e0637a65b"
+    },
+    {
+      "path": "data/sfig2/threshold_sensitivity/source_panels/supp_fig3_B_tumor_immune_enrichment.png",
+      "size_bytes": 232306,
+      "sha256": "f2d692b60b997c1dfe9a9fafac967f2179c65ed58cd8f0a2ff360e1491094f44"
+    },
+    {
+      "path": "data/sfig2/threshold_sensitivity/source_panels/supp_fig3_C_threshold_jaccard.pdf",
+      "size_bytes": 22594,
+      "sha256": "fcb487d2aaf7f04df8589f2c6b1d052e5ccf5ac74b34bfc4be652e034e9f93c0"
+    },
+    {
+      "path": "data/sfig2/threshold_sensitivity/source_panels/supp_fig3_C_threshold_jaccard.png",
+      "size_bytes": 143260,
+      "sha256": "92a5eddac2dc1e63d4d62aa91610353d6e3f3594bcfc4e3d77606c9aeb7b9250"
+    },
+    {
+      "path": "data/sfig2/threshold_sensitivity/source_panels/supp_fig3_D_threshold_maps.pdf",
+      "size_bytes": 2604758,
+      "sha256": "fbe9eaf5fa8eb5e236f7d439da8b33f52832893643e37875662eda44a81a917d"
+    },
+    {
+      "path": "data/sfig2/threshold_sensitivity/source_panels/supp_fig3_D_threshold_maps.png",
+      "size_bytes": 5102361,
+      "sha256": "5f4ad61a54e8bb698112c22ef3fa381cbe196b7eac2a5e71285ccc2d66a74896"
+    },
+    {
+      "path": "data/sfig2/threshold_sensitivity/tables/supp_fig3_threshold_jaccard.csv",
+      "size_bytes": 901,
+      "sha256": "54ddd0f47b62edc9723c7cac841db212986bcecf8f0a3daf9571648fa9a210de"
+    },
+    {
+      "path": "data/sfig2/threshold_sensitivity/tables/supp_fig3_threshold_sensitivity_summary.csv",
+      "size_bytes": 772,
+      "sha256": "63c057d37006292b3ff910edebaeb2137180d39de3b47251bb0f19e3a3eae9c6"
+    },
+    {
+      "path": "scripts/sfig2/__pycache__/build_fig5_supplementary_2_reproduce.cpython-311.pyc",
+      "size_bytes": 37330,
+      "sha256": "2218635e530ad70de5379b9036c4c2c057432e10c4b3b3537807a6e0c8eb9fe7"
+    },
+    {
+      "path": "scripts/sfig2/build_fig5_supplementary_2_reproduce.py",
+      "size_bytes": 32442,
+      "sha256": "8195cdcb5313ba5a0fe8cfdfba8c9dcd6dcdb5fa6db90484cd66e8e91ead0496"
+    },
+    {
+      "path": "scripts/sfig2/build_non_he_analyses.py",
+      "size_bytes": 19974,
+      "sha256": "e9c50c127127c6ffde9d0ec9336f40474716acc235c123a7a4400368b01e812e"
+    },
+    {
+      "path": "scripts/sfig2/build_supplementary_figures.py",
+      "size_bytes": 58489,
+      "sha256": "9f9d2475dbd3dd9115131a7337588fb844725b55cd58bab69c7e89ff3fddf73f"
+    },
+    {
+      "path": "scripts/sfig2/plot_full_data_c_panel.py",
+      "size_bytes": 13742,
+      "sha256": "04c9451636ea0e5d4f485d1d55be21296e2596358111b52a754ef9f3bf5692ed"
+    },
+    {
+      "path": "outputs/sfig2_panels/sfig2_A_selected_tile_fraction.pdf",
+      "size_bytes": 20461,
+      "sha256": "ab71bab04628c949bd49eba49d2b9f779afa3656d26031047e238c25d79b39ed"
+    },
+    {
+      "path": "outputs/sfig2_panels/sfig2_A_selected_tile_fraction.png",
+      "size_bytes": 188304,
+      "sha256": "813fd8a5300be4db3fbca19dab60c52e03dcb02366b8b98a0bc36f937cd10948"
+    },
+    {
+      "path": "outputs/sfig2_panels/sfig2_B_tumor_immune_enrichment.pdf",
+      "size_bytes": 22346,
+      "sha256": "255f7980e60512a949ebceed500a23adbb0ff1073af8f9cd9537ae91d19cd4e1"
+    },
+    {
+      "path": "outputs/sfig2_panels/sfig2_B_tumor_immune_enrichment.png",
+      "size_bytes": 243121,
+      "sha256": "7a7cc0cef9267f6c32635da658f653b633d21ae121f8d67e9040cfb4c6856a33"
+    },
+    {
+      "path": "outputs/sfig2_panels/sfig2_C_threshold_jaccard.pdf",
+      "size_bytes": 43682,
+      "sha256": "b7dae29ea14e023126c8ea3ba0fbdf911ea5b38f8cfc4fb31d2e1e09e79aed81"
+    },
+    {
+      "path": "outputs/sfig2_panels/sfig2_C_threshold_jaccard.png",
+      "size_bytes": 136209,
+      "sha256": "7e1878d10b08b17fa845504ca055dd346ce0d7b61a148e8c9e9fdc9ed8ff471b"
+    },
+    {
+      "path": "outputs/sfig2_panels/sfig2_D_threshold_spatial_maps.pdf",
+      "size_bytes": 4740737,
+      "sha256": "d0487929587001d8417d036cdee902845b557febd53476bf55e376aae3e60cdc"
+    },
+    {
+      "path": "outputs/sfig2_panels/sfig2_D_threshold_spatial_maps.png",
+      "size_bytes": 2504919,
+      "sha256": "90f1c0d2b615b412f4479fa7b54d68d8720f7003a17e101cb5355580bf7970b6"
+    },
+    {
+      "path": "outputs/sfig2_panels/sfig2_E_domain_marker_heatmap.pdf",
+      "size_bytes": 55447,
+      "sha256": "93da616ebcd652f4f9bfe5ec1dd85868c3de7d735fd36d63974950f0a64824c7"
+    },
+    {
+      "path": "outputs/sfig2_panels/sfig2_E_domain_marker_heatmap.png",
+      "size_bytes": 163420,
+      "sha256": "ab10c881bfd4e1ba3f4c70414e57aee29eaa9cce855af428050cad00ee650187"
+    },
+    {
+      "path": "outputs/sfig2_panels/sfig2_F_gene_mean_variance_correlation.pdf",
+      "size_bytes": 388732,
+      "sha256": "d803c087fe369532a6ea21aaa836370fe5e521d847d148fbabb44db6309987d4"
+    },
+    {
+      "path": "outputs/sfig2_panels/sfig2_F_gene_mean_variance_correlation.png",
+      "size_bytes": 1132147,
+      "sha256": "eeb25bd53bd2cc0b483e472b5854a76c04922d97451713ae27c4bf468e0d7226"
+    },
+    {
+      "path": "outputs/sfig2_panels/sfig2_G_luad_risk_region_fractions.pdf",
+      "size_bytes": 21622,
+      "sha256": "5da52e105af0810588269f60d974a91062cbee9416ff8e65fff7f37943788f77"
+    },
+    {
+      "path": "outputs/sfig2_panels/sfig2_G_luad_risk_region_fractions.png",
+      "size_bytes": 194115,
+      "sha256": "8854164b944f734c9bd8549a2cdeb875564a6ed1ce6ecf3fbabd24fe5752909b"
+    },
+    {
+      "path": "outputs/sfig2_panels/sfig2_H_luad_proxy_differences.pdf",
+      "size_bytes": 21619,
+      "sha256": "b12d77de1bd2f1e9202a6aebf2bc7ba3cf0a3cb8c8b303a83d97350dc5219592"
+    },
+    {
+      "path": "outputs/sfig2_panels/sfig2_H_luad_proxy_differences.png",
+      "size_bytes": 196193,
+      "sha256": "9aa6e09c0215a6dd9959c79822fea4cdd0a1ff4b4a9af11c74877735eab74de7"
+    },
+    {
+      "path": "outputs/sfig2_tables/full_data_predicted_vs_visium_gene_calibration_omicos7.csv",
+      "size_bytes": 3290767,
+      "sha256": "a4b7642f778fd01f9f0e29c19f057c54dac80bac1d5096d5deb221c823990252"
+    },
+    {
+      "path": "outputs/sfig2_tables/predicted_marker_vs_visium_marker_domain_correlation_omicos7.csv",
+      "size_bytes": 827,
+      "sha256": "7874a74d3e10200f54ee2982560029ce43d25de8f38d1dc4455c8a88e2cbfc40"
+    },
+    {
+      "path": "outputs/sfig2_tables/predicted_vs_visium_gene_validation_omicos7.csv",
+      "size_bytes": 1015,
+      "sha256": "8eec3f87e74aa0feefd88077b4c5b87abe9e6e1acf11a3b06611c27afdb3f536"
+    },
+    {
+      "path": "outputs/sfig2_tables/supp_fig3_threshold_jaccard.csv",
+      "size_bytes": 901,
+      "sha256": "54ddd0f47b62edc9723c7cac841db212986bcecf8f0a3daf9571648fa9a210de"
+    },
+    {
+      "path": "outputs/sfig2_tables/supp_fig3_threshold_sensitivity_summary.csv",
+      "size_bytes": 772,
+      "sha256": "63c057d37006292b3ff910edebaeb2137180d39de3b47251bb0f19e3a3eae9c6"
+    },
+    {
+      "path": "outputs/sfig2_tables/supp_fig4_luad_patient_region_proxy_means.csv",
+      "size_bytes": 1589,
+      "sha256": "69ea17f7b9258fa38c873c8dc516c21f18b406fa2668b1a74af96f095862ed63"
+    },
+    {
+      "path": "outputs/sfig2_tables/supp_fig4_luad_region_composition.csv",
+      "size_bytes": 900,
+      "sha256": "ac3780fc05d4bc1d5b573125b43a480ba30fd3fc6036cacd4105fe8cee53284a"
+    },
+    {
+      "path": "outputs/sfig2_tables/supp_fig4_luad_region_proxy_summary.csv",
+      "size_bytes": 2396,
+      "sha256": "171a1b468c54b7e5f768e152193a8900f1dd3425b79bae9102f43bdf8d287036"
+    },
+    {
+      "path": "outputs/sfig2_tables/supp_fig4_luad_region_proxy_tests.csv",
+      "size_bytes": 1204,
+      "sha256": "83f96c5e5e5070dd32f4cb2ca14f7bfec5e334bf9923d694ddd88c9d391a7524"
+    },
+    {
+      "path": "outputs/sfig2_tables/visium_marker_validation_by_gigapath_domain_omicos3.csv",
+      "size_bytes": 2676,
+      "sha256": "393957f476007549259c3d722ce7fc9e53b0f50c1965db244dde72623ab5e0b8"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+region_feature,risk_group,proxy,mean,sem,n_tiles
+Other regions,High risk,tumor_proxy_score,0.41129073775985825,0.0025049311701137817,3041
+Other regions,High risk,immune_proxy_score,0.4403865727186292,0.00299776501061755,3041
+Other regions,High risk,stromal_proxy_score,0.5326066434970498,0.0034953470608898025,3041
+Other regions,High risk,necrosis_proxy_score,0.44216405145437215,0.003482450810809313,3041
+Mixed C5: high-risk enriched,High risk,tumor_proxy_score,0.5492694778964717,0.003856624834029269,577
+Mixed C5: high-risk enriched,High risk,immune_proxy_score,0.5317284460124223,0.003779624071123053,577
+Mixed C5: high-risk enriched,High risk,stromal_proxy_score,0.4207109872766265,0.003916563526678648,577
+Mixed C5: high-risk enriched,High risk,necrosis_proxy_score,0.7608517002452566,0.005801364013933329,577
+Shared C6: low-risk enriched,High risk,tumor_proxy_score,0.5729938823613792,0.0035519311727918172,472
+Shared C6: low-risk enriched,High risk,immune_proxy_score,0.6431324237158588,0.0024991123869568307,472
+Shared C6: low-risk enriched,High risk,stromal_proxy_score,0.3980411931127809,0.004310735881828646,472
+Shared C6: low-risk enriched,High risk,necrosis_proxy_score,0.12302977487385802,0.0037229373678506557,472
+Other regions,Low risk,tumor_proxy_score,0.5096382968421515,0.0027794438042954336,4194
+Other regions,Low risk,immune_proxy_score,0.497120521472978,0.002515603646844239,4194
+Other regions,Low risk,stromal_proxy_score,0.504787149793825,0.0023960746607704893,4194
+Other regions,Low risk,necrosis_proxy_score,0.5270811031972935,0.003169132504915905,4194
+Shared C6: low-risk enriched,Low risk,tumor_proxy_score,0.7446896514512182,0.0036445592579207376,862
+Shared C6: low-risk enriched,Low risk,immune_proxy_score,0.7384992353539112,0.0022974711195291363,862
+Shared C6: low-risk enriched,Low risk,stromal_proxy_score,0.3643275815168943,0.003575860370221237,862
+Shared C6: low-risk enriched,Low risk,necrosis_proxy_score,0.18317636237080184,0.002970143469309645,862
+Mixed C5: high-risk enriched,Low risk,tumor_proxy_score,0.5999181121890081,0.006492499962366198,152
+Mixed C5: high-risk enriched,Low risk,immune_proxy_score,0.5997798094907952,0.006254905567416702,152
+Mixed C5: high-risk enriched,Low risk,stromal_proxy_score,0.39467469005870565,0.006012886356600531,152
+Mixed C5: high-risk enriched,Low risk,necrosis_proxy_score,0.7517274566025756,0.008441630424465642,152

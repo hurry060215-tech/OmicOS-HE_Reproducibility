@@ -1,0 +1,7 @@
+domain_label,smoothed_domain,marker_proxy_group,tile_id,center_x,center_y,overview_label_x,overview_label_y,overview_arrow_target_x,overview_arrow_target_y,crop_size_px,context_size_px,context_file,crop_file
+D0,0,stromal_ecm,13205,35390.0,19387.0,35025.2,19022.2,35198.0,19195.0,384,1536,D0_stromal_ecm_context_redbox.png,01_D0_stromal_ecm.png
+D1,1,hypoxia_stress,10525,29342.0,24091.0,28977.2,23726.2,29150.0,23899.0,384,1536,D1_hypoxia_stress_context_redbox.png,02_D1_hypoxia_stress.png
+D2,2,stromal_immune,17613,47038.0,14459.0,46673.2,14094.2,46846.0,14267.0,384,1536,D2_stromal_immune_context_redbox.png,03_D2_stromal_ecm.png
+D3,3,stromal_ecm,13479,36062.0,16251.0,35697.2,15886.2,35870.0,16059.0,384,1536,D3_stromal_ecm_context_redbox.png,04_D3_stromal_ecm.png
+D4,4,stromal_ecm,12819,34494.0,21627.0,34129.2,21262.2,34302.0,21435.0,384,1536,D4_stromal_ecm_context_redbox.png,05_D4_stromal_ecm.png
+D5,5,epithelial_tumor,4757,15902.0,3707.0,15537.2,3342.2,15710.0,3515.0,384,1536,D5_epithelial_tumor_context_redbox.png,06_D5_epithelial_tumor.png

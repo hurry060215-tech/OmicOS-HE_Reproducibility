@@ -1,0 +1,19 @@
+{
+    "Unannotated": 0,
+    "Background": 1,
+    "Tumor epithelium": 2,
+    "Reactive epithelium": 3,
+    "Stroma": 4,
+    "Inflammation": 5,
+    "Alveolar tissue": 6,
+    "Fatty tissue": 7,
+    "Necrotic tissue": 8,
+    "Erythrocytes": 9,
+    "Bronchial epithelium": 10,
+    "Mucus/Plasma/Fluids": 11,
+    "Cartilage/Bone": 12,
+    "Macrophages": 13,
+    "Muscle": 14,
+    "Liver": 15,
+    "Keratinization": 16
+}

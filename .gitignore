@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+build/
+dist/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Local environment / secrets
+.env
+.envrc
+env.sh
+*.log
+nohup.out
+
+# Large external analysis inputs and intermediates.
+# These are documented in the README files that are explicitly kept below.
+analysis/inputs/**
+!analysis/inputs/
+!analysis/inputs/README.md
+analysis/intermediates/**
+!analysis/intermediates/
+!analysis/intermediates/README.md
+data/sfig1/he_roi_sources/raw_he/**
+!data/sfig1/he_roi_sources/raw_he/
+!data/sfig1/he_roi_sources/raw_he/README.md
+
+# Raw whole-slide images, pretrained weights, and bulky platform exports.
+*.btf
+*.svs
+*.pth
+*.bin
+*.cloupe
+*.h5
+*.h5ad
+*.mtx.gz
+*.tar.gz
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp

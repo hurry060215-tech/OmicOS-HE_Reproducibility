@@ -1,0 +1,13 @@
+region_label,region_feature,program,program_mean,background_mean,cohens_d_vs_other_regions
+Mixed C5,Mixed C5: high-risk enriched,Necrosis/hypoxia-like pale,0.9679748110949333,-0.08234959006747647,1.854630783545655
+Mixed C5,Mixed C5: high-risk enriched,Viable tumor-epithelial cellular,-0.2925792300190611,0.024890915939303548,-0.4938882532410057
+Mixed C5,Mixed C5: high-risk enriched,Immune-inflamed cellular,0.11703349800458394,-0.009956520019295714,0.1786198664393608
+Mixed C5,Mixed C5: high-risk enriched,Stromal/ECM fibrotic,-0.5741232075665303,0.048843017658536644,-1.006441419115198
+Mixed C5,Mixed C5: high-risk enriched,Low-cellularity pale tissue,0.3278644526052293,-0.027892774646891022,0.5978331533948914
+Mixed C5,Mixed C5: high-risk enriched,Nuclear texture/proliferation proxy,0.0907266302538515,-0.007718486807685966,0.12888001042661856
+Shared C6,Shared C6: low-risk enriched,Necrosis/hypoxia-like pale,-0.8621241179394379,0.14440903733440613,-1.7638069898334923
+Shared C6,Shared C6: low-risk enriched,Viable tumor-epithelial cellular,0.7710698973597483,-0.12915711239049568,1.2938961415575985
+Shared C6,Shared C6: low-risk enriched,Immune-inflamed cellular,0.5835980013626408,-0.09775486361348146,0.8436814725977037
+Shared C6,Shared C6: low-risk enriched,Stromal/ECM fibrotic,-0.22512614568281059,0.03770947744109359,-0.4009504853330766
+Shared C6,Shared C6: low-risk enriched,Low-cellularity pale tissue,-0.5170134717456234,0.08660170408195184,-0.8742831666548116
+Shared C6,Shared C6: low-risk enriched,Nuclear texture/proliferation proxy,0.40528216345199436,-0.06788628905637412,0.5184111303603749

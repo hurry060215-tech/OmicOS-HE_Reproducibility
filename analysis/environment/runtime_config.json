@@ -1,0 +1,6 @@
+{
+  "python_executable": "/opt/miniforge/envs/omicverse_working/bin/python",
+  "python_version": "3.11.9 | packaged by conda-forge | (main, Apr 19 2024, 18:36:13) [GCC 12.3.0]",
+  "working_directory": "/data/hulei/OmicOS",
+  "matplotlib_backend": ""
+}

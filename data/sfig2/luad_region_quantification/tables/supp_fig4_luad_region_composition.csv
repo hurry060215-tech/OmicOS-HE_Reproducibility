@@ -1,0 +1,13 @@
+patient_id,region_feature,risk_group,n_tiles,fraction
+TCGA-55-8620,Mixed C5: high-risk enriched,High risk,322,0.15761135584924132
+TCGA-55-8620,Shared C6: low-risk enriched,High risk,209,0.10230053842388644
+TCGA-55-8620,Other regions,High risk,1512,0.7400881057268722
+TCGA-55-A490,Mixed C5: high-risk enriched,High risk,255,0.12457254518808011
+TCGA-55-A490,Shared C6: low-risk enriched,High risk,263,0.12848070346849047
+TCGA-55-A490,Other regions,High risk,1529,0.7469467513434294
+TCGA-62-A46S,Mixed C5: high-risk enriched,Low risk,42,0.016247582205029015
+TCGA-62-A46S,Shared C6: low-risk enriched,Low risk,446,0.1725338491295938
+TCGA-62-A46S,Other regions,Low risk,2097,0.8112185686653772
+TCGA-78-7537,Mixed C5: high-risk enriched,Low risk,110,0.041936713686618374
+TCGA-78-7537,Shared C6: low-risk enriched,Low risk,416,0.15859702630575676
+TCGA-78-7537,Other regions,Low risk,2097,0.7994662600076249

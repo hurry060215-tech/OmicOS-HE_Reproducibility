@@ -1,0 +1,2714 @@
+[
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/artifacts/conch_tile_embeddings_omicos3.npy",
+    "relative_path": "intermediates/OmicOS_3/outputs/artifacts/conch_tile_embeddings_omicos3.npy",
+    "bytes": 40261760,
+    "sha256": "7d817b94e6a32e94d57550b8aa07e80a9e50b2bf5c69d1e2424cd174e5160c79",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/artifacts/final_summary_omicos3.json",
+    "relative_path": "intermediates/OmicOS_3/outputs/artifacts/final_summary_omicos3.json",
+    "bytes": 16352,
+    "sha256": "ece080a7875b3adbedeadb497c112b8e1474a8b40b58e4161bb690b2d676d66a",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/artifacts/gigapath_features_16um_omicos3.npy",
+    "relative_path": "intermediates/OmicOS_3/outputs/artifacts/gigapath_features_16um_omicos3.npy",
+    "bytes": 120785024,
+    "sha256": "e8c001e7fb807b01daee836225bb63d33642762bc6153e7023529e8be3507297",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/artifacts/gigapath_features_32um_omicos3.npy",
+    "relative_path": "intermediates/OmicOS_3/outputs/artifacts/gigapath_features_32um_omicos3.npy",
+    "bytes": 120785024,
+    "sha256": "d907b9329c176e0929fed13ce91198553fcc1f0b1fea96f3c82a4ea0b3cc76a6",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/artifacts/gigapath_features_64um_omicos3.npy",
+    "relative_path": "intermediates/OmicOS_3/outputs/artifacts/gigapath_features_64um_omicos3.npy",
+    "bytes": 120785024,
+    "sha256": "034550dba6ff87c4e50ef3a0f4e4ef2191989e31214788aa23c50b43a2f12be2",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/artifacts/omiclip_loki_tile_embeddings_omicos3.npy",
+    "relative_path": "intermediates/OmicOS_3/outputs/artifacts/omiclip_loki_tile_embeddings_omicos3.npy",
+    "bytes": 60392576,
+    "sha256": "d6c33f3070cc8e4403f1d7b9d050fd0bd8bea3631820c9e90fdc88f1d88c3f41",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/figures/conch_semantic_by_gigapath_domain_omicos3.png",
+    "relative_path": "intermediates/OmicOS_3/outputs/figures/conch_semantic_by_gigapath_domain_omicos3.png",
+    "bytes": 101322,
+    "sha256": "46ace2ce3d288d9b3930f379cae651c9c8458a85aced395ef2caf63382b08cb1",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/figures/conch_zero_shot_spatial_omicos3.png",
+    "relative_path": "intermediates/OmicOS_3/outputs/figures/conch_zero_shot_spatial_omicos3.png",
+    "bytes": 913661,
+    "sha256": "fa16485f7d74bb759e9810c11fab69f341928ca15d858b79b9b6d6d73a3b30de",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/figures/figure1_dualpath_omicos3_integrated.pdf",
+    "relative_path": "intermediates/OmicOS_3/outputs/figures/figure1_dualpath_omicos3_integrated.pdf",
+    "bytes": 701775,
+    "sha256": "2a310d026aaf9d85a7ca089be68a0768ec52a33697b07144615d92a80ec6e38a",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/figures/figure1_dualpath_omicos3_integrated.png",
+    "relative_path": "intermediates/OmicOS_3/outputs/figures/figure1_dualpath_omicos3_integrated.png",
+    "bytes": 3127160,
+    "sha256": "378565000d426def2555169db0db84ce73f5d7f9e26c34823ed8da419f775e9b",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/figures/gigapath32_vs_predicted_st_concordance_omicos3.png",
+    "relative_path": "intermediates/OmicOS_3/outputs/figures/gigapath32_vs_predicted_st_concordance_omicos3.png",
+    "bytes": 56860,
+    "sha256": "d4b86c1f6cdb7bfb9085ce30c22cfd8b25c9e53a6c4bc90485d3fa7d8010a350",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/figures/gigapath_domains_16um_spatial_omicos3.png",
+    "relative_path": "intermediates/OmicOS_3/outputs/figures/gigapath_domains_16um_spatial_omicos3.png",
+    "bytes": 1051099,
+    "sha256": "ba2163d47727e4847e4dd8f1b1993e585c90c0d7b308f610865db595e078c74c",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/figures/gigapath_domains_16um_umap_omicos3.png",
+    "relative_path": "intermediates/OmicOS_3/outputs/figures/gigapath_domains_16um_umap_omicos3.png",
+    "bytes": 802994,
+    "sha256": "debb697936834930dcc259a8c5517bcd1aa0f9ceb929897190b59f0be2050319",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/figures/gigapath_domains_32um_spatial_omicos3.png",
+    "relative_path": "intermediates/OmicOS_3/outputs/figures/gigapath_domains_32um_spatial_omicos3.png",
+    "bytes": 1028601,
+    "sha256": "b62f1e5eda3e706164e6a506c76576c63f874d1ee5280835e57f421d68f5f55c",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/figures/gigapath_domains_32um_umap_omicos3.png",
+    "relative_path": "intermediates/OmicOS_3/outputs/figures/gigapath_domains_32um_umap_omicos3.png",
+    "bytes": 676417,
+    "sha256": "43a841e6eb802d44a626b6488416ea2a52c3ab7a52228d28f8caa8d3ae9d4745",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/figures/gigapath_domains_64um_spatial_omicos3.png",
+    "relative_path": "intermediates/OmicOS_3/outputs/figures/gigapath_domains_64um_spatial_omicos3.png",
+    "bytes": 1025289,
+    "sha256": "8464ace43ec2ef40b4e7069f97695d3ea0a0ae76d6ac35d3e912f2a4827e7937",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/figures/gigapath_domains_64um_umap_omicos3.png",
+    "relative_path": "intermediates/OmicOS_3/outputs/figures/gigapath_domains_64um_umap_omicos3.png",
+    "bytes": 516322,
+    "sha256": "c182fc80b4e5ef9a404cd27d330df4dd332df9a97cfc86b5dc53f9aa4967d1cf",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/figures/gigapath_multiscale_concordance_omicos3.png",
+    "relative_path": "intermediates/OmicOS_3/outputs/figures/gigapath_multiscale_concordance_omicos3.png",
+    "bytes": 49667,
+    "sha256": "38981c21accf23313dfea701607d3478da4fcbe39d433464b044f26ef809d462",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/figures/gigapath_representative_tiles_32um_omicos3.png",
+    "relative_path": "intermediates/OmicOS_3/outputs/figures/gigapath_representative_tiles_32um_omicos3.png",
+    "bytes": 553755,
+    "sha256": "3f7f5a69860f7f46b381977fc4ea2da35efb6c172e0b7653aebfc3cdd8bd989c",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/figures/omiclip_loki_semantic_by_gigapath_domain_omicos3.png",
+    "relative_path": "intermediates/OmicOS_3/outputs/figures/omiclip_loki_semantic_by_gigapath_domain_omicos3.png",
+    "bytes": 95759,
+    "sha256": "0075294eec109ab1646898cfe5808ca4ddcf91520c238a5d5d3cf2c734d562e6",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/figures/omiclip_loki_zero_shot_spatial_omicos3.png",
+    "relative_path": "intermediates/OmicOS_3/outputs/figures/omiclip_loki_zero_shot_spatial_omicos3.png",
+    "bytes": 574488,
+    "sha256": "86d2a782417f691e09637c9f22599d6f9f0298f726720d0d0bd8953626404cfa",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/figures/visium_marker_validation_by_gigapath_domain_omicos3.png",
+    "relative_path": "intermediates/OmicOS_3/outputs/figures/visium_marker_validation_by_gigapath_domain_omicos3.png",
+    "bytes": 84828,
+    "sha256": "87cf39b69a13e9b1c1ba6861de8f117db6ac2af733b2d7ffb7975d80f2b02438",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/logs/model_dependency_audit_omicos3.json",
+    "relative_path": "intermediates/OmicOS_3/outputs/logs/model_dependency_audit_omicos3.json",
+    "bytes": 3805,
+    "sha256": "75ffd8743a6c62851de254150bedfd49b7f61492b0180d3eba4b38ecb4651e1a",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/logs/omicos3_analysis.log",
+    "relative_path": "intermediates/OmicOS_3/outputs/logs/omicos3_analysis.log",
+    "bytes": 14457,
+    "sha256": "dbf973b1fa3076df4aa76c6bba7ec4f0371be6b113f031ddbef0e9a79d050c82",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/logs/progress_status_omicos3.json",
+    "relative_path": "intermediates/OmicOS_3/outputs/logs/progress_status_omicos3.json",
+    "bytes": 166,
+    "sha256": "a187c3fe313c406bf66a9d60350e62ec0169963571464225c500182897a4d3eb",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/logs/progress_status_omicos3.md",
+    "relative_path": "intermediates/OmicOS_3/outputs/logs/progress_status_omicos3.md",
+    "bytes": 136,
+    "sha256": "5e0a7d7f6643b0d3876b5e3a07a14bdef2a9de790f4c111cc58a29101965eab0",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/logs/spider_failure_omicos3.json",
+    "relative_path": "intermediates/OmicOS_3/outputs/logs/spider_failure_omicos3.json",
+    "bytes": 5172,
+    "sha256": "af240f1e96fe0c63026e8e2533b4e6fe4dac77a996c36bb59e172c05b1796454",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/report/executive_summary_omicos3.md",
+    "relative_path": "intermediates/OmicOS_3/outputs/report/executive_summary_omicos3.md",
+    "bytes": 434,
+    "sha256": "eb62236e4059d6dac9163c2eab2b62cae9f68ec656f0037c7ddca3b94aac295d",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/report/final_report_omicos3.md",
+    "relative_path": "intermediates/OmicOS_3/outputs/report/final_report_omicos3.md",
+    "bytes": 1789,
+    "sha256": "1c3370e0132078dd720e36784c987880b49f51a24955d25c51ab645637afc97d",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/report/multiscale_decision_omicos3.md",
+    "relative_path": "intermediates/OmicOS_3/outputs/report/multiscale_decision_omicos3.md",
+    "bytes": 210,
+    "sha256": "3ac60db465443c678d2a044219533c0062074da001f30f2e23c4999aa864ffa0",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/tables/conch_prompt_embeddings_omicos3.csv",
+    "relative_path": "intermediates/OmicOS_3/outputs/tables/conch_prompt_embeddings_omicos3.csv",
+    "bytes": 46039,
+    "sha256": "be95398ff0e3b636256839e41b86ce2fe9fb6e8a25892108e43ad009f309a6ec",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/tables/conch_semantic_by_gigapath_domain_omicos3.csv",
+    "relative_path": "intermediates/OmicOS_3/outputs/tables/conch_semantic_by_gigapath_domain_omicos3.csv",
+    "bytes": 1737,
+    "sha256": "e47f25fc17dedee48402d4aba3b53e994856d25616fa4cc108c4df40d196ca2b",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/tables/conch_zero_shot_tiles_omicos3.csv",
+    "relative_path": "intermediates/OmicOS_3/outputs/tables/conch_zero_shot_tiles_omicos3.csv",
+    "bytes": 2465820,
+    "sha256": "a6f3357cb10c033d34972cd4df78a409cdbb1f9020de5b87446d1e3a861976e5",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/tables/gigapath32_concordance_metrics_omicos3.csv",
+    "relative_path": "intermediates/OmicOS_3/outputs/tables/gigapath32_concordance_metrics_omicos3.csv",
+    "bytes": 435,
+    "sha256": "749126efb0c3ef3a97d06fc90005e5aa922ba3267871cf8f1b000b1996eb93bd",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/tables/gigapath_domain_summary_16um_omicos3.csv",
+    "relative_path": "intermediates/OmicOS_3/outputs/tables/gigapath_domain_summary_16um_omicos3.csv",
+    "bytes": 1573,
+    "sha256": "4ee3204cb09103e028e99a398d09107fb9e45e19cda01515f5ea4afdc541c479",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/tables/gigapath_domain_summary_32um_omicos3.csv",
+    "relative_path": "intermediates/OmicOS_3/outputs/tables/gigapath_domain_summary_32um_omicos3.csv",
+    "bytes": 1581,
+    "sha256": "945b1c4c9cb28cca77030238516214c553e35f0390283a28e7ce432ba59d925f",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/tables/gigapath_domain_summary_64um_omicos3.csv",
+    "relative_path": "intermediates/OmicOS_3/outputs/tables/gigapath_domain_summary_64um_omicos3.csv",
+    "bytes": 2075,
+    "sha256": "8d84d5c178a64eab1a025b049dfe7e597eec47948a239eeed7f65d2c196882a6",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/tables/gigapath_domains_16um_omicos3.csv",
+    "relative_path": "intermediates/OmicOS_3/outputs/tables/gigapath_domains_16um_omicos3.csv",
+    "bytes": 6416612,
+    "sha256": "0e1213a4264dc12789c057639459a568f1a647a5ac7213c306ec019a0eb3fe20",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/tables/gigapath_domains_32um_omicos3.csv",
+    "relative_path": "intermediates/OmicOS_3/outputs/tables/gigapath_domains_32um_omicos3.csv",
+    "bytes": 6470345,
+    "sha256": "07307d06f18eda4bccf87332522d523a2152d02f188139efe0843475fef54e5d",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/tables/gigapath_domains_64um_omicos3.csv",
+    "relative_path": "intermediates/OmicOS_3/outputs/tables/gigapath_domains_64um_omicos3.csv",
+    "bytes": 6437042,
+    "sha256": "ecb66a0af4366201fb2147c24d48cfa2552e02ca3e618fba8beeab6d6121ab66",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/tables/gigapath_multiscale_concordance_omicos3.csv",
+    "relative_path": "intermediates/OmicOS_3/outputs/tables/gigapath_multiscale_concordance_omicos3.csv",
+    "bytes": 504,
+    "sha256": "6429b59764c5d9756823e77ccdcfd4147b8616e885c049e7fea96055a90b0655",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/tables/omiclip_loki_prompt_embeddings_omicos3.csv",
+    "relative_path": "intermediates/OmicOS_3/outputs/tables/omiclip_loki_prompt_embeddings_omicos3.csv",
+    "bytes": 70717,
+    "sha256": "8d002794079d396a13973a721bd7f4c5aefd1cd722d651045887c38dd2734f76",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/tables/omiclip_loki_semantic_by_gigapath_domain_omicos3.csv",
+    "relative_path": "intermediates/OmicOS_3/outputs/tables/omiclip_loki_semantic_by_gigapath_domain_omicos3.csv",
+    "bytes": 1010,
+    "sha256": "a2f8221e4d09c78ff9599faeaac4930478b612b4b621a2a244ab332c66e39c51",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/tables/omiclip_loki_zero_shot_tiles_omicos3.csv",
+    "relative_path": "intermediates/OmicOS_3/outputs/tables/omiclip_loki_zero_shot_tiles_omicos3.csv",
+    "bytes": 2504577,
+    "sha256": "cdb4c80e8a1be9d8c4dd8d517f47daf72a06d8bd9aece21de7c997ae832d137f",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_3/outputs/tables/visium_marker_validation_by_gigapath_domain_omicos3.csv",
+    "relative_path": "intermediates/OmicOS_3/outputs/tables/visium_marker_validation_by_gigapath_domain_omicos3.csv",
+    "bytes": 2676,
+    "sha256": "393957f476007549259c3d722ce7fc9e53b0f50c1965db244dde72623ab5e0b8",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/artifacts/final_summary_omicos5.json",
+    "relative_path": "intermediates/OmicOS_5/outputs/artifacts/final_summary_omicos5.json",
+    "bytes": 1932,
+    "sha256": "ae6f7b08379047da0f276cabfec6b9154d4e84da90f453d32ed57e89f653c259",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/artifacts/he_btf_thumbnail_stride32_omicos5.npy",
+    "relative_path": "intermediates/OmicOS_5/outputs/artifacts/he_btf_thumbnail_stride32_omicos5.npy",
+    "bytes": 4848512,
+    "sha256": "201f46b96c8d7593facceab49ea39d7296d5f4db71c0534a9596f3e3d228d93e",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/candidate_panel_i_domain_marker_interpretation_omicos5.pdf",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/candidate_panel_i_domain_marker_interpretation_omicos5.pdf",
+    "bytes": 35949,
+    "sha256": "42047ed449669108a1f506c1bded704aadbf875864c7475f06600ae9605dd740",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/candidate_panel_i_domain_marker_interpretation_omicos5.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/candidate_panel_i_domain_marker_interpretation_omicos5.png",
+    "bytes": 290178,
+    "sha256": "44478814cc2e4ff5aeb346719e2ee516b5ec50847049a2826229f44342b55091",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/main_figure_omicos5.pdf",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/main_figure_omicos5.pdf",
+    "bytes": 7092617,
+    "sha256": "acd75614af4cfa3e2c678dd6e525334037659eb86fa552295302edba869af2b4",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/main_figure_omicos5.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/main_figure_omicos5.png",
+    "bytes": 9677652,
+    "sha256": "5d2c794ebb4a79ab97ee1192df0b046b485c97ec5a5f1ba43ec120241e56ee34",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/candidate_panel_i_domain_marker_interpretation/candidate_panel_i_domain_marker_interpretation.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/candidate_panel_i_domain_marker_interpretation/candidate_panel_i_domain_marker_interpretation.png",
+    "bytes": 290178,
+    "sha256": "44478814cc2e4ff5aeb346719e2ee516b5ec50847049a2826229f44342b55091",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/main_figure_omicos5/a_he_dual_path_workflow.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/main_figure_omicos5/a_he_dual_path_workflow.png",
+    "bytes": 95728,
+    "sha256": "0a5a9b0817038b43ca7e4d28763e006e9f3358474b75dae025e420a6b74c8692",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/main_figure_omicos5/b_h_e_overview_with_tile_footprint.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/main_figure_omicos5/b_h_e_overview_with_tile_footprint.png",
+    "bytes": 2497555,
+    "sha256": "27134fe5ba5b8d1a77ecd8ae62d8e97e97fa00137e0fb5e596d932c862610325",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/main_figure_omicos5/c_gigapath_32_um_morphology_domains.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/main_figure_omicos5/c_gigapath_32_um_morphology_domains.png",
+    "bytes": 943766,
+    "sha256": "4d090d9a71abc9be61f68f96af954b2c371556e48154672821d45b1263eb5513",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/main_figure_omicos5/d_morphology_umap.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/main_figure_omicos5/d_morphology_umap.png",
+    "bytes": 739969,
+    "sha256": "02b13c9d90b602ccd8706848e38ab3bc8bd0b86a0944ab3774fee1310efb668b",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/main_figure_omicos5/e_d0_stromal_ecm.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/main_figure_omicos5/e_d0_stromal_ecm.png",
+    "bytes": 234529,
+    "sha256": "d8902bebc8b37d48275d927b3d2863875b2b6b5d85961449af4a94e4251c17de",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/main_figure_omicos5/f_refined_predicted_st_domains.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/main_figure_omicos5/f_refined_predicted_st_domains.png",
+    "bytes": 865174,
+    "sha256": "7c3c338fb5b4ca2340d1dd180bf499ac3e1ad49fc004d3bdffe9eba381c7b7cb",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/main_figure_omicos5/g_epithelial_tumor.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/main_figure_omicos5/g_epithelial_tumor.png",
+    "bytes": 381342,
+    "sha256": "76d58eca69505270572d648dad18bcf29eb33f11e4c47ce026dc6cecf1a8ac45",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/main_figure_omicos5/h_morphology_st_overlap.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/main_figure_omicos5/h_morphology_st_overlap.png",
+    "bytes": 42323,
+    "sha256": "e39aa85d757aeb4f4200e68e5388f37e36bc7c76164f497ef6453fbeca7ea633",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/main_figure_omicos5/i_marker_association_across_paths.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/main_figure_omicos5/i_marker_association_across_paths.png",
+    "bytes": 105579,
+    "sha256": "30a2eddad4b939d507345a870d46d1092fb455497070b781cecbdfe50ad5d5c4",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/main_figure_omicos5/j_visium_hd_marker_validation.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/main_figure_omicos5/j_visium_hd_marker_validation.png",
+    "bytes": 69654,
+    "sha256": "7e6c6b6d27ea6ed108e9eae70cac3bacdaf41a7b4b2455697a890bc67705c52a",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/main_figure_omicos5/panel_06_d1_hypoxia_stress.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/main_figure_omicos5/panel_06_d1_hypoxia_stress.png",
+    "bytes": 249020,
+    "sha256": "7a22b3879738ad1976079ac5a514650ab38f92285399335f55b284d6514fc7dd",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/main_figure_omicos5/panel_07_d2_stromal_ecm.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/main_figure_omicos5/panel_07_d2_stromal_ecm.png",
+    "bytes": 261973,
+    "sha256": "083888968fe1a8d6322a7ce682be9891e9ff2735c016251c9f58ffddbb975c6b",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/main_figure_omicos5/panel_08_d3_stromal_ecm.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/main_figure_omicos5/panel_08_d3_stromal_ecm.png",
+    "bytes": 253705,
+    "sha256": "d80f1b17aae59f172629955c32faff8f66b6ef815ac1da6c50216499418886d5",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/main_figure_omicos5/panel_09_d4_stromal_ecm.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/main_figure_omicos5/panel_09_d4_stromal_ecm.png",
+    "bytes": 243336,
+    "sha256": "ea59e8b8005af83f2372342a582327a0c9c53e61a5842948bb76a327c50f488c",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/main_figure_omicos5/panel_10_d5_epithelial_tumor.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/main_figure_omicos5/panel_10_d5_epithelial_tumor.png",
+    "bytes": 273244,
+    "sha256": "09c581d061c7d65cb1528ae62a3088d779203476d6f0debc6e33f7b27e99d410",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/main_figure_omicos5/panel_14_stromal_ecm.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/main_figure_omicos5/panel_14_stromal_ecm.png",
+    "bytes": 376555,
+    "sha256": "0de95a4fb4f582668781240d57d322a2e9227174edda779719b33250ca72e021",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/main_figure_omicos5/panel_16_immune.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/main_figure_omicos5/panel_16_immune.png",
+    "bytes": 395274,
+    "sha256": "18307ef5f6ae647e51f0897e69ffc223166ed8d7921feaf9e3977f0d72bb0315",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/main_figure_omicos5/panel_18_vascular.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/main_figure_omicos5/panel_18_vascular.png",
+    "bytes": 394381,
+    "sha256": "ab72d24b52e0624c9c49039c09568707a3b134efe1a11eab5d2df3ce593c1e88",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/main_figure_omicos5/panel_20_proliferation.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/main_figure_omicos5/panel_20_proliferation.png",
+    "bytes": 378315,
+    "sha256": "73869fab5dae15aaa3b1d43a01f86b10391d0e243ff8d9bb1a0cd6f3c7796e26",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/main_figure_omicos5/panel_22_hypoxia_stress.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/main_figure_omicos5/panel_22_hypoxia_stress.png",
+    "bytes": 376439,
+    "sha256": "d682b0f8c3621ae50d45be891ff1c8c1af07340f3267814ef5723bc2d42b700f",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/main_figure_omicos5/panel_manifest.json",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/main_figure_omicos5/panel_manifest.json",
+    "bytes": 2193,
+    "sha256": "4fddd3e6e1f4a5d2c754b60c930d209780d6b042f10b83b628fa2508cd8c1075",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/main_figure/a_workflow.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/main_figure/a_workflow.png",
+    "bytes": 43417,
+    "sha256": "8ee6e22216a629d7c3bf38c6e3e66040939065fc454a630edc220c29d768bf52",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/main_figure/b_he_footprint.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/main_figure/b_he_footprint.png",
+    "bytes": 1329518,
+    "sha256": "961c69a2faae4f64ce0b1c93a11dc371625ab6cdec18087accd05eb1fe5cb74f",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/main_figure/c_gigapath_domains.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/main_figure/c_gigapath_domains.png",
+    "bytes": 383069,
+    "sha256": "b6f6892f5895d25f735a7d2da19f9c853a456820cafa6db569f014d330212b41",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/main_figure/d_morphology_umap.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/main_figure/d_morphology_umap.png",
+    "bytes": 501964,
+    "sha256": "d07ba2c8951be52230ecb29614348951a51cf7bd02eba5c94ddedeed35f8bf52",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/main_figure/e_representative_tiles.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/main_figure/e_representative_tiles.png",
+    "bytes": 1461371,
+    "sha256": "ceee90b5edf324bfd0ea1431944cb60c59143e918a239bea7c942c24aea7360a",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/main_figure/f_predicted_st_domains.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/main_figure/f_predicted_st_domains.png",
+    "bytes": 288509,
+    "sha256": "093b554bfabb0d54fffcdbc9eac43622c4ed6a85ac3a48391cf5d70cb5916394",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/main_figure/g_marker_spatial_gradients.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/main_figure/g_marker_spatial_gradients.png",
+    "bytes": 1938556,
+    "sha256": "b74d8ab659a24c4497ab70260f625000349cf01a01450d2f458718b610822263",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/main_figure/h_morphology_st_overlap.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/main_figure/h_morphology_st_overlap.png",
+    "bytes": 57525,
+    "sha256": "f2a2b378eea8f9836d2e943d4e1811fc08987eb96dbfd378d8d0a65c2750b80f",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/main_figure/i_marker_association.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/main_figure/i_marker_association.png",
+    "bytes": 77187,
+    "sha256": "c2656ea3da19c7dd47549a682a20a8c237fa49191b7e55d621b33a4a87f7067f",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/main_figure/j_visium_marker_validation.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/main_figure/j_visium_marker_validation.png",
+    "bytes": 78644,
+    "sha256": "f761cc3cb5b132d1664446d184b3d51f7e22145afcd7ec6776e33d8ea22ae5d3",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/a_16um_spatial_domains.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/a_16um_spatial_domains.png",
+    "bytes": 403475,
+    "sha256": "5fe2f95351274e80e8698961623e971eafdf9cee0713ebb8c6ed1e8a4fce1b46",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/b_32um_spatial_domains.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/b_32um_spatial_domains.png",
+    "bytes": 354580,
+    "sha256": "153a5eee5dbd966c2b11133d3a712bb543522a861bcd97998ba7cf79596a5902",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/c_64um_spatial_domains.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/c_64um_spatial_domains.png",
+    "bytes": 259028,
+    "sha256": "7b0388a6c2cd7ffff5c03b1cfe320cf18f555c54e1f2ec07d826b131cf8a25fe",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/d_domain_size.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/d_domain_size.png",
+    "bytes": 60326,
+    "sha256": "de551cc2cf718c8b778514a4ccadc9b0eabb523c4711e7c8b84f928476e53f17",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/e_16um_umap.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/e_16um_umap.png",
+    "bytes": 602318,
+    "sha256": "1ef7f04daacdfb6bc17535ee5f698afb093549d0163241843b6ee9204fbaf187",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/f_32um_umap.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/f_32um_umap.png",
+    "bytes": 480194,
+    "sha256": "0c3b5351c7ce07419ef77fc14bcb4a4adfe94fe5762545c7a955d130a2211b49",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/g_64um_umap.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/g_64um_umap.png",
+    "bytes": 349655,
+    "sha256": "8e93bbfb1247acd2abc0e1d3b1c9bb8fffeda9511aac2ec12935b8d232f3687a",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/h_scale_ari.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/h_scale_ari.png",
+    "bytes": 60450,
+    "sha256": "3550084d2f89b9f245b47486fe1f59f2d380c7782952584fded44264038ce755",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/i_decision_score.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/i_decision_score.png",
+    "bytes": 71110,
+    "sha256": "c135ebf9dea6ac8d35d4252240aba03490a8b6346f823cc236008e6d2480a19f",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/j_edge_disagreement.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/j_edge_disagreement.png",
+    "bytes": 72641,
+    "sha256": "f2c2a4db74e7973ffd756bd0cfb8229e59e3596f82093ff45f9bfaebe97d1554",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/k_mean_row_max_fraction.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/k_mean_row_max_fraction.png",
+    "bytes": 78572,
+    "sha256": "16cb4c86013c52680d8c3bcd02465560131149b19a9211494e356c255726fb1b",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/l_smoothing_neighbors.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_1/l_smoothing_neighbors.png",
+    "bytes": 63506,
+    "sha256": "bca51d95f4ea626989e514e786c4d4da1a1d7553e48401bf717dbab71ac632e9",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_2/a_plip_spatial.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_2/a_plip_spatial.png",
+    "bytes": 468094,
+    "sha256": "f972a74e6dd48ef825ea85af1622321421d3f9de1a24f50698de8502a522fd0e",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_2/b_omiclip_spatial.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_2/b_omiclip_spatial.png",
+    "bytes": 159074,
+    "sha256": "b359d8d1b554ac966476ff40985dc84a19a505f12776d160d536d58afc4ab1da",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_2/c_conch_spatial.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_2/c_conch_spatial.png",
+    "bytes": 384857,
+    "sha256": "d4781362144f6f2c6a860f684594e1a25775263a6b47057cccc5d09afa353b06",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_2/d_semantic_fractions.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_2/d_semantic_fractions.png",
+    "bytes": 139462,
+    "sha256": "6322c5066753e1d077656f7d3144d0b95c4a985567c19a42b411e3d56b01e0d5",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_2/e_omiclip_by_domain.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_2/e_omiclip_by_domain.png",
+    "bytes": 89420,
+    "sha256": "602ac6d9fc3f538188f46784e6e603a526041b78ea728af241be8364814c8a7b",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_2/f_conch_by_domain.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_2/f_conch_by_domain.png",
+    "bytes": 88807,
+    "sha256": "0a52e397ab2ebee11bf79f43241cd03bf6cc66e69c1122a9ecfd8aa9cec4be62",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_2/g_plip_by_domain.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_2/g_plip_by_domain.png",
+    "bytes": 92690,
+    "sha256": "ca4794b0ed342257bddfda985f42f8d2b8a93a2cf02aa6d481661b1f6b804abd",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_2/h_semantic_agreement.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_2/h_semantic_agreement.png",
+    "bytes": 85730,
+    "sha256": "4e3c26a9f1b27db1034097baa11f349a07882ff5e6df72afbdd786abf4b3a138",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_3/a_v1_morphology_marker_profiles.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_3/a_v1_morphology_marker_profiles.png",
+    "bytes": 80748,
+    "sha256": "8e452060d068449219609e738a5b0474419f44c06e2b9963966819dd8adec377",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_3/b_predicted_st_marker_profiles.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_3/b_predicted_st_marker_profiles.png",
+    "bytes": 76402,
+    "sha256": "44e23802f2b912bdbadf73ebc37c2513596ccffa154c7793a2af6eab3fb0ffeb",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_3/c_gigapath_marker_profiles.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_3/c_gigapath_marker_profiles.png",
+    "bytes": 83131,
+    "sha256": "57a62bc8fd67f385bd35a47570a9ea364d0f6d45912af0af2b3e124abebe5bd2",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_3/d_visium_validation.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_3/d_visium_validation.png",
+    "bytes": 84712,
+    "sha256": "f1941ca2c5fa20e68b0635d300af9317f4c3554b540e27a4da08a20019cf15cb",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_3/e_morphology_st_overlap.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_3/e_morphology_st_overlap.png",
+    "bytes": 64648,
+    "sha256": "8ef952bc3eb9a5f5073e5aef5e33256e1fec7d735bfb8208a229418faa34ffd0",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_3/f_cross_path_ari.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_3/f_cross_path_ari.png",
+    "bytes": 130144,
+    "sha256": "c142abaae1f27f1e213dd86e090dc5d57f85da82f85d4e3d37708303ca6869b8",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_3/g_lazyslide_domains.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_3/g_lazyslide_domains.png",
+    "bytes": 363180,
+    "sha256": "c1356653a10e275297ad66a04c3e584aff5728b375840034bd7a0a67c2ddd617",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_3/h_morphology_gene_association.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_3/h_morphology_gene_association.png",
+    "bytes": 110401,
+    "sha256": "100e97502a62641c14b25a199a5a4a7948edcef651d9721f221048c715295cac",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_3/i_domain_biological_composition.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/notebook_cells/supplementary_figure_3/i_domain_biological_composition.png",
+    "bytes": 84398,
+    "sha256": "2ecb8e2df545135e6aedbe4a8c9fee2e0f90c159501dfbe5745ceb2154593765",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/a_16_um_spatial_domains.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/a_16_um_spatial_domains.png",
+    "bytes": 435218,
+    "sha256": "6f423b9a69c95006b902314e4217f74ddb5aa921132a0dd90eefcc57095b341d",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/b_32_um_spatial_domains.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/b_32_um_spatial_domains.png",
+    "bytes": 384388,
+    "sha256": "e2796edab7c325e76a7027ebbd4d8151ba55503baae7882697acddf8ff84c0f9",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/c_64_um_spatial_domains.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/c_64_um_spatial_domains.png",
+    "bytes": 284927,
+    "sha256": "50e8f0a59b8c833797d9b00312e3f2aa20ce01c037715e39b984b285a018b8c1",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/d_domain_size_across_gigapath_scale.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/d_domain_size_across_gigapath_scale.png",
+    "bytes": 62731,
+    "sha256": "6cfaf98ca512822fc04b63070fdaf680862cca80e9312409b92fa752e35210d1",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/e_16_um_umap.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/e_16_um_umap.png",
+    "bytes": 728837,
+    "sha256": "45fb1a2253df20a3893f43ea97ae6802e4bfcfa5807cae453c1b4119e1829a79",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/f_32_um_umap.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/f_32_um_umap.png",
+    "bytes": 592143,
+    "sha256": "2e03bc8e2c168c8f39dab83f83ca35a9edceab90d130582c5aa91475aa7a5627",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/g_64_um_umap.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/g_64_um_umap.png",
+    "bytes": 434130,
+    "sha256": "44cf67333aa0137148a2ebefef110f32c1633cd998a322028c797bc8954063d0",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/h_scale_to_scale_ari.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/h_scale_to_scale_ari.png",
+    "bytes": 53006,
+    "sha256": "8724d6b4e758dd17ec11aaa8eb3b7d801839a02d9d73d6fc2b1dd6d9994ad359",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/i_v1_1_decision_score.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/i_v1_1_decision_score.png",
+    "bytes": 78969,
+    "sha256": "46a82436b756964f812931db547ce48237801d39c21c244d83c082a0b325a47b",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/j_v1_1_edge_disagreement.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/j_v1_1_edge_disagreement.png",
+    "bytes": 79353,
+    "sha256": "159823c3b27cfa69257e2a1b14ec76c92ea003f35f6099b78586b99f5ecf9af9",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/k_v1_1_row_max_fraction.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/k_v1_1_row_max_fraction.png",
+    "bytes": 85322,
+    "sha256": "c0e2ca8537ebe54f86c3f44de0647540b2b7fa40d1fee8530e3687080f932364",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/l_v1_1_smoothing_neighbors.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/l_v1_1_smoothing_neighbors.png",
+    "bytes": 72709,
+    "sha256": "958cafa2e311d4d8939a69668eb9811310dc7e990819c4d163709c1062c918ba",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/panel_manifest.json",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_1_omicos5/panel_manifest.json",
+    "bytes": 1448,
+    "sha256": "fc61d708fd3bb9f6ebfbcba9a7b154f4293f57cb57f14ade8b7fcb1366987c04",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_2_omicos5/a_plip_zero_shot_spatial_labels.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_2_omicos5/a_plip_zero_shot_spatial_labels.png",
+    "bytes": 503361,
+    "sha256": "f0fe90ac95eae351c968a1b2661788ae61178517cbba63886bf34542b5dedec1",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_2_omicos5/b_omiclip_loki_zero_shot_spatial_labels.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_2_omicos5/b_omiclip_loki_zero_shot_spatial_labels.png",
+    "bytes": 177500,
+    "sha256": "bd48a387906717d3cd2f78a29c3f34ef4b3b6994a1337f7291fcf9c39ec36e8b",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_2_omicos5/c_conch_zero_shot_spatial_labels.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_2_omicos5/c_conch_zero_shot_spatial_labels.png",
+    "bytes": 420295,
+    "sha256": "ed57bfcae6154c8b835c0bf33eca6b4298689a9738a71ab6e99b4e682853935b",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_2_omicos5/d_semantic_label_fractions.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_2_omicos5/d_semantic_label_fractions.png",
+    "bytes": 162421,
+    "sha256": "23782b6a4a9da1d1cb502eab9dcf1c31436a5375166a111da908b8151b5bd261",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_2_omicos5/e_omiclip_labels_by_gigapath_domain.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_2_omicos5/e_omiclip_labels_by_gigapath_domain.png",
+    "bytes": 98236,
+    "sha256": "320ede69885bca9ea54b72d73520f6c95c348669ed0ef095e389484aa1d021c5",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_2_omicos5/f_conch_labels_by_gigapath_domain.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_2_omicos5/f_conch_labels_by_gigapath_domain.png",
+    "bytes": 106525,
+    "sha256": "001a1840bc87f446a8c2d4f63918a80ce2aca865f9d5885f1c946650f3073c42",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_2_omicos5/g_plip_labels_by_v1_morphology_domain.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_2_omicos5/g_plip_labels_by_v1_morphology_domain.png",
+    "bytes": 92891,
+    "sha256": "219004cfeec22b749ee44f49be0a4af295932b95c6182c541337f4c81a9ea942",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_2_omicos5/h_cross_model_semantic_agreement.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_2_omicos5/h_cross_model_semantic_agreement.png",
+    "bytes": 139938,
+    "sha256": "f172232973dca55c7fe79bfad87828af47702b8a2995edc4ce6115317b51cad4",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_2_omicos5/panel_manifest.json",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_2_omicos5/panel_manifest.json",
+    "bytes": 1083,
+    "sha256": "a300330ec93db82859f2933f8de7dd61d6f49bd7a94197df5500c6e223f1b186",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_3_omicos5/a_v1_morphology_marker_profiles.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_3_omicos5/a_v1_morphology_marker_profiles.png",
+    "bytes": 69117,
+    "sha256": "4f75339293f7c814f58fb5b5d3cddec3cfd226b61997391514a16866d312b526",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_3_omicos5/b_predicted_st_marker_profiles.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_3_omicos5/b_predicted_st_marker_profiles.png",
+    "bytes": 77684,
+    "sha256": "18c79d1f642cbee0ac7431bb6578bd990474564f6509c6a689cece5790fe07f7",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_3_omicos5/c_gigapath_marker_proxy_profiles.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_3_omicos5/c_gigapath_marker_proxy_profiles.png",
+    "bytes": 84811,
+    "sha256": "d7e1233a61bd9af31d245ca2786ff920ac02facd48aeb9498037bec93a0ff14f",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_3_omicos5/d_visium_hd_validation_by_gigapath_domain.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_3_omicos5/d_visium_hd_validation_by_gigapath_domain.png",
+    "bytes": 72384,
+    "sha256": "19910db33c80fe38ec6c0cec0139fe73bda14a65feb3024bcb770f920c6878f1",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_3_omicos5/e_gigapath_morphology_vs_predicted_st.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_3_omicos5/e_gigapath_morphology_vs_predicted_st.png",
+    "bytes": 48603,
+    "sha256": "de2b32aa58a6618767ab801d59317c751becc3c80d935284eedfe3508720a248",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_3_omicos5/f_cross_path_ari.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_3_omicos5/f_cross_path_ari.png",
+    "bytes": 160511,
+    "sha256": "32476c22104c0fbba0b5ee99763187fa5931b00c64023da882e0476913f36d95",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_3_omicos5/g_lazyslide_spatial_domains.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_3_omicos5/g_lazyslide_spatial_domains.png",
+    "bytes": 727528,
+    "sha256": "b81e6a3bf08aa33b4af1a090ee31d4cc70c868d5f90a6ae6e3ef1dad6a4ae4b4",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_3_omicos5/h_morphology_gene_association.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_3_omicos5/h_morphology_gene_association.png",
+    "bytes": 115861,
+    "sha256": "8697e44a294f4f574cd2d464388295506c3c2bf51d585699c2a11c90c902512a",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_3_omicos5/i_biological_composition_per_gigapath_domain.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_3_omicos5/i_biological_composition_per_gigapath_domain.png",
+    "bytes": 105335,
+    "sha256": "f6845b9e741b726dedd54be85c86a42904da4ff203a12ba27c0e9567c70ad5a3",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/panels/supplementary_figure_3_omicos5/panel_manifest.json",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/panels/supplementary_figure_3_omicos5/panel_manifest.json",
+    "bytes": 1199,
+    "sha256": "87536ac41a0537920fa4644ae32eab5155234246001ce8fde3173c7b67c4e58d",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/supplementary_figure_1_omicos5.pdf",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/supplementary_figure_1_omicos5.pdf",
+    "bytes": 2315583,
+    "sha256": "6f83dc6b80e1b42cb26e4cd1b25ef3f66194c464b9a51c4fa26e217112303a7d",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/supplementary_figure_1_omicos5.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/supplementary_figure_1_omicos5.png",
+    "bytes": 3271667,
+    "sha256": "670a075fe108bb6074a8127f9aba4e0096990ab91660daa7184c4d69a32f97e9",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/supplementary_figure_2_omicos5.pdf",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/supplementary_figure_2_omicos5.pdf",
+    "bytes": 898881,
+    "sha256": "d926d2d738c1a912ac05a3bb2dbbac7d7d5e0fe0b9589956f2aa1ecd2df1f8a3",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/supplementary_figure_2_omicos5.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/supplementary_figure_2_omicos5.png",
+    "bytes": 1528241,
+    "sha256": "109ee9680d2433810ae92fc1c7952270d7546aec653f27eba94d7d0891443c9e",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/supplementary_figure_3_omicos5.pdf",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/supplementary_figure_3_omicos5.pdf",
+    "bytes": 434762,
+    "sha256": "962ed375d4fe7df0e0937b6983866b877954731ac05f6b7ec5df5beb941acc75",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/figures/supplementary_figure_3_omicos5.png",
+    "relative_path": "intermediates/OmicOS_5/outputs/figures/supplementary_figure_3_omicos5.png",
+    "bytes": 1433994,
+    "sha256": "53476c11765df4e513252e653996a290669c86e088f43db1ab18a2aa4b3169ba",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/logs/notebook_execution_omicos5.json",
+    "relative_path": "intermediates/OmicOS_5/outputs/logs/notebook_execution_omicos5.json",
+    "bytes": 306,
+    "sha256": "9ad224ec8f58fe92748e2a8c3c8584b3a20fc3e9b604703343e31c5adf029401",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/logs/verify_omicos5_outputs.json",
+    "relative_path": "intermediates/OmicOS_5/outputs/logs/verify_omicos5_outputs.json",
+    "bytes": 1974,
+    "sha256": "014787bc041bd5772fb8a006a3b6250417da28e2d3c7e98eec5d640533625c95",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/report/figure_story_omicos5.md",
+    "relative_path": "intermediates/OmicOS_5/outputs/report/figure_story_omicos5.md",
+    "bytes": 718,
+    "sha256": "e4f487ea6b8bccfa8ded1b8da2e6b4d1f4a49fcbd258bd78eeed2a535f182bd6",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/tables/candidate_panel_i_domain_marker_interpretation_omicos5.csv",
+    "relative_path": "intermediates/OmicOS_5/outputs/tables/candidate_panel_i_domain_marker_interpretation_omicos5.csv",
+    "bytes": 4030,
+    "sha256": "d1b4c10367447c1759849b72dbc5b6a9cc23c82f6df50a1bd133578f8f0ada3b",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/tables/gigapath32_marker_proxy_composition_omicos5.csv",
+    "relative_path": "intermediates/OmicOS_5/outputs/tables/gigapath32_marker_proxy_composition_omicos5.csv",
+    "bytes": 1524,
+    "sha256": "df094370a9504e09076a896da7bd7bb77e41731875deffdda9b4fc5aea7c8df7",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/tables/gigapath32_vs_predicted_st_overlap_rowfrac_omicos5.csv",
+    "relative_path": "intermediates/OmicOS_5/outputs/tables/gigapath32_vs_predicted_st_overlap_rowfrac_omicos5.csv",
+    "bytes": 1792,
+    "sha256": "8cb745868a46c533685b4df3bca79da7d6b3d92e68776ac8c027656ccea74eb8",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/tables/gigapath_multiscale_domain_counts_omicos5.csv",
+    "relative_path": "intermediates/OmicOS_5/outputs/tables/gigapath_multiscale_domain_counts_omicos5.csv",
+    "bytes": 265,
+    "sha256": "dbd8eb70f90f88c17a1330feb02a548090a0854d141ab83f9f8b6d78d699ee0c",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/tables/marker_association_integrated_omicos5.csv",
+    "relative_path": "intermediates/OmicOS_5/outputs/tables/marker_association_integrated_omicos5.csv",
+    "bytes": 475,
+    "sha256": "81cf547137a713665af15705d35dc0b7ddd5d0c8939d29158d72b7e76d6ab85d",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/tables/morphology_gene_association_threepath_omicos5.csv",
+    "relative_path": "intermediates/OmicOS_5/outputs/tables/morphology_gene_association_threepath_omicos5.csv",
+    "bytes": 475,
+    "sha256": "81cf547137a713665af15705d35dc0b7ddd5d0c8939d29158d72b7e76d6ab85d",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/tables/predicted_st_marker_umap_32um_omicos5.csv",
+    "relative_path": "intermediates/OmicOS_5/outputs/tables/predicted_st_marker_umap_32um_omicos5.csv",
+    "bytes": 1744753,
+    "sha256": "db88886d09192c8fc301ece59009503f6b972424a11350a86e97596e1f257870",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/tables/representative_tile_sources_omicos5.csv",
+    "relative_path": "intermediates/OmicOS_5/outputs/tables/representative_tile_sources_omicos5.csv",
+    "bytes": 2683,
+    "sha256": "93d968b7b55332cb0f3579d19055b4d3f4237f29291d3faa38565d4c2e6b73a4",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/tables/semantic_label_frequency_omicos5.csv",
+    "relative_path": "intermediates/OmicOS_5/outputs/tables/semantic_label_frequency_omicos5.csv",
+    "bytes": 556,
+    "sha256": "ca4b1a5a801d873130aa7bb3f02c3b33bfbcfe16425b311f16683b07c028dec9",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/tables/three_path_concordance_ari_omicos5.csv",
+    "relative_path": "intermediates/OmicOS_5/outputs/tables/three_path_concordance_ari_omicos5.csv",
+    "bytes": 513,
+    "sha256": "f3d789a511f8dad2e6669fac209aeb3eb38ed173af73f5f16c9b989d28a70406",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_5/outputs/tables/zero_shot_model_agreement_omicos5.csv",
+    "relative_path": "intermediates/OmicOS_5/outputs/tables/zero_shot_model_agreement_omicos5.csv",
+    "bytes": 160,
+    "sha256": "d50a7fc5e534949ba569c978cd15dde9c8bfe3560e62d9c1cebd43a7f6dac5a6",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/he_btf_thumbnail_stride32_omicos7.npy",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/he_btf_thumbnail_stride32_omicos7.npy",
+    "bytes": 4848512,
+    "sha256": "201f46b96c8d7593facceab49ea39d7296d5f4db71c0534a9596f3e3d228d93e",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/measured_hd_all_gene_mean_var_omicos7.npz",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/measured_hd_all_gene_mean_var_omicos7.npz",
+    "bytes": 189601,
+    "sha256": "f7a3c6a9654c378f2b3fe789e00f926cc81f7adce5e95861bd53c7d98f5f20e6",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/predicted_st_mapped_all_gene_mean_var_omicos7.npz",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/predicted_st_mapped_all_gene_mean_var_omicos7.npz",
+    "bytes": 589841,
+    "sha256": "94f3f7bdb9f3802a3a324d2af275a20c4ca04858171a0e1ca638d4e800263565",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/000_TCGA-05-4250_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/000_TCGA-05-4250_thumbnail_qc.png",
+    "bytes": 324900,
+    "sha256": "109143af8cb311e87e1cd9feb1951bd44ffdc9704abe12b6e696a8a4cb866b57",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/001_TCGA-05-4390_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/001_TCGA-05-4390_thumbnail_qc.png",
+    "bytes": 451831,
+    "sha256": "bf8469f0923f33cebcd9fc2fc6befc586b2a5e26903b67ceab457b9c86f59a1d",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/002_TCGA-05-4402_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/002_TCGA-05-4402_thumbnail_qc.png",
+    "bytes": 262521,
+    "sha256": "e32d0c803d84a55c035232b8cd6afec2f1f83f2d6880bca5e765e56f16012327",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/003_TCGA-05-4403_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/003_TCGA-05-4403_thumbnail_qc.png",
+    "bytes": 270132,
+    "sha256": "146efd6417c9bb1a6cf484955188d80e089b8cc1f4b2fe4dbf2e62c1a70bc2c1",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/004_TCGA-05-4433_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/004_TCGA-05-4433_thumbnail_qc.png",
+    "bytes": 595124,
+    "sha256": "1cdb3ab45063530d69bff543d7de085cc0d02280a82b7208393f022ad247cca6",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/005_TCGA-05-5423_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/005_TCGA-05-5423_thumbnail_qc.png",
+    "bytes": 648411,
+    "sha256": "d92d2c7deeae6dfed89a9d2a4f25ad6dc3cd50dfba50ba45044af13cfa7426ca",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/006_TCGA-44-2666_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/006_TCGA-44-2666_thumbnail_qc.png",
+    "bytes": 652593,
+    "sha256": "b19a5bb343dabefdbc758694b736711acfd9600f0386bf063a75df822fbf86b5",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/007_TCGA-44-3396_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/007_TCGA-44-3396_thumbnail_qc.png",
+    "bytes": 304667,
+    "sha256": "f850d7da7efa6ba7bf431ba5dd6bc5ea1a2a94e02e32096d254a59c57ae71115",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/008_TCGA-44-3919_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/008_TCGA-44-3919_thumbnail_qc.png",
+    "bytes": 196753,
+    "sha256": "46754a8596e2c6eafa65fd8cd21ee50406cc4cb794cbfbb1d5eaa9e6d93675dc",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/009_TCGA-44-6776_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/009_TCGA-44-6776_thumbnail_qc.png",
+    "bytes": 353902,
+    "sha256": "fb1e816c4fad04534a894fdc19d71741affbdc5f1aa9cf1e6bf63c2921d51a61",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/010_TCGA-44-7669_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/010_TCGA-44-7669_thumbnail_qc.png",
+    "bytes": 401690,
+    "sha256": "a7aee4aabfa2bac35136a9ab207c946b953d55b16f0c9c5331166a0a0213ac96",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/011_TCGA-44-A47A_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/011_TCGA-44-A47A_thumbnail_qc.png",
+    "bytes": 218689,
+    "sha256": "786993d1ed5104bdcfbf144a2e15bef3ba0c2319e55c04e96e204a02291efbde",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/000_TCGA-05-4244_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/000_TCGA-05-4244_thumbnail_qc.png",
+    "bytes": 602892,
+    "sha256": "592a0340796e4a7f6609fe3432415cb44c1e084f2bd2368dda7f8e8e35b2d71b",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/001_TCGA-05-4250_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/001_TCGA-05-4250_thumbnail_qc.png",
+    "bytes": 324900,
+    "sha256": "109143af8cb311e87e1cd9feb1951bd44ffdc9704abe12b6e696a8a4cb866b57",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/002_TCGA-05-4390_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/002_TCGA-05-4390_thumbnail_qc.png",
+    "bytes": 451831,
+    "sha256": "bf8469f0923f33cebcd9fc2fc6befc586b2a5e26903b67ceab457b9c86f59a1d",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/003_TCGA-05-4402_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/003_TCGA-05-4402_thumbnail_qc.png",
+    "bytes": 262521,
+    "sha256": "e32d0c803d84a55c035232b8cd6afec2f1f83f2d6880bca5e765e56f16012327",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/004_TCGA-05-4403_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/004_TCGA-05-4403_thumbnail_qc.png",
+    "bytes": 270132,
+    "sha256": "146efd6417c9bb1a6cf484955188d80e089b8cc1f4b2fe4dbf2e62c1a70bc2c1",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/005_TCGA-05-4420_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/005_TCGA-05-4420_thumbnail_qc.png",
+    "bytes": 183093,
+    "sha256": "0f38167ba686cd852a29b25e54c627a72fe5145f72142b465ac7a1dbee34c717",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/006_TCGA-05-4422_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/006_TCGA-05-4422_thumbnail_qc.png",
+    "bytes": 207506,
+    "sha256": "7587aac33e307b694c2c5e9627cb410a9c9b4274fca6689aed5d1b1687bef832",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/007_TCGA-05-4424_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/007_TCGA-05-4424_thumbnail_qc.png",
+    "bytes": 148881,
+    "sha256": "b13834201cde0062f690d5197ec5e06ad13349baacc1e573a8ed21435e6acdeb",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/008_TCGA-05-4433_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/008_TCGA-05-4433_thumbnail_qc.png",
+    "bytes": 595124,
+    "sha256": "1cdb3ab45063530d69bff543d7de085cc0d02280a82b7208393f022ad247cca6",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/009_TCGA-05-5423_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/009_TCGA-05-5423_thumbnail_qc.png",
+    "bytes": 648411,
+    "sha256": "d92d2c7deeae6dfed89a9d2a4f25ad6dc3cd50dfba50ba45044af13cfa7426ca",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/010_TCGA-38-4630_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/010_TCGA-38-4630_thumbnail_qc.png",
+    "bytes": 529224,
+    "sha256": "cf4c35773d69d61aa0ed4438bc22a32ede422b62a0d424e032a4a573fc3609ec",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/011_TCGA-38-4631_thumbnail_qc.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/artifacts/tcga_luad_he_thumbnail_qc/tcga_luad_200/011_TCGA-38-4631_thumbnail_qc.png",
+    "bytes": 356732,
+    "sha256": "e54a5ef4631e4622095a036514c3e4a9c3069e9b35fabd5f54e1fcb053c82c1f",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/candidate_panel_i_tumor_immune_mix_omicos7.pdf",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/candidate_panel_i_tumor_immune_mix_omicos7.pdf",
+    "bytes": 815141,
+    "sha256": "412ade22f38e70af74c40a5555d08c3962f64a2b22005faa69db1f542235dbd4",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/candidate_panel_i_tumor_immune_mix_omicos7.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/candidate_panel_i_tumor_immune_mix_omicos7.png",
+    "bytes": 1535834,
+    "sha256": "bfb3125b6ce5d7005c8b5349f5130ba10dac69960b7ca0db02dd3cb040d89c32",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/non_he_combined_analysis_omicos7.pdf",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/non_he_combined_analysis_omicos7.pdf",
+    "bytes": 836620,
+    "sha256": "7aa997d4ba0f28cb3c8b24e88e1ab6a7d7968971006e37a2cb15451d5afc387b",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/non_he_combined_analysis_omicos7.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/non_he_combined_analysis_omicos7.png",
+    "bytes": 1503208,
+    "sha256": "6da73899db0eaa88e145502473e339d23d972cad01e07c06f59b0dddbec2c94d",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/omicos_workflow_schematic.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/omicos_workflow_schematic.png",
+    "bytes": 1548493,
+    "sha256": "97eab9ccc2f1063e3e4f7004f6e620cd93809462726db78bd9131f1600ecd4fd",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_analysis/a_tumor_immune_main_overlay.pdf",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_analysis/a_tumor_immune_main_overlay.pdf",
+    "bytes": 1385179,
+    "sha256": "b731a5a7f53896127e1638a478615206beb3482bceb9ae8b4de120a7dde40543",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_analysis/a_tumor_immune_mix.pdf",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_analysis/a_tumor_immune_mix.pdf",
+    "bytes": 940297,
+    "sha256": "7c3ac7e46dd4f94014830526b3c57a71e64d2fecc9a439711d60aa65b64c9a06",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_analysis/a_tumor_immune_on_he.pdf",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_analysis/a_tumor_immune_on_he.pdf",
+    "bytes": 1293304,
+    "sha256": "d149fb7ed6a93576f02a5df59184f6cf5297d3776de8a35066f5d5e9ae7b438d",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_analysis/a_tumor_immune_on_he.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_analysis/a_tumor_immune_on_he.png",
+    "bytes": 747342,
+    "sha256": "44c3d337848139bf54650b4f9df6be3dec6421a782a55d5c7107ff9e836985ad",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_analysis/a_tumor_immune_program_overlay.pdf",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_analysis/a_tumor_immune_program_overlay.pdf",
+    "bytes": 1111277,
+    "sha256": "55dd6f498ad09bcf666b03fa3b738d0f8d5dbbd9faff947295ce80bee31e7a8e",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_analysis/b_he_cancer_region_proxy.pdf",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_analysis/b_he_cancer_region_proxy.pdf",
+    "bytes": 197799,
+    "sha256": "1910c2f044526027d1164c59b786477acff5e5964b17d0f4297b80c114cd1a2b",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_analysis/b_he_cancer_region_proxy.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_analysis/b_he_cancer_region_proxy.png",
+    "bytes": 273723,
+    "sha256": "96e6f8b3d60fa2e913666a531dd908be796fea8e2a61f0b6f249b1d279524910",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_analysis/c_full_data_gene_mean_correlation.pdf",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_analysis/c_full_data_gene_mean_correlation.pdf",
+    "bytes": 204043,
+    "sha256": "0202d35c5848a77a7c9ddea1dcb48688dcd0edc960e306a9654ca64a1016639a",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_analysis/c_full_data_gene_mean_correlation.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_analysis/c_full_data_gene_mean_correlation.png",
+    "bytes": 591685,
+    "sha256": "8882b08b30365417b2f37bd70b00f611db74f3e7ca8684f8caab02d9e9205597",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_analysis/c_full_data_gene_variance_correlation.pdf",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_analysis/c_full_data_gene_variance_correlation.pdf",
+    "bytes": 218640,
+    "sha256": "edc38666b34b8f446df9f2c0f281c65b56b82ceb132fcfe558e1984b5c6b204e",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_analysis/c_full_data_gene_variance_correlation.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_analysis/c_full_data_gene_variance_correlation.png",
+    "bytes": 620628,
+    "sha256": "67b797d6f1682a974eebd7c4026caae7fd96176007c9c18f0beb19b6d35606aa",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_analysis/c_predicted_vs_measured_expression.pdf",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_analysis/c_predicted_vs_measured_expression.pdf",
+    "bytes": 47546,
+    "sha256": "36c705a31ec39c20f6817c2cdaadfccc242012938cabd405001d813dfd0a7ca2",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_analysis/d_marker_concordance_heatmap.pdf",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_analysis/d_marker_concordance_heatmap.pdf",
+    "bytes": 46023,
+    "sha256": "a2216621a2f058f40cfb0732f46df002a6a1168c449c76eb9486e03b8aff3655",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_analysis/e_predicted_marker_programs_by_domain.pdf",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_analysis/e_predicted_marker_programs_by_domain.pdf",
+    "bytes": 61170,
+    "sha256": "1a72bcf2a06e78f927113bd6e1e9b60b3d78a508363c7ec5d65aa6ce1b70944a",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_analysis/f_visium_markers_by_domain.pdf",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_analysis/f_visium_markers_by_domain.pdf",
+    "bytes": 60851,
+    "sha256": "b94a615fb69a4eb1c1f877df59e2a18f46e29e9c2f9fe46cad7db082c3fdff0e",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_analysis/i_candidate_panel_i_tumor_immune_mix.pdf",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_analysis/i_candidate_panel_i_tumor_immune_mix.pdf",
+    "bytes": 933794,
+    "sha256": "6aad5311698bc831d2e18dfa584980073e0471c984cc129a530b61aaafe0c9b3",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_combined_analysis_omicos7/a_predicted_st_tumor_immune_mix.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_combined_analysis_omicos7/a_predicted_st_tumor_immune_mix.png",
+    "bytes": 687880,
+    "sha256": "2320d137a7e4ae75bd2f83fe2ac27565a45b54a1d7c6c42c3c9d6333df185af7",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_combined_analysis_omicos7/b_h_e_cancer_region_proxy.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_combined_analysis_omicos7/b_h_e_cancer_region_proxy.png",
+    "bytes": 339429,
+    "sha256": "47eebbf582f358b079b5ad73897a1cb3fc4d4df9c3386f8595e4c190804d431e",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_combined_analysis_omicos7/c_predicted_vs_measured_expression.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_combined_analysis_omicos7/c_predicted_vs_measured_expression.png",
+    "bytes": 149750,
+    "sha256": "db28e03297aaae556ee82424f65fd5083c50ea38ff831053d5bc88901d9af462",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_combined_analysis_omicos7/d_predicted_marker_vs_visium_marker.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_combined_analysis_omicos7/d_predicted_marker_vs_visium_marker.png",
+    "bytes": 182806,
+    "sha256": "46aa3b5e4c68401a6bf89df0b597e0bd5243a68490b55c9888afbecbaf8c6bcc",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_combined_analysis_omicos7/e_predicted_marker_programs_by_domain.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_combined_analysis_omicos7/e_predicted_marker_programs_by_domain.png",
+    "bytes": 126491,
+    "sha256": "760e4c3a8ace57578fb28145500b19d2e62dc8cc76d75ac2b292d30c69e94d64",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_combined_analysis_omicos7/f_visium_hd_markers_by_domain.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_combined_analysis_omicos7/f_visium_hd_markers_by_domain.png",
+    "bytes": 111207,
+    "sha256": "998fd2dbc6952673b3f52e82bcb5e268f796aadf37d23b24f779e8c3fcb217e1",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/non_he_combined_analysis_omicos7/panel_manifest.json",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/non_he_combined_analysis_omicos7/panel_manifest.json",
+    "bytes": 835,
+    "sha256": "a983c1cdea0117574e83c06f87152499cbfb01b4acd41d51688f75bdf988e9be",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/validation_correlation_triptych/a_pooled_expression_concordance.pdf",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/validation_correlation_triptych/a_pooled_expression_concordance.pdf",
+    "bytes": 47846,
+    "sha256": "3b8f59e471a9221eff12926d84b6739b9350c4fca248eaa2eeae6a3f3cb0e1eb",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/validation_correlation_triptych/b_per_gene_tile_correlation_status.pdf",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/validation_correlation_triptych/b_per_gene_tile_correlation_status.pdf",
+    "bytes": 24312,
+    "sha256": "8237282230ce35920d6b45b3a3a69a9e57b3fb12e5e844f69906c098d8722641",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/validation_correlation_triptych/c_domain_level_marker_concordance.pdf",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/validation_correlation_triptych/c_domain_level_marker_concordance.pdf",
+    "bytes": 50800,
+    "sha256": "87be5e98e14e27c671f7b9c7879c0bb15900cfbf1fc0a5173d91ba2b161cdeb2",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/validation_correlation_triptych_omicos7/a_pooled_expression_concordance.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/validation_correlation_triptych_omicos7/a_pooled_expression_concordance.png",
+    "bytes": 114286,
+    "sha256": "3e3b4d845f215f3f9291d4858c9f33eb70e77c0b1704d2be5f9aac4b39640063",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/validation_correlation_triptych_omicos7/b_per_gene_tile_correlation_status.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/validation_correlation_triptych_omicos7/b_per_gene_tile_correlation_status.png",
+    "bytes": 106559,
+    "sha256": "f86835f4d24b25fd72358a92c4b251164dcbadcaa400401ff6f1ea27cfd0078d",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/validation_correlation_triptych_omicos7/c_domain_level_marker_concordance.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/validation_correlation_triptych_omicos7/c_domain_level_marker_concordance.png",
+    "bytes": 179372,
+    "sha256": "2057a98f86d0651867ab680e3b6ce9e1d81d58877dff07bf6786833a2001b9de",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/panels/validation_correlation_triptych_omicos7/panel_manifest.json",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/panels/validation_correlation_triptych_omicos7/panel_manifest.json",
+    "bytes": 482,
+    "sha256": "45e1a4179c2431e3f0e43ec256a8ae19c2134b0af0d41aa3b7ab591d73528f73",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/paper_fig4_page7_render.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/paper_fig4_page7_render.png",
+    "bytes": 379575,
+    "sha256": "142c74a77b37bdc8e082d31969f396f20f5fcc8a8f9ffaed03f829923a64fafa",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/tcga_luad_survival/tcga_luad_all_available_he_stromal_immune_km_styled_omicos7.pdf",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/tcga_luad_survival/tcga_luad_all_available_he_stromal_immune_km_styled_omicos7.pdf",
+    "bytes": 28332,
+    "sha256": "7534363119ff9331f04e7f89bd4ca087f5fabda24b9aefb46854e72db0d0f7b1",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/tcga_luad_survival/tcga_luad_all_available_he_stromal_immune_km_styled_omicos7.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/tcga_luad_survival/tcga_luad_all_available_he_stromal_immune_km_styled_omicos7.png",
+    "bytes": 78215,
+    "sha256": "3a9fef2282054637aea1a1b125177b8a93875ce56369c524bbe57e82e40c83ca",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/validation_correlation_triptych_omicos7.pdf",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/validation_correlation_triptych_omicos7.pdf",
+    "bytes": 72376,
+    "sha256": "b90a61da91df9f036f156f861827ec76f1970285ff0ea915ca9eec8313dc670b",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/figures/validation_correlation_triptych_omicos7.png",
+    "relative_path": "intermediates/OmicOS_7/outputs/figures/validation_correlation_triptych_omicos7.png",
+    "bytes": 453099,
+    "sha256": "45bfe4f04037ff48a1f0e701bdb2ffb01f65dc9f0df0df1fb2e9a9529bf9cb10",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/full_data_c_panel_omicos7.log",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/full_data_c_panel_omicos7.log",
+    "bytes": 8152,
+    "sha256": "df7b30f9213486b01d551d6f2d707ae7c70fefdddac4149c9e844d148cde5e24",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/full_data_c_panel_summary_omicos7.json",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/full_data_c_panel_summary_omicos7.json",
+    "bytes": 1030,
+    "sha256": "4ec330628e73b0f781334763f3957674fb1b6d715f9dbb7e7f3d901e60df3d31",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/non_he_analysis_summary_omicos7.json",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/non_he_analysis_summary_omicos7.json",
+    "bytes": 564,
+    "sha256": "f75e6fe538a34c028cb2625fccb3742ccec8336c4540e5c529e637d9630c0b2d",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/notebook_execution_omicos7.json",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/notebook_execution_omicos7.json",
+    "bytes": 352,
+    "sha256": "a4bc96089bccdd2a84fbd1c76a229a97824bfea1b9d956baca64f3aa4deb1529",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/tcga_luad_100_download.nohup.log",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/tcga_luad_100_download.nohup.log",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/tcga_luad_100_download.tmux.log",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/tcga_luad_100_download.tmux.log",
+    "bytes": 179526,
+    "sha256": "c3911e493c4f8f256aa72e575f986a0fb9b6b71772dfd385b1e13efd235be9eb",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/tcga_luad_100_download_summary.json",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/tcga_luad_100_download_summary.json",
+    "bytes": 43525,
+    "sha256": "f22a1e6decafdbbccfc98b19cfb1fd30a15f435e4eb8ce47ea27db6408c69239",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/tcga_luad_100_he_features.tmux.log",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/tcga_luad_100_he_features.tmux.log",
+    "bytes": 116123,
+    "sha256": "a2bb130b95c498a8c1b31b14da0e3ad0c5514f5b0d42035018afc4bf93de0533",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/tcga_luad_100_he_morphology_features_summary_omicos7.json",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/tcga_luad_100_he_morphology_features_summary_omicos7.json",
+    "bytes": 493,
+    "sha256": "5f2f20defe5b9e7cae13a5c0377c46dd807f30163d5b1799590bf2ab2399d953",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/tcga_luad_100_he_stromal_immune_survival_summary_omicos7.json",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/tcga_luad_100_he_stromal_immune_survival_summary_omicos7.json",
+    "bytes": 1481,
+    "sha256": "68bd6271d1c3e41cbb000e0f8492900ab88e8eccee59bc6bae14b827e8085bc9",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/tcga_luad_100_status_30min.log",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/tcga_luad_100_status_30min.log",
+    "bytes": 17431,
+    "sha256": "d7a05a405bbdd090469c9c1533bb0a66e2491533228a381cae7c3f0d94ed9034",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/tcga_luad_100_survival_analysis_summary_omicos7.json",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/tcga_luad_100_survival_analysis_summary_omicos7.json",
+    "bytes": 1861,
+    "sha256": "e41630754fb2b39d0445f9f3399224f8d4a20f0ec659f5c1994e6e27a1d72fd5",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/tcga_luad_200_download.tmux.log",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/tcga_luad_200_download.tmux.log",
+    "bytes": 179277,
+    "sha256": "ce7cc6657b51dbe6a2fd6bed085c72314a6d80722f5943251f80652f76eef387",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/tcga_luad_200_download_summary.json",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/tcga_luad_200_download_summary.json",
+    "bytes": 88423,
+    "sha256": "da14fcfa279ced196d9dfb0ac934636fba78d9f8bc30254a79b1bff6eae82dec",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/tcga_luad_200_he_features.tmux.log",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/tcga_luad_200_he_features.tmux.log",
+    "bytes": 231823,
+    "sha256": "01890bb28fe9945b821acfe6ea0a79d0ee602cda67dda35fc4f2cfc3ce155164",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/tcga_luad_200_he_morphology_features_summary_omicos7.json",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/tcga_luad_200_he_morphology_features_summary_omicos7.json",
+    "bytes": 493,
+    "sha256": "a8deed06bf65ee837f3e9bb2e3fa5cb3b45d62f10511517f6c09abf1fd999504",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/tcga_luad_200_he_stromal_immune_survival_summary_omicos7.json",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/tcga_luad_200_he_stromal_immune_survival_summary_omicos7.json",
+    "bytes": 1480,
+    "sha256": "db65921621f74042513a325af5a9181ddd08f4efef0748be02c5193c1b7af300",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/tcga_luad_200_status_30min.log",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/tcga_luad_200_status_30min.log",
+    "bytes": 8676,
+    "sha256": "d02dac89e582f339edafcf87f037796f02871bce596288a372ccb0a1a9f75cdb",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/tcga_luad_200_survival_analysis_summary_omicos7.json",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/tcga_luad_200_survival_analysis_summary_omicos7.json",
+    "bytes": 1913,
+    "sha256": "f1cc2b514ceac957f4e1058aad78eee8ddf851d66010df9abfc4cc5e9ae49e19",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/tcga_luad_all_available_he_stromal_immune_survival_summary_omicos7.json",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/tcga_luad_all_available_he_stromal_immune_survival_summary_omicos7.json",
+    "bytes": 1521,
+    "sha256": "84ea905b124900bab01846fd88e7f406e218c78be0e287d11cbfe69f9d141a49",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/tcga_luad_all_available_new_he_morphology_features_summary_omicos7.json",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/tcga_luad_all_available_new_he_morphology_features_summary_omicos7.json",
+    "bytes": 476,
+    "sha256": "4bd774f304d07b5a5ab56a0586ea9880dd32355a97d7d265af1999d46dc97608",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/tcga_luad_all_download.tmux.log",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/tcga_luad_all_download.tmux.log",
+    "bytes": 497534,
+    "sha256": "841461e39e3a610655361c283ffc336c3cd7b35c065ba655c1eab2a29f9558a7",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/tcga_luad_all_download_summary.json",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/tcga_luad_all_download_summary.json",
+    "bytes": 245376,
+    "sha256": "0011882b55d46b98c02ff84f8ab8971848fdaef92c5c6844a5dc2cc4123fdfdc",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/tcga_luad_all_status_30min.log",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/tcga_luad_all_status_30min.log",
+    "bytes": 13912,
+    "sha256": "862a6cc82ceebcfe8975e990eb209cdff81e15a083b0c6e0d246697ec867d127",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/tcga_luad_gdc_download_summary.json",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/tcga_luad_gdc_download_summary.json",
+    "bytes": 1455,
+    "sha256": "17cf9cbff53b3a3240681d63021dd49f61bb14210cee6f187cd66e4063d823a8",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/logs/tcga_luad_survival_input_status_omicos7.json",
+    "relative_path": "intermediates/OmicOS_7/outputs/logs/tcga_luad_survival_input_status_omicos7.json",
+    "bytes": 577,
+    "sha256": "e6a89b2950b16a373d369c7516a2765e31ec8032e1191e52f97451131f70c09e",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/report/fig4_style_survival_analysis_plan.md",
+    "relative_path": "intermediates/OmicOS_7/outputs/report/fig4_style_survival_analysis_plan.md",
+    "bytes": 7108,
+    "sha256": "950ced1331b8b353f22deedddcbe25c20b2afc944f87f79bd8a7c1ff9823b7c5",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/report/non_he_analysis_summary.md",
+    "relative_path": "intermediates/OmicOS_7/outputs/report/non_he_analysis_summary.md",
+    "bytes": 853,
+    "sha256": "bf8efa3501a27b9de87f1d1e752cc8af8e1112b1befbd4c6b5e8c6e23a265a28",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/report/omicos_workflow_summary.md",
+    "relative_path": "intermediates/OmicOS_7/outputs/report/omicos_workflow_summary.md",
+    "bytes": 6747,
+    "sha256": "bd3f71196d4c3e7dfa715671ea6dd98d2c0bd095f3ac3880bc9a8016675fc087",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/report/tcga_luad_100_he_rna_survival_report_omicos7.md",
+    "relative_path": "intermediates/OmicOS_7/outputs/report/tcga_luad_100_he_rna_survival_report_omicos7.md",
+    "bytes": 2275,
+    "sha256": "e5926c37b4e054264d30e0486b394eefb5f552c8a8528f9e97fe905351c024e6",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/report/tcga_luad_100_he_stromal_immune_survival_report_omicos7.md",
+    "relative_path": "intermediates/OmicOS_7/outputs/report/tcga_luad_100_he_stromal_immune_survival_report_omicos7.md",
+    "bytes": 1420,
+    "sha256": "fc2eba9f5ba45a3107c59a4386ba1f6096980bdc6570a1b1f3822ccf7b50edb8",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/report/tcga_luad_200_he_rna_survival_report_omicos7.md",
+    "relative_path": "intermediates/OmicOS_7/outputs/report/tcga_luad_200_he_rna_survival_report_omicos7.md",
+    "bytes": 2271,
+    "sha256": "c9fbdc0cd36d1f8df8d810baa0174fbcb54fc4f483fb156516633c6ac4003b9b",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/report/tcga_luad_200_he_stromal_immune_survival_report_omicos7.md",
+    "relative_path": "intermediates/OmicOS_7/outputs/report/tcga_luad_200_he_stromal_immune_survival_report_omicos7.md",
+    "bytes": 1419,
+    "sha256": "df869a02c1b6c91ff7e7eafb2183c45dc96967b59a45f6eaabdf5dcae325c334",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/report/tcga_luad_all_available_he_stromal_immune_survival_report_omicos7.md",
+    "relative_path": "intermediates/OmicOS_7/outputs/report/tcga_luad_all_available_he_stromal_immune_survival_report_omicos7.md",
+    "bytes": 1461,
+    "sha256": "0f10ec881471ff1120744f6f3d06f47dfdb5ad91b88f54e98cde3aeda22ba3e7",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/full_data_predicted_vs_visium_gene_calibration_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/full_data_predicted_vs_visium_gene_calibration_omicos7.csv",
+    "bytes": 3290767,
+    "sha256": "a4b7642f778fd01f9f0e29c19f057c54dac80bac1d5096d5deb221c823990252",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/he_cancer_proxy_and_tumor_immune_tiles_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/he_cancer_proxy_and_tumor_immune_tiles_omicos7.csv",
+    "bytes": 1777486,
+    "sha256": "65382329f5704d3930d7b6e5f0bfdf44995d4b13897da45d8dfd3bdbc5fcda6d",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/he_cancer_proxy_by_domain_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/he_cancer_proxy_by_domain_omicos7.csv",
+    "bytes": 1112,
+    "sha256": "049432d0dc304647502aea21480b97cec0ef20ff71d8427a90beb018e028b157",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/predicted_marker_vs_visium_marker_domain_correlation_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/predicted_marker_vs_visium_marker_domain_correlation_omicos7.csv",
+    "bytes": 827,
+    "sha256": "7874a74d3e10200f54ee2982560029ce43d25de8f38d1dc4455c8a88e2cbfc40",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/predicted_vs_visium_gene_validation_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/predicted_vs_visium_gene_validation_omicos7.csv",
+    "bytes": 1015,
+    "sha256": "8eec3f87e74aa0feefd88077b4c5b87abe9e6e1acf11a3b06611c27afdb3f536",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_100_he_morphology_features_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_100_he_morphology_features_omicos7.csv",
+    "bytes": 113693,
+    "sha256": "6f27f1ba35fc7779f900c37ccc21ae801906727ef50cbe1cb4dd361bf400c5ee",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_100_he_rna_survival_dataset_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_100_he_rna_survival_dataset_omicos7.csv",
+    "bytes": 108755,
+    "sha256": "284994496f1e22655048a55809c8c9d910c598355e4cbf6494ea2eb20813d0a9",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_100_he_stromal_immune_survival_dataset_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_100_he_stromal_immune_survival_dataset_omicos7.csv",
+    "bytes": 112752,
+    "sha256": "1e92680a0677cb15eb8a78d7bbb8c0b03ec2fdd4fd88d3a9b0b2dec150a41fd5",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_100_he_stromal_immune_survival_summary_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_100_he_stromal_immune_survival_summary_omicos7.csv",
+    "bytes": 1646,
+    "sha256": "9a48b16341a03d36dd4960af927d4c93247d2f86fed82e0c4eb75b507052976a",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_100_km_survival_summary_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_100_km_survival_summary_omicos7.csv",
+    "bytes": 1474,
+    "sha256": "bb2c7467ef636642f05da4c2deda37c653906df8a2b2945ded30cbb241c03c5c",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_100_rna_marker_log2tpm_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_100_rna_marker_log2tpm_omicos7.csv",
+    "bytes": 50478,
+    "sha256": "ee282a110e2e18abfbcd17fe823c1c0464c86d877c3727dd7401d7ff3710819e",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_100_rna_marker_programs_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_100_rna_marker_programs_omicos7.csv",
+    "bytes": 13304,
+    "sha256": "55f05cfeb16c5041365d445694b2764634a0b5699ab122d17525bf94e51c6a1b",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_100_survival_cox_summary_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_100_survival_cox_summary_omicos7.csv",
+    "bytes": 1669,
+    "sha256": "9e506affb9c4d09e257ae8a6b6a8b5f7f54c54bd0e32e3cb7f09468d7500b829",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_200_he_morphology_features_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_200_he_morphology_features_omicos7.csv",
+    "bytes": 225352,
+    "sha256": "47a619d228292095a48b0f3b2a8a7a90445bf5a157a0588da21ca8ad30a8ea48",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_200_he_rna_survival_dataset_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_200_he_rna_survival_dataset_omicos7.csv",
+    "bytes": 214272,
+    "sha256": "d6ac6287f11bc10cad3c4e5ecff6e17cb688b44c7e2b53f5691c990dcc81aeeb",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_200_he_stromal_immune_survival_dataset_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_200_he_stromal_immune_survival_dataset_omicos7.csv",
+    "bytes": 222192,
+    "sha256": "0d3ff530837ef9d282e7080af0f1a0794cd65f8797ca0a72e658a4a6d687c1ea",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_200_he_stromal_immune_survival_summary_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_200_he_stromal_immune_survival_summary_omicos7.csv",
+    "bytes": 1662,
+    "sha256": "8fe796516cc5f5d3385ab4cae04b865441c0d44f6da913ff625c2ae51f5ed4dc",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_200_km_survival_summary_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_200_km_survival_summary_omicos7.csv",
+    "bytes": 1482,
+    "sha256": "4132c57c80b6c81a2a29d20cfb4bc7e41a6a043f9fb04af1a34f2bb7da2aa382",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_200_rna_marker_log2tpm_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_200_rna_marker_log2tpm_omicos7.csv",
+    "bytes": 100643,
+    "sha256": "73975e121505f4ea9756798f6ba463584e159fa353975c1c4ff04f0c56715ab5",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_200_rna_marker_programs_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_200_rna_marker_programs_omicos7.csv",
+    "bytes": 26456,
+    "sha256": "58553023c98f6b12c9749c446b6f2b04f428073a436be7d56910e9c1499967e4",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_200_survival_cox_summary_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_200_survival_cox_summary_omicos7.csv",
+    "bytes": 1665,
+    "sha256": "a70211952dbcbe1ebf2b208d35e83a9de65a1838e0a7dcf71383651cbd2b5ccf",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_all_available_he_km_comparison_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_all_available_he_km_comparison_omicos7.csv",
+    "bytes": 1711,
+    "sha256": "b3ff1a0dccc421b4d3eca708bd7249ee2d1c4fbfd116b4b65df3165515a0e061",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_all_available_he_stromal_immune_survival_dataset_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_all_available_he_stromal_immune_survival_dataset_omicos7.csv",
+    "bytes": 225536,
+    "sha256": "801a40e5dddfe2d02355849de994f3940af03aec771648198e045d4125a7bb33",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_all_available_he_stromal_immune_survival_summary_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_all_available_he_stromal_immune_survival_summary_omicos7.csv",
+    "bytes": 864,
+    "sha256": "053dbd21c6eb17ffca3e48ed9bc364d12710213bcff07c1aea10502564848ddc",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_all_available_he_survival_dataset_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_all_available_he_survival_dataset_omicos7.csv",
+    "bytes": 215320,
+    "sha256": "bc73d441d56db7b022f1d6b508ed9b955a00ea87cc2a2e1f80330fb5b101cbed",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_all_available_new_he_morphology_features_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_all_available_new_he_morphology_features_omicos7.csv",
+    "bytes": 48295,
+    "sha256": "f4ae5f90cdc24a52a65c859706fa2239143195109f9692dc8fd3093a15b5b482",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_all_available_new_patient_selection_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_all_available_new_patient_selection_omicos7.csv",
+    "bytes": 14442,
+    "sha256": "7eaf270f69616e5510e251f04c3fc652c4f375be7f7b1a2232182fdd5bb50cad",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_all_available_patient_selection_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_all_available_patient_selection_omicos7.csv",
+    "bytes": 79519,
+    "sha256": "1f107729af7fed3e7261e7b515e418f5f178de8c229dec688260ff60961e4dd3",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_clinical_survival_template_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_clinical_survival_template_omicos7.csv",
+    "bytes": 136,
+    "sha256": "3977a16974dd8a304b83c28e0cbb1b9a7eb6a70ae66d1204425ea19dbea8a45e",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_7/outputs/tables/tcga_luad_slide_features_template_omicos7.csv",
+    "relative_path": "intermediates/OmicOS_7/outputs/tables/tcga_luad_slide_features_template_omicos7.csv",
+    "bytes": 194,
+    "sha256": "0dbdb954b230a796d4004bdecb006a5d4fd7560d7125ddbd3d4695aa347f464a",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/figures/luad_matched_2high_2low_c5_c6_gene_program_enrichment_dot_heatmap_4x8_omicos8.pdf",
+    "relative_path": "intermediates/OmicOS_8/outputs/figures/luad_matched_2high_2low_c5_c6_gene_program_enrichment_dot_heatmap_4x8_omicos8.pdf",
+    "bytes": 26616,
+    "sha256": "781961416b58058f0ed27c5c33223ee005e64e006f344c0afd6da88e708763fb",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/figures/luad_matched_2high_2low_c5_c6_gene_program_enrichment_dot_heatmap_4x8_omicos8.png",
+    "relative_path": "intermediates/OmicOS_8/outputs/figures/luad_matched_2high_2low_c5_c6_gene_program_enrichment_dot_heatmap_4x8_omicos8.png",
+    "bytes": 115309,
+    "sha256": "b64df252d8fb3abcb5cc7c80a32493503ad28d61438b39f615e290df094c4a52",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/figures/luad_matched_2high_2low_c5_c6_gene_program_enrichment_omicos8.pdf",
+    "relative_path": "intermediates/OmicOS_8/outputs/figures/luad_matched_2high_2low_c5_c6_gene_program_enrichment_omicos8.pdf",
+    "bytes": 23694,
+    "sha256": "e0aa16a38ee84cd0be0271372ae4f012ca1bc8e0e58406de550272e4dc92552e",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/figures/luad_matched_2high_2low_c5_c6_gene_program_enrichment_omicos8.png",
+    "relative_path": "intermediates/OmicOS_8/outputs/figures/luad_matched_2high_2low_c5_c6_gene_program_enrichment_omicos8.png",
+    "bytes": 194898,
+    "sha256": "106a1477ad9202edfb115a8c423cb10758b2faca2f2702a315682357225e93ca",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/figures/luad_matched_2high_2low_c5_c6_gene_program_enrichment_stacked_4x8_omicos8.pdf",
+    "relative_path": "intermediates/OmicOS_8/outputs/figures/luad_matched_2high_2low_c5_c6_gene_program_enrichment_stacked_4x8_omicos8.pdf",
+    "bytes": 23807,
+    "sha256": "704e9c23e01954114be824fe4abeead03e7b1c7b074ce51eeca61879f9280552",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/figures/luad_matched_2high_2low_c5_c6_gene_program_enrichment_stacked_4x8_omicos8.png",
+    "relative_path": "intermediates/OmicOS_8/outputs/figures/luad_matched_2high_2low_c5_c6_gene_program_enrichment_stacked_4x8_omicos8.png",
+    "bytes": 259683,
+    "sha256": "b40e853cfbacdf073324dac09c834952b344d458e08f10abf657a29d28a3ad9e",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/figures/luad_matched_2high_2low_spatial_key_regions_panel_omicos8.pdf",
+    "relative_path": "intermediates/OmicOS_8/outputs/figures/luad_matched_2high_2low_spatial_key_regions_panel_omicos8.pdf",
+    "bytes": 7136823,
+    "sha256": "964d4ee6e3098f816e4de456e81575cef5da30ce0ca7042c3eca84bd81c84305",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/figures/luad_matched_2high_2low_spatial_key_regions_panel_omicos8.png",
+    "relative_path": "intermediates/OmicOS_8/outputs/figures/luad_matched_2high_2low_spatial_key_regions_panel_omicos8.png",
+    "bytes": 7342642,
+    "sha256": "b246c3acab527c9e4153aaff7912e0eecb047f89f6d760331e012db7e84eaf95",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/figures/luad_matched_2high_2low_umap_sample_vs_key_regions_omicos8.pdf",
+    "relative_path": "intermediates/OmicOS_8/outputs/figures/luad_matched_2high_2low_umap_sample_vs_key_regions_omicos8.pdf",
+    "bytes": 426727,
+    "sha256": "0383dcb0e35d5032db93bac708ddced495c6c64c409efadf1c6abc1266e78c32",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/figures/luad_matched_2high_2low_umap_sample_vs_key_regions_omicos8.png",
+    "relative_path": "intermediates/OmicOS_8/outputs/figures/luad_matched_2high_2low_umap_sample_vs_key_regions_omicos8.png",
+    "bytes": 1481640,
+    "sha256": "ac74d0072c3f767644ac98cfcb924ac6826b06f6027d25dbfa19b43a22575750",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/report/luad_matched_2high_2low_celltype_proxy_interpretation_omicos8.md",
+    "relative_path": "intermediates/OmicOS_8/outputs/report/luad_matched_2high_2low_celltype_proxy_interpretation_omicos8.md",
+    "bytes": 7777,
+    "sha256": "40eccc14fc35fe493a0bfa705f11716b9fe5708118381a942b2285515795910c",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/report/luad_matched_2high_2low_differential_region_biology_report_omicos8.md",
+    "relative_path": "intermediates/OmicOS_8/outputs/report/luad_matched_2high_2low_differential_region_biology_report_omicos8.md",
+    "bytes": 8827,
+    "sha256": "0460f5ae2ba1aefe05a5f83bc87b05c851b991db506a7c043222df6efab09dd6",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/report/luad_matched_2high_2low_region_signal_enrichment_report_omicos8.md",
+    "relative_path": "intermediates/OmicOS_8/outputs/report/luad_matched_2high_2low_region_signal_enrichment_report_omicos8.md",
+    "bytes": 11168,
+    "sha256": "5c669880bcb7dbf071e9e032a958f970c77ff756fafcc65400a59b4aae767443",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/report/luad_three_slide_integration_report_omicos8.md",
+    "relative_path": "intermediates/OmicOS_8/outputs/report/luad_three_slide_integration_report_omicos8.md",
+    "bytes": 13661,
+    "sha256": "bd69a59dcc78e00761151ca690be65d62e3fef52e6ce9a546bd873db9d113057",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_matched_2high_2low_differential_region_biological_interpretation_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_matched_2high_2low_differential_region_biological_interpretation_omicos8.csv",
+    "bytes": 2089,
+    "sha256": "1a12301f72c19a8452f822e0fe8343aa874919cfcc5391fb754a023921a49abc",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_matched_2high_2low_differential_region_biological_program_scores_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_matched_2high_2low_differential_region_biological_program_scores_omicos8.csv",
+    "bytes": 3156,
+    "sha256": "e76baf8a754d1ff3e12d9c445c427743871f22e82e01990ae4b101a7ba68acb5",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_matched_2high_2low_region_biological_program_scores_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_matched_2high_2low_region_biological_program_scores_omicos8.csv",
+    "bytes": 6120,
+    "sha256": "897d8d3cfe77006da45d2af5e9b2b4c0159b85eafe2d3b58af1ee996b0c8d6df",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_matched_2high_2low_region_risk_enrichment_stats_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_matched_2high_2low_region_risk_enrichment_stats_omicos8.csv",
+    "bytes": 2204,
+    "sha256": "df0e87a2d45bbc67888e8ead39b120dc4b3b080595b8f1ba283a16cf51504558",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_matched_2high_2low_selection_rationale_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_matched_2high_2low_selection_rationale_omicos8.csv",
+    "bytes": 430,
+    "sha256": "21384350728dc5a55e91a9bf5ccae69731d37cd8e1560e4ce62ac7af96daad22",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_matched_2high_2low_slide_scaled_region_celltype_proxy_summary_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_matched_2high_2low_slide_scaled_region_celltype_proxy_summary_omicos8.csv",
+    "bytes": 2948,
+    "sha256": "c82a7e6330b0ff3a60a681bd87307beaf493fd91072ef669c658a765ca399c99",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_matched_2high_2low_slide_scaled_region_signal_enrichment_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_matched_2high_2low_slide_scaled_region_signal_enrichment_omicos8.csv",
+    "bytes": 19240,
+    "sha256": "3712692cde7daa58aca9da3e7abb38dcd43e629ed420579513456e8261eb4d15",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_matched_2high_2low_slide_scaled_region_signal_summary_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_matched_2high_2low_slide_scaled_region_signal_summary_omicos8.csv",
+    "bytes": 2532,
+    "sha256": "65f69e2d9805c7ad9ee22cc9eb66e78b03568be7f804d6031e93180ca31241a2",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_matched_2high_2low_slide_scaled_risk_celltype_proxy_summary_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_matched_2high_2low_slide_scaled_risk_celltype_proxy_summary_omicos8.csv",
+    "bytes": 959,
+    "sha256": "880368383c5c469f5830fc3e438ac223eaa64affcaacef8db9b3f03edb32234f",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_matched_2high_2low_slide_scaled_risk_signal_differences_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_matched_2high_2low_slide_scaled_risk_signal_differences_omicos8.csv",
+    "bytes": 1519,
+    "sha256": "1d3ce39d9a04e274cfa24038a1fe1a10a151cca0de22bf9231c86cbed9c197d7",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_matched_2high_2low_slide_scaled_slide_celltype_proxy_summary_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_matched_2high_2low_slide_scaled_slide_celltype_proxy_summary_omicos8.csv",
+    "bytes": 1644,
+    "sha256": "181dbf26840f984825608bcb4dc5e62f7b5a9941df98b31595baa38e1a0ef823",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_matched_2high_2low_slide_scaled_specific_region_enrichment_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_matched_2high_2low_slide_scaled_specific_region_enrichment_omicos8.csv",
+    "bytes": 3665,
+    "sha256": "f647e732408f916dd12bac5f970871333976d443b24e58ec4eed8321a1760788",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_three_slide_batch_correction_qc_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_three_slide_batch_correction_qc_omicos8.csv",
+    "bytes": 535,
+    "sha256": "14b693d9272638354066f86a91802f9b980bdcc36474feeb2d1433dd798a7eca",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_three_slide_cluster_composition_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_three_slide_cluster_composition_omicos8.csv",
+    "bytes": 1669,
+    "sha256": "1440577e3e36c0100166c1b8a96950e177966fee62b16addd236166a04485cb6",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_three_slide_method_region_counts_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_three_slide_method_region_counts_omicos8.csv",
+    "bytes": 193,
+    "sha256": "daf78cbfdf5029353efce197fa5388b70020e0b1e347c96e27f20f1e5a2cf18c",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_three_slide_raw_tile_features_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_three_slide_raw_tile_features_omicos8.csv",
+    "bytes": 4886231,
+    "sha256": "53f74e6b2f761f49c19208ef9320d4016ec123bf23405d86f6b85e7328f283c2",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_three_slide_region_summary_harmony_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_three_slide_region_summary_harmony_omicos8.csv",
+    "bytes": 1713,
+    "sha256": "49209fdcb3431b788d6e0883f486101bd931546f0c46d3438e98ed23df0cee57",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_three_slide_region_summary_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_three_slide_region_summary_omicos8.csv",
+    "bytes": 1669,
+    "sha256": "1440577e3e36c0100166c1b8a96950e177966fee62b16addd236166a04485cb6",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_three_slide_region_summary_raw_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_three_slide_region_summary_raw_omicos8.csv",
+    "bytes": 1682,
+    "sha256": "a29960959226b92972c1661f9f1be1738b9124abf781972022eae1d00eac0c4a",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_three_slide_region_summary_slide_scaled_bnn_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_three_slide_region_summary_slide_scaled_bnn_omicos8.csv",
+    "bytes": 1668,
+    "sha256": "8db75e309294f98ae5ea9ec181f08217216054bb8c7986620985dedcf5c6b69e",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_three_slide_region_summary_slide_scaled_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_three_slide_region_summary_slide_scaled_omicos8.csv",
+    "bytes": 1669,
+    "sha256": "1440577e3e36c0100166c1b8a96950e177966fee62b16addd236166a04485cb6",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_three_slide_selected_slides_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_three_slide_selected_slides_omicos8.csv",
+    "bytes": 5371,
+    "sha256": "1a8604b348b770d73c9c28a52e6401a76e8041ea5a3f3bbd5236b6354be7ac02",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_three_slide_slide_scaled_region_celltype_proxy_summary_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_three_slide_slide_scaled_region_celltype_proxy_summary_omicos8.csv",
+    "bytes": 2948,
+    "sha256": "c82a7e6330b0ff3a60a681bd87307beaf493fd91072ef669c658a765ca399c99",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_three_slide_slide_scaled_risk_celltype_proxy_summary_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_three_slide_slide_scaled_risk_celltype_proxy_summary_omicos8.csv",
+    "bytes": 959,
+    "sha256": "880368383c5c469f5830fc3e438ac223eaa64affcaacef8db9b3f03edb32234f",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_three_slide_slide_scaled_slide_celltype_proxy_summary_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_three_slide_slide_scaled_slide_celltype_proxy_summary_omicos8.csv",
+    "bytes": 1644,
+    "sha256": "181dbf26840f984825608bcb4dc5e62f7b5a9941df98b31595baa38e1a0ef823",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_three_slide_tile_features_harmony_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_three_slide_tile_features_harmony_omicos8.csv",
+    "bytes": 7189085,
+    "sha256": "0fed0b1a9220f1fee9f4a8978113715133db510c99cd5d6c4180568b8d86dc50",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_three_slide_tile_features_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_three_slide_tile_features_omicos8.csv",
+    "bytes": 7233852,
+    "sha256": "174dfe232d38788b8090906612d3b955ef58fb4ac42c71120a9b2d3ebfc42f1d",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_three_slide_tile_features_raw_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_three_slide_tile_features_raw_omicos8.csv",
+    "bytes": 7163367,
+    "sha256": "fdebf7bfc8e3a74536aeab85e2836ed64a4b64fad359869b82a0701ead70f645",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_three_slide_tile_features_slide_scaled_bnn_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_three_slide_tile_features_slide_scaled_bnn_omicos8.csv",
+    "bytes": 7279223,
+    "sha256": "01b4622460030e3e82d5cc3140a1bdf202724bea0f546854d0960dd7c232345a",
+    "preserve_mode": "hardlink"
+  },
+  {
+    "category": "intermediate_outputs",
+    "source_path": "/data/hulei/OmicOS/OmicOS_8/outputs/tables/luad_three_slide_tile_features_slide_scaled_omicos8.csv",
+    "relative_path": "intermediates/OmicOS_8/outputs/tables/luad_three_slide_tile_features_slide_scaled_omicos8.csv",
+    "bytes": 7233852,
+    "sha256": "174dfe232d38788b8090906612d3b955ef58fb4ac42c71120a9b2d3ebfc42f1d",
+    "preserve_mode": "hardlink"
+  }
+]
