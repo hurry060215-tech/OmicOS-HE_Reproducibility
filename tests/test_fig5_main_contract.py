@@ -81,7 +81,7 @@ def test_reported_panel_style_requirements_are_encoded():
     assert 'label=domain_display_label(c)' in joined
     assert 'fig = plt.figure(figsize=(12.8, 4.8)' in joined
     assert 'legend_reserved_frac=0.36' in joined
-    assert 'spatial_binary(ax, cancer, "he_cancer_region_proxy", "H&E cancer-enriched region", size=4.0)' in joined
+    assert 'spatial_binary(ax, cancer, "he_cancer_region_proxy_t050", "H&E cancer-enriched region", size=5.0)' in joined
     assert 'title="Predicted ST tumor and immune signatures"' not in joined
     assert 'title="Predicted ST tumor and immune signature"' in joined
     assert 'display_saved_png(path_base.with_suffix(".png"), width=900)' in joined

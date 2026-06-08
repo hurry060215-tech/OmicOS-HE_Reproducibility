@@ -4,7 +4,6 @@ from __future__ import annotations
 import hashlib
 import json
 import math
-import os
 from pathlib import Path
 
 import matplotlib
@@ -19,8 +18,7 @@ from PIL import Image
 from scipy.stats import mannwhitneyu, pearsonr
 
 
-REPRO = Path(__file__).resolve().parents[2]
-ROOT = Path(os.environ.get("OMICOS_SOURCE_ROOT", REPRO.parent)).expanduser().resolve()
+ROOT = Path("/data/hulei/OmicOS")
 OUT = ROOT / "OmicOS_9"
 FIG = OUT / "outputs" / "figures"
 TAB = OUT / "outputs" / "tables"
@@ -29,8 +27,8 @@ LOG = OUT / "outputs" / "logs"
 NOTEBOOKS = OUT / "notebooks"
 PANEL = OUT / "outputs" / "panels"
 
-ANALYSIS_DATA = REPRO / "analysis" / "final_plotting_data"
-ANALYSIS_INPUTS = REPRO / "analysis" / "inputs"
+ANALYSIS_DATA = ROOT / "OmicOS_reproduce" / "analysis" / "final_plotting_data"
+ANALYSIS_INPUTS = ROOT / "OmicOS_reproduce" / "analysis" / "inputs"
 HE_BTF = ANALYSIS_INPUTS / "he_raw" / "visium_hd" / "Visium_HD_Human_Lung_Cancer_Fixed_Frozen_tissue_image.btf"
 
 MARKER_GROUPS = [
@@ -537,7 +535,8 @@ def build_threshold_summary(cancer: pd.DataFrame, thresholds: np.ndarray) -> tup
         rows.append(
             {
                 "threshold": float(threshold),
-                "is_main_threshold": bool(np.isclose(threshold, 0.65)),
+                "is_main_threshold": bool(np.isclose(threshold, 0.50)),
+                "is_default_operating_point": bool(np.isclose(threshold, 0.50)),
                 "n_cancer_tiles": int(selected.sum()),
                 "cancer_tile_fraction": float(selected.mean()),
                 "mean_epithelial_tumor": float(sub["epithelial_tumor"].mean()) if len(sub) else 0.0,
@@ -570,7 +569,7 @@ def build_supp_fig3_cancer_threshold_sensitivity() -> None:
     cancer = read_csv(ANALYSIS_DATA / "he_cancer_proxy_and_tumor_immune_tiles.csv")
     thumb = np.load(require_path(ANALYSIS_DATA / "visium_hd_he_thumbnail_stride32.npy"))
     page = json.loads(require_path(ANALYSIS_DATA / "visium_hd_he_page_info.json").read_text())
-    thresholds = np.round(np.arange(0.50, 0.81, 0.05), 2)
+    thresholds = np.round(np.arange(0.40, 0.81, 0.05), 2)
     summary, jaccard = build_threshold_summary(cancer, thresholds)
     summary.to_csv(TAB / "supp_fig3_threshold_sensitivity_summary.csv", index=False)
     jaccard.to_csv(TAB / "supp_fig3_threshold_jaccard.csv")
@@ -580,7 +579,7 @@ def build_supp_fig3_cancer_threshold_sensitivity() -> None:
 
     ax = fig.add_subplot(gs[0, 0])
     ax.plot(summary["threshold"], summary["cancer_tile_fraction"], marker="o", color="#d73027", linewidth=2.4, markersize=7)
-    ax.axvline(0.65, color="black", linestyle="--", linewidth=1.6, label="main threshold")
+    ax.axvline(0.50, color="black", linestyle="--", linewidth=1.6, label="default operating point")
     ax.set_xlabel("H&E cancer proxy threshold")
     ax.set_ylabel("Cancer-enriched tile fraction")
     ax.set_title("Selected tile fraction")
@@ -592,7 +591,7 @@ def build_supp_fig3_cancer_threshold_sensitivity() -> None:
     ax.plot(summary["threshold"], summary["mean_epithelial_tumor"], marker="o", label="epithelial tumor", color="#d73027", linewidth=2.4, markersize=7)
     ax.plot(summary["threshold"], summary["mean_immune"], marker="o", label="immune", color="#2C7FB8", linewidth=2.4, markersize=7)
     ax.plot(summary["threshold"], summary["tumor_immune_overlap_fraction"], marker="o", label="tumor+immune high", color="#4d4d4d", linewidth=2.4, markersize=7)
-    ax.axvline(0.65, color="black", linestyle="--", linewidth=1.6, label="main threshold")
+    ax.axvline(0.50, color="black", linestyle="--", linewidth=1.6, label="default operating point")
     ax.set_xlabel("H&E cancer proxy threshold")
     ax.set_ylabel("Mean proxy score or overlap fraction")
     ax.set_title("Tumor and immune enrichment")
@@ -613,7 +612,7 @@ def build_supp_fig3_cancer_threshold_sensitivity() -> None:
     cb.set_label("Jaccard index")
     style_colorbar(cb)
 
-    for i, threshold in enumerate([0.60, 0.65, 0.70]):
+    for i, threshold in enumerate([0.40, 0.50, 0.60]):
         ax = fig.add_subplot(gs[2, i])
         spatial_threshold_map(ax, cancer, threshold, thumb, page)
         if i == 0:
@@ -954,13 +953,13 @@ def build_supp_fig3_panel_outputs(panel: str | None = None, figsize: tuple[float
     cancer = read_csv(ANALYSIS_DATA / "he_cancer_proxy_and_tumor_immune_tiles.csv")
     thumb = np.load(require_path(ANALYSIS_DATA / "visium_hd_he_thumbnail_stride32.npy"))
     page = json.loads(require_path(ANALYSIS_DATA / "visium_hd_he_page_info.json").read_text())
-    thresholds = np.round(np.arange(0.50, 0.81, 0.05), 2)
+    thresholds = np.round(np.arange(0.40, 0.81, 0.05), 2)
     summary, jaccard = build_threshold_summary(cancer, thresholds)
 
     if requested_panel(panel, "A"):
         fig, ax = plt.subplots(figsize=resolve_panel_figsize(SUPP_FIG3_PANEL_FIGSIZES, "A", figsize))
         ax.plot(summary["threshold"], summary["cancer_tile_fraction"], marker="o", color="#d73027", linewidth=2.4, markersize=7)
-        ax.axvline(0.65, color="black", linestyle="--", linewidth=1.6, label="main threshold")
+        ax.axvline(0.50, color="black", linestyle="--", linewidth=1.6, label="default operating point")
         ax.set_xlabel("H&E cancer proxy threshold")
         ax.set_ylabel("Cancer-enriched tile fraction")
         ax.set_title("Selected tile fraction")
@@ -974,7 +973,7 @@ def build_supp_fig3_panel_outputs(panel: str | None = None, figsize: tuple[float
         ax.plot(summary["threshold"], summary["mean_epithelial_tumor"], marker="o", label="epithelial tumor", color="#d73027", linewidth=2.4, markersize=7)
         ax.plot(summary["threshold"], summary["mean_immune"], marker="o", label="immune", color="#2C7FB8", linewidth=2.4, markersize=7)
         ax.plot(summary["threshold"], summary["tumor_immune_overlap_fraction"], marker="o", label="tumor+immune high", color="#4d4d4d", linewidth=2.4, markersize=7)
-        ax.axvline(0.65, color="black", linestyle="--", linewidth=1.6, label="main threshold")
+        ax.axvline(0.50, color="black", linestyle="--", linewidth=1.6, label="default operating point")
         ax.set_xlabel("H&E cancer proxy threshold")
         ax.set_ylabel("Mean proxy score or overlap fraction")
         ax.set_title("Tumor and immune enrichment")
@@ -1001,7 +1000,7 @@ def build_supp_fig3_panel_outputs(panel: str | None = None, figsize: tuple[float
     if requested_panel(panel, "D"):
         fig = plt.figure(figsize=resolve_panel_figsize(SUPP_FIG3_PANEL_FIGSIZES, "D", figsize))
         gs = fig.add_gridspec(1, 3, wspace=0.18)
-        for i, threshold in enumerate([0.60, 0.65, 0.70]):
+        for i, threshold in enumerate([0.40, 0.50, 0.60]):
             ax = fig.add_subplot(gs[0, i])
             spatial_threshold_map(ax, cancer, threshold, thumb, page)
             if i == 0:
@@ -1154,11 +1153,10 @@ def setup_matplotlib() -> None:
 def build_notebook_payload(title: str, function_name: str, panel_function_name: str, figure_key: str) -> dict:
     if figure_key in {"supp_fig3_cancer_threshold_sensitivity", "supp_fig4_luad_region_quantification"}:
         return build_panelized_notebook_payload(title, function_name, panel_function_name, figure_key)
-    code = f'''import os
-from pathlib import Path
+    code = f'''from pathlib import Path
 import sys
 
-ROOT = Path(os.environ.get("OMICOS_SOURCE_ROOT", Path.cwd().parent)).expanduser().resolve()
+ROOT = Path("/data/hulei/OmicOS")
 SCRIPT_DIR = ROOT / "OmicOS_9" / "scripts"
 if str(SCRIPT_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPT_DIR))
@@ -1233,11 +1231,10 @@ def build_panelized_notebook_payload(title: str, function_name: str, panel_funct
     else:
         raise ValueError(figure_key)
 
-    init_code = f'''import os
-from pathlib import Path
+    init_code = f'''from pathlib import Path
 import sys
 
-ROOT = Path(os.environ.get("OMICOS_SOURCE_ROOT", Path.cwd().parent)).expanduser().resolve()
+ROOT = Path("/data/hulei/OmicOS")
 SCRIPT_DIR = ROOT / "OmicOS_9" / "scripts"
 if str(SCRIPT_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPT_DIR))
@@ -1335,7 +1332,7 @@ def write_figure_legends() -> None:
 (A) Gene-level calibration between predicted and measured Visium expression z scores, following the OmicOS_7 non-H&E analysis panel c input. (B) Domain-level predicted marker versus Visium marker concordance. (C) Visium HD marker validation across morphology domains, reusing the validation concept from OmicOS_5 main figure panel j.
 
 **Supplementary Fig. 3. H&E cancer-enriched region threshold sensitivity.**
-Cancer-enriched tiles were recalculated across H&E cancer proxy thresholds from 0.50 to 0.80. The main figure threshold is 0.65 and is marked by a dashed line in panels A-B. Spatial maps compare thresholds 0.60, 0.65, and 0.70, and the heatmap reports Jaccard similarity across threshold-defined tile sets.
+Cancer-enriched tiles were recalculated across H&E cancer proxy thresholds from 0.40 to 0.80. The main/default operating point is 0.50 and is marked by a dashed line in panels A-B. Spatial maps compare thresholds 0.40, 0.50, and 0.60, and the heatmap reports Jaccard similarity across threshold-defined tile sets.
 
 **Supplementary Fig. 4. LUAD matched-slide risk-region quantification.**
 (A) Region composition for the four matched LUAD slides. (B) Fractions of Mixed C5 high-risk enriched and Shared C6 low-risk enriched regions per slide. (C) Morphology proxy score differences between Mixed C5 and Shared C6 regions. Positive values indicate higher proxy scores in Mixed C5, and negative values indicate higher proxy scores in Shared C6. Differences between Mixed C5 and Shared C6 proxy-score distributions were tested with a two-sided Mann-Whitney U test, with Benjamini-Hochberg FDR reported in `supp_fig4_luad_region_proxy_tests.csv`.

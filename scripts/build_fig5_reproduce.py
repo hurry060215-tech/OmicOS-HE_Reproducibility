@@ -1068,8 +1068,14 @@ def build_notebook() -> None:
 
             validate_columns(g32, ["tile_id", "center_x", "center_y", "smoothed_domain", "refined_predicted_domain", "umap1", "umap2", *MARKER_GROUPS], "visium_hd_tile_features_minimal")
             validate_columns(st_umap, ["tile_id", "st_umap1", "st_umap2"], "visium_hd_st_umap_minimal")
-            validate_columns(cancer, ["tile_id", "center_x", "center_y", "he_cancer_region_proxy", "epithelial_tumor", "immune"], "he_cancer_proxy_and_tumor_immune_tiles")
+            validate_columns(cancer, ["tile_id", "center_x", "center_y", "he_cancer_region_proxy_score", "he_cancer_region_proxy", "epithelial_tumor", "immune"], "he_cancer_proxy_and_tumor_immune_tiles")
             validate_columns(luad, ["patient_id", "risk_group", "region_label", "umap_1", "umap_2", "tile_center_x", "tile_center_y"], "luad_matched_tile_features_minimal")
+
+            cancer["he_cancer_region_proxy_t050"] = cancer["he_cancer_region_proxy_score"].astype(float).ge(0.50)
+            n_t050 = int(cancer["he_cancer_region_proxy_t050"].sum())
+            if n_t050 == 0:
+                raise ValueError("Fig. 5f threshold 0.50 selected zero H&E cancer-enriched tiles")
+            print(f"Fig. 5f uses he_cancer_region_proxy_score >= 0.50: {n_t050}/{len(cancer)} tiles")
 
             g32 = g32.merge(st_umap[["tile_id", "st_umap1", "st_umap2"]], on="tile_id", how="left", validate="one_to_one")
             missing_st = int(g32[["st_umap1", "st_umap2"]].isna().any(axis=1).sum())
@@ -1113,7 +1119,7 @@ def build_notebook() -> None:
             """
             fig, ax = plt.subplots(figsize=(8.8, 6.6))
             panel_label(ax, "f")
-            spatial_binary(ax, cancer, "he_cancer_region_proxy", "H&E cancer-enriched region", size=4.0)
+            spatial_binary(ax, cancer, "he_cancer_region_proxy_t050", "H&E cancer-enriched region", size=4.0)
             save_panel(fig, "f", "he_cancer_enriched_region")
             """
         ),

@@ -148,7 +148,7 @@ def write_manifest() -> None:
             'a': 'Selected tumor-enriched tile fraction across H&E cancer proxy thresholds',
             'b': 'Tumor and immune enrichment across H&E cancer proxy thresholds',
             'c': 'Threshold-set Jaccard similarity',
-            'd': 'Spatial maps of tumor-enriched tiles at thresholds 0.60, 0.65, and 0.70',
+            'd': 'Spatial maps of tumor-enriched tiles at thresholds 0.40, 0.50, and 0.60',
             'e': 'Morphology-domain tile counts and marker heatmap',
             'f': 'Gene mean and variance measured-vs-predicted correlation',
             'g': 'High/low-risk enriched region tile fractions by LUAD slide',
@@ -377,7 +377,7 @@ def create_notebook() -> None:
         summary = pd.read_csv(DATA / 'threshold_sensitivity' / 'tables' / 'supp_fig3_threshold_sensitivity_summary.csv')
         fig, ax = plt.subplots(figsize=(6, 6))
         ax.plot(summary['threshold'], summary['cancer_tile_fraction'], marker='o', color='#d73027', linewidth=2.4, markersize=7)
-        ax.axvline(0.65, color='black', linestyle='--', linewidth=1.6, label='Main threshold')
+        ax.axvline(0.50, color='black', linestyle='--', linewidth=1.6, label='Default operating point')
         ax.set_xlabel('H&E cancer proxy threshold')
         ax.set_ylabel('Cancer-enriched tile fraction')
         ax.set_title('Selected tile fraction')
@@ -392,7 +392,7 @@ def create_notebook() -> None:
         ax.plot(summary['threshold'], summary['mean_epithelial_tumor'], marker='o', label='Epithelial tumor', color='#d73027', linewidth=2.4, markersize=7)
         ax.plot(summary['threshold'], summary['mean_immune'], marker='o', label='Immune', color='#2C7FB8', linewidth=2.4, markersize=7)
         ax.plot(summary['threshold'], summary['tumor_immune_overlap_fraction'], marker='o', label='Tumor+immune high', color='#4d4d4d', linewidth=2.4, markersize=7)
-        ax.axvline(0.65, color='black', linestyle='--', linewidth=1.6, label='Main threshold')
+        ax.axvline(0.50, color='black', linestyle='--', linewidth=1.6, label='Default operating point')
         ax.set_xlabel('H&E cancer proxy threshold')
         ax.set_ylabel('Mean proxy score or overlap fraction')
         ax.set_title('Tumor and immune enrichment')
@@ -423,7 +423,7 @@ def create_notebook() -> None:
         page = json.loads(require_path(DATA / 'threshold_sensitivity' / 'inputs' / 'visium_hd_he_page_info.json').read_text())
         fig = plt.figure(figsize=(14.2, 4.8))
         gs = fig.add_gridspec(1, 3, wspace=0.18)
-        for i, threshold in enumerate([0.60, 0.65, 0.70]):
+        for i, threshold in enumerate([0.40, 0.50, 0.60]):
             ax = fig.add_subplot(gs[0, i])
             spatial_threshold_map(ax, cancer, threshold, thumb, page)
         handles = [Line2D([0], [0], marker='o', color='none', markerfacecolor='#d73027', markeredgecolor='black', markersize=10, label='Tumor-enriched tiles')]

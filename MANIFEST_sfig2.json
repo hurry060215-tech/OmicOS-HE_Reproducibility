@@ -137,8 +137,8 @@
     },
     {
       "path": "data/sfig2/source_notebooks/supp_fig3_cancer_threshold_sensitivity.ipynb",
-      "size_bytes": 7557917,
-      "sha256": "f8d916330485015a93b4c77a3a75553e2fa11cbeab25f328fd4b97d630f4f0ab"
+      "size_bytes": 8185552,
+      "sha256": "8591123d23860fc0a5c140a31b41dd47a363bcd9fc0b68447318e7358c86b909"
     },
     {
       "path": "data/sfig2/source_notebooks/supp_fig4_luad_region_quantification.ipynb",
@@ -162,63 +162,63 @@
     },
     {
       "path": "data/sfig2/threshold_sensitivity/source_panels/supp_fig3_A_selected_tile_fraction.pdf",
-      "size_bytes": 20090,
-      "sha256": "4b6b7cb6d9d81d61416c054bdce70184a561548565dea0ad423b76c0a84e966b"
+      "size_bytes": 12707,
+      "sha256": "86a94ef7f12d797cd54c796a99eccc8663d0a37d99ee8b2f78718f7f46c90f47"
     },
     {
       "path": "data/sfig2/threshold_sensitivity/source_panels/supp_fig3_A_selected_tile_fraction.png",
-      "size_bytes": 154243,
-      "sha256": "48682e982e9786a46956fbd3c5aae55d93978be3c07c784d322ba06488c7dff1"
+      "size_bytes": 195577,
+      "sha256": "7f9ff3ef4aff10691817215b471da7b3d6e4020da0b033a43b46d1095a2ad3b9"
     },
     {
       "path": "data/sfig2/threshold_sensitivity/source_panels/supp_fig3_B_tumor_immune_enrichment.pdf",
-      "size_bytes": 22176,
-      "sha256": "efdd725780ed69a775a259e9d1e50c47a07a1ddb604682a1b7d5042e0637a65b"
+      "size_bytes": 14181,
+      "sha256": "bba691b1d6cf73098ed6d7d231230b27469f41396cc27d1a89345b0da196f9e0"
     },
     {
       "path": "data/sfig2/threshold_sensitivity/source_panels/supp_fig3_B_tumor_immune_enrichment.png",
-      "size_bytes": 232306,
-      "sha256": "f2d692b60b997c1dfe9a9fafac967f2179c65ed58cd8f0a2ff360e1491094f44"
+      "size_bytes": 282277,
+      "sha256": "a6be1e403cea08a85fc3e7027a9c0e7241133cb4a040855faa0071b962828213"
     },
     {
       "path": "data/sfig2/threshold_sensitivity/source_panels/supp_fig3_C_threshold_jaccard.pdf",
-      "size_bytes": 22594,
-      "sha256": "fcb487d2aaf7f04df8589f2c6b1d052e5ccf5ac74b34bfc4be652e034e9f93c0"
+      "size_bytes": 14005,
+      "sha256": "02663d29e84c1df63aa0a5d70defe62b0145508a5f29f01b48c600f28ff876d3"
     },
     {
       "path": "data/sfig2/threshold_sensitivity/source_panels/supp_fig3_C_threshold_jaccard.png",
-      "size_bytes": 143260,
-      "sha256": "92a5eddac2dc1e63d4d62aa91610353d6e3f3594bcfc4e3d77606c9aeb7b9250"
+      "size_bytes": 159320,
+      "sha256": "75709b28439648c3ee23232f68686a45281cc43096eed1ca053b2924fca8b1d8"
     },
     {
       "path": "data/sfig2/threshold_sensitivity/source_panels/supp_fig3_D_threshold_maps.pdf",
-      "size_bytes": 2604758,
-      "sha256": "fbe9eaf5fa8eb5e236f7d439da8b33f52832893643e37875662eda44a81a917d"
+      "size_bytes": 418293,
+      "sha256": "d590dbc1e065dfbce7b4b0a854dfeb27b9b90e1108fc7f44f448203bc9769843"
     },
     {
       "path": "data/sfig2/threshold_sensitivity/source_panels/supp_fig3_D_threshold_maps.png",
-      "size_bytes": 5102361,
-      "sha256": "5f4ad61a54e8bb698112c22ef3fa381cbe196b7eac2a5e71285ccc2d66a74896"
+      "size_bytes": 1764778,
+      "sha256": "c6124198d9e59ff7a59b3c181d6b0fde8345aeff5afc0b8fcc47db23f242c9cc"
     },
     {
       "path": "data/sfig2/threshold_sensitivity/tables/supp_fig3_threshold_jaccard.csv",
-      "size_bytes": 901,
-      "sha256": "54ddd0f47b62edc9723c7cac841db212986bcecf8f0a3daf9571648fa9a210de"
+      "size_bytes": 1509,
+      "sha256": "b01627b64a207c01917e93f91ecac93d522d57016b7e5cd8fafe1ddef0ce70e6"
     },
     {
       "path": "data/sfig2/threshold_sensitivity/tables/supp_fig3_threshold_sensitivity_summary.csv",
-      "size_bytes": 772,
-      "sha256": "63c057d37006292b3ff910edebaeb2137180d39de3b47251bb0f19e3a3eae9c6"
+      "size_bytes": 1035,
+      "sha256": "4df28a9fe14794fb659341d0061782b3cca9fa9384a596ff4943f7c5030e4cec"
     },
     {
       "path": "scripts/sfig2/__pycache__/build_fig5_supplementary_2_reproduce.cpython-311.pyc",
-      "size_bytes": 37330,
-      "sha256": "2218635e530ad70de5379b9036c4c2c057432e10c4b3b3537807a6e0c8eb9fe7"
+      "size_bytes": 37361,
+      "sha256": "fe4d18e5ba5a3db978604e36d86c2e2800717ae7756cfff4bd280575edc0c9a8"
     },
     {
       "path": "scripts/sfig2/build_fig5_supplementary_2_reproduce.py",
-      "size_bytes": 32442,
-      "sha256": "8195cdcb5313ba5a0fe8cfdfba8c9dcd6dcdb5fa6db90484cd66e8e91ead0496"
+      "size_bytes": 32376,
+      "sha256": "4d3c23cdf4f59f34d41fed8ccb00c29f7c1642cd121366b47c4dce8573c8d089"
     },
     {
       "path": "scripts/sfig2/build_non_he_analyses.py",
@@ -227,8 +227,8 @@
     },
     {
       "path": "scripts/sfig2/build_supplementary_figures.py",
-      "size_bytes": 58489,
-      "sha256": "9f9d2475dbd3dd9115131a7337588fb844725b55cd58bab69c7e89ff3fddf73f"
+      "size_bytes": 58613,
+      "sha256": "5326cf7fd4cccd2fc3622858759478efa5ff84377f40b2d26841a38e09c5371f"
     },
     {
       "path": "scripts/sfig2/plot_full_data_c_panel.py",
@@ -237,48 +237,48 @@
     },
     {
       "path": "outputs/sfig2_panels/sfig2_A_selected_tile_fraction.pdf",
-      "size_bytes": 20461,
-      "sha256": "ab71bab04628c949bd49eba49d2b9f779afa3656d26031047e238c25d79b39ed"
+      "size_bytes": 21421,
+      "sha256": "8e0208c212a1f2bc70c7aafcc985e78f0902e6d0356a010f8715f919f344ee8c"
     },
     {
       "path": "outputs/sfig2_panels/sfig2_A_selected_tile_fraction.png",
-      "size_bytes": 188304,
-      "sha256": "813fd8a5300be4db3fbca19dab60c52e03dcb02366b8b98a0bc36f937cd10948"
+      "size_bytes": 189124,
+      "sha256": "8d18be403ad98f4b7ce6a5bafe22189174bee8956b4bf88f93a74568411ec3f2"
     },
     {
       "path": "outputs/sfig2_panels/sfig2_B_tumor_immune_enrichment.pdf",
-      "size_bytes": 22346,
-      "sha256": "255f7980e60512a949ebceed500a23adbb0ff1073af8f9cd9537ae91d19cd4e1"
+      "size_bytes": 23031,
+      "sha256": "0aa07415bf859b31edb5d296a96799a843744b358d3ae986b040bcc57733ace5"
     },
     {
       "path": "outputs/sfig2_panels/sfig2_B_tumor_immune_enrichment.png",
-      "size_bytes": 243121,
-      "sha256": "7a7cc0cef9267f6c32635da658f653b633d21ae121f8d67e9040cfb4c6856a33"
+      "size_bytes": 266840,
+      "sha256": "1a01b774058b806c0211b1ee23ff2d86cb616126a6cd4a57c6ae017e7b23fe88"
     },
     {
       "path": "outputs/sfig2_panels/sfig2_C_threshold_jaccard.pdf",
-      "size_bytes": 43682,
-      "sha256": "b7dae29ea14e023126c8ea3ba0fbdf911ea5b38f8cfc4fb31d2e1e09e79aed81"
+      "size_bytes": 47817,
+      "sha256": "2adafb43bb239f1256c9939374601be332082741ce59ce9875619b54395a39a8"
     },
     {
       "path": "outputs/sfig2_panels/sfig2_C_threshold_jaccard.png",
-      "size_bytes": 136209,
-      "sha256": "7e1878d10b08b17fa845504ca055dd346ce0d7b61a148e8c9e9fdc9ed8ff471b"
+      "size_bytes": 144748,
+      "sha256": "d403f0ae37ade6887bec100539f53e094225fed9ea068da34ce2864f4fa289d3"
     },
     {
       "path": "outputs/sfig2_panels/sfig2_D_threshold_spatial_maps.pdf",
-      "size_bytes": 4740737,
-      "sha256": "d0487929587001d8417d036cdee902845b557febd53476bf55e376aae3e60cdc"
+      "size_bytes": 4821572,
+      "sha256": "31d659e0fa458dcc1e5aea4b2ec292e6c87e6c503555c374498866446591819e"
     },
     {
       "path": "outputs/sfig2_panels/sfig2_D_threshold_spatial_maps.png",
-      "size_bytes": 2504919,
-      "sha256": "90f1c0d2b615b412f4479fa7b54d68d8720f7003a17e101cb5355580bf7970b6"
+      "size_bytes": 2638247,
+      "sha256": "77efb9bfdf23b4b5621a9c7a60717bf3db7c3b24128019b3c92a2e1a6ad9b7d7"
     },
     {
       "path": "outputs/sfig2_panels/sfig2_E_domain_marker_heatmap.pdf",
       "size_bytes": 55447,
-      "sha256": "93da616ebcd652f4f9bfe5ec1dd85868c3de7d735fd36d63974950f0a64824c7"
+      "sha256": "3e57a05a160b42f4548d138793232238885fe225cfb5c3af7922784faacfb2ff"
     },
     {
       "path": "outputs/sfig2_panels/sfig2_E_domain_marker_heatmap.png",
@@ -288,7 +288,7 @@
     {
       "path": "outputs/sfig2_panels/sfig2_F_gene_mean_variance_correlation.pdf",
       "size_bytes": 388732,
-      "sha256": "d803c087fe369532a6ea21aaa836370fe5e521d847d148fbabb44db6309987d4"
+      "sha256": "258edf0668c08a2d0e74e0ead2178195eadc51bf284e787bcbd4709e2484dfb0"
     },
     {
       "path": "outputs/sfig2_panels/sfig2_F_gene_mean_variance_correlation.png",
@@ -298,7 +298,7 @@
     {
       "path": "outputs/sfig2_panels/sfig2_G_luad_risk_region_fractions.pdf",
       "size_bytes": 21622,
-      "sha256": "5da52e105af0810588269f60d974a91062cbee9416ff8e65fff7f37943788f77"
+      "sha256": "12be45a38f4416fec75bf2e49dc72f882c42446ee5497dc060dc0b5654220f9d"
     },
     {
       "path": "outputs/sfig2_panels/sfig2_G_luad_risk_region_fractions.png",
@@ -308,7 +308,7 @@
     {
       "path": "outputs/sfig2_panels/sfig2_H_luad_proxy_differences.pdf",
       "size_bytes": 21619,
-      "sha256": "b12d77de1bd2f1e9202a6aebf2bc7ba3cf0a3cb8c8b303a83d97350dc5219592"
+      "sha256": "b5673438efd7b182d437dccc724e45f694cb0c844dfb584a00e8ee0dfbff3be9"
     },
     {
       "path": "outputs/sfig2_panels/sfig2_H_luad_proxy_differences.png",
@@ -332,13 +332,13 @@
     },
     {
       "path": "outputs/sfig2_tables/supp_fig3_threshold_jaccard.csv",
-      "size_bytes": 901,
-      "sha256": "54ddd0f47b62edc9723c7cac841db212986bcecf8f0a3daf9571648fa9a210de"
+      "size_bytes": 1509,
+      "sha256": "b01627b64a207c01917e93f91ecac93d522d57016b7e5cd8fafe1ddef0ce70e6"
     },
     {
       "path": "outputs/sfig2_tables/supp_fig3_threshold_sensitivity_summary.csv",
-      "size_bytes": 772,
-      "sha256": "63c057d37006292b3ff910edebaeb2137180d39de3b47251bb0f19e3a3eae9c6"
+      "size_bytes": 1035,
+      "sha256": "4df28a9fe14794fb659341d0061782b3cca9fa9384a596ff4943f7c5030e4cec"
     },
     {
       "path": "outputs/sfig2_tables/supp_fig4_luad_patient_region_proxy_means.csv",
